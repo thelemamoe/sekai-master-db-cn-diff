@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 5687,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5688,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 100,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5689,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 150,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5690,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 200,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5691,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 250,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5692,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 300,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5693,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 350,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5694,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 400,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5695,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 450,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5696,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 500,
+    "rewards": [
+      {
+        "resourceBoxId": 452
+      }
+    ]
+  },
+  {
+    "id": 5697,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 550,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5698,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 600,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5699,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 650,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5700,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 700,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5701,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 750,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5702,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 800,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5703,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 850,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5704,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 900,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5705,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 950,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5706,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "resourceBoxId": 451
+      }
+    ]
+  },
+  {
+    "id": 5707,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1050,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5708,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5709,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1150,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5710,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5711,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1250,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5712,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5713,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1350,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5714,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5715,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1450,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5716,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "resourceBoxId": 453
+      }
+    ]
+  },
+  {
+    "id": 5717,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1550,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5718,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5719,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1650,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5720,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5721,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1750,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5722,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5723,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1850,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5724,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5725,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 1950,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5726,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "resourceBoxId": 454
+      }
+    ]
+  },
+  {
+    "id": 5727,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2050,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5728,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5729,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2150,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5730,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5731,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2250,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5732,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5733,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2350,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5734,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5735,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2450,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5736,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "resourceBoxId": 455
+      }
+    ]
+  },
+  {
+    "id": 5737,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2550,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5738,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5739,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2650,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5740,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5741,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2750,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5742,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5743,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2850,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5744,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5745,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 2950,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5746,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "resourceBoxId": 456
+      }
+    ]
+  },
+  {
+    "id": 5747,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3050,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5748,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5749,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3150,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5750,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5751,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3250,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5752,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5753,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3350,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5754,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5755,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3450,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5756,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "resourceBoxId": 457
+      }
+    ]
+  },
+  {
+    "id": 5757,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3550,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5758,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5759,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3650,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5760,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5761,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3750,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5762,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5763,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3850,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5764,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5765,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 3950,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5766,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "resourceBoxId": 458
+      }
+    ]
+  },
+  {
+    "id": 5767,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4050,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5768,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5769,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4150,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5770,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5771,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4250,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5772,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5773,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4350,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5774,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5775,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4450,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5776,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "resourceBoxId": 459
+      }
+    ]
+  },
+  {
+    "id": 5777,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4550,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5778,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5779,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4650,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5780,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5781,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4750,
+    "rewards": [
+      {
+        "resourceBoxId": 449
+      }
+    ]
+  },
+  {
+    "id": 5782,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5783,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4850,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5784,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5785,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 4950,
+    "rewards": [
+      {
+        "resourceBoxId": 450
+      }
+    ]
+  },
+  {
+    "id": 5786,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "free",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "resourceBoxId": 460
+      }
+    ]
+  },
+  {
+    "id": 5787,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 1480
+      }
+    ]
+  },
+  {
+    "id": 5788,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 100,
+    "rewards": [
+      {
+        "resourceBoxId": 600100
+      }
+    ]
+  },
+  {
+    "id": 5789,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 150,
+    "rewards": [
+      {
+        "resourceBoxId": 600101
+      }
+    ]
+  },
+  {
+    "id": 5790,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 200,
+    "rewards": [
+      {
+        "resourceBoxId": 600102
+      }
+    ]
+  },
+  {
+    "id": 5791,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 250,
+    "rewards": [
+      {
+        "resourceBoxId": 600103
+      }
+    ]
+  },
+  {
+    "id": 5792,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 300,
+    "rewards": [
+      {
+        "resourceBoxId": 600104
+      }
+    ]
+  },
+  {
+    "id": 5793,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 350,
+    "rewards": [
+      {
+        "resourceBoxId": 600105
+      }
+    ]
+  },
+  {
+    "id": 5794,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 400,
+    "rewards": [
+      {
+        "resourceBoxId": 600106
+      }
+    ]
+  },
+  {
+    "id": 5795,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 450,
+    "rewards": [
+      {
+        "resourceBoxId": 600107
+      }
+    ]
+  },
+  {
+    "id": 5796,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 500,
+    "rewards": [
+      {
+        "resourceBoxId": 600108
+      }
+    ]
+  },
+  {
+    "id": 5797,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 550,
+    "rewards": [
+      {
+        "resourceBoxId": 600109
+      }
+    ]
+  },
+  {
+    "id": 5798,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 600,
+    "rewards": [
+      {
+        "resourceBoxId": 600110
+      }
+    ]
+  },
+  {
+    "id": 5799,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 650,
+    "rewards": [
+      {
+        "resourceBoxId": 600111
+      }
+    ]
+  },
+  {
+    "id": 5800,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 700,
+    "rewards": [
+      {
+        "resourceBoxId": 600112
+      }
+    ]
+  },
+  {
+    "id": 5801,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 750,
+    "rewards": [
+      {
+        "resourceBoxId": 600113
+      }
+    ]
+  },
+  {
+    "id": 5802,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 800,
+    "rewards": [
+      {
+        "resourceBoxId": 600114
+      }
+    ]
+  },
+  {
+    "id": 5803,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 850,
+    "rewards": [
+      {
+        "resourceBoxId": 600115
+      }
+    ]
+  },
+  {
+    "id": 5804,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 900,
+    "rewards": [
+      {
+        "resourceBoxId": 600116
+      }
+    ]
+  },
+  {
+    "id": 5805,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 950,
+    "rewards": [
+      {
+        "resourceBoxId": 600117
+      }
+    ]
+  },
+  {
+    "id": 5806,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "resourceBoxId": 600118
+      }
+    ]
+  },
+  {
+    "id": 5807,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1050,
+    "rewards": [
+      {
+        "resourceBoxId": 600119
+      }
+    ]
+  },
+  {
+    "id": 5808,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "resourceBoxId": 600120
+      }
+    ]
+  },
+  {
+    "id": 5809,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1150,
+    "rewards": [
+      {
+        "resourceBoxId": 600121
+      }
+    ]
+  },
+  {
+    "id": 5810,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "resourceBoxId": 600122
+      }
+    ]
+  },
+  {
+    "id": 5811,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1250,
+    "rewards": [
+      {
+        "resourceBoxId": 600123
+      }
+    ]
+  },
+  {
+    "id": 5812,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "resourceBoxId": 600124
+      }
+    ]
+  },
+  {
+    "id": 5813,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1350,
+    "rewards": [
+      {
+        "resourceBoxId": 600125
+      }
+    ]
+  },
+  {
+    "id": 5814,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "resourceBoxId": 600126
+      }
+    ]
+  },
+  {
+    "id": 5815,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1450,
+    "rewards": [
+      {
+        "resourceBoxId": 600127
+      }
+    ]
+  },
+  {
+    "id": 5816,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "resourceBoxId": 600128
+      }
+    ]
+  },
+  {
+    "id": 5817,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1550,
+    "rewards": [
+      {
+        "resourceBoxId": 600129
+      }
+    ]
+  },
+  {
+    "id": 5818,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "resourceBoxId": 600130
+      }
+    ]
+  },
+  {
+    "id": 5819,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1650,
+    "rewards": [
+      {
+        "resourceBoxId": 600131
+      }
+    ]
+  },
+  {
+    "id": 5820,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "resourceBoxId": 600132
+      }
+    ]
+  },
+  {
+    "id": 5821,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1750,
+    "rewards": [
+      {
+        "resourceBoxId": 600133
+      }
+    ]
+  },
+  {
+    "id": 5822,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "resourceBoxId": 600134
+      }
+    ]
+  },
+  {
+    "id": 5823,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1850,
+    "rewards": [
+      {
+        "resourceBoxId": 600135
+      }
+    ]
+  },
+  {
+    "id": 5824,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "resourceBoxId": 600136
+      }
+    ]
+  },
+  {
+    "id": 5825,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 1950,
+    "rewards": [
+      {
+        "resourceBoxId": 600137
+      }
+    ]
+  },
+  {
+    "id": 5826,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "resourceBoxId": 600138
+      }
+    ]
+  },
+  {
+    "id": 5827,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2050,
+    "rewards": [
+      {
+        "resourceBoxId": 600139
+      }
+    ]
+  },
+  {
+    "id": 5828,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "resourceBoxId": 600140
+      }
+    ]
+  },
+  {
+    "id": 5829,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2150,
+    "rewards": [
+      {
+        "resourceBoxId": 600141
+      }
+    ]
+  },
+  {
+    "id": 5830,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "resourceBoxId": 600142
+      }
+    ]
+  },
+  {
+    "id": 5831,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2250,
+    "rewards": [
+      {
+        "resourceBoxId": 600143
+      }
+    ]
+  },
+  {
+    "id": 5832,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "resourceBoxId": 600144
+      }
+    ]
+  },
+  {
+    "id": 5833,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2350,
+    "rewards": [
+      {
+        "resourceBoxId": 600145
+      }
+    ]
+  },
+  {
+    "id": 5834,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "resourceBoxId": 600146
+      }
+    ]
+  },
+  {
+    "id": 5835,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2450,
+    "rewards": [
+      {
+        "resourceBoxId": 600147
+      }
+    ]
+  },
+  {
+    "id": 5836,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "resourceBoxId": 1481
+      }
+    ]
+  },
+  {
+    "id": 5837,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2550,
+    "rewards": [
+      {
+        "resourceBoxId": 600148
+      }
+    ]
+  },
+  {
+    "id": 5838,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "resourceBoxId": 600149
+      }
+    ]
+  },
+  {
+    "id": 5839,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2650,
+    "rewards": [
+      {
+        "resourceBoxId": 600150
+      }
+    ]
+  },
+  {
+    "id": 5840,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "resourceBoxId": 600151
+      }
+    ]
+  },
+  {
+    "id": 5841,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2750,
+    "rewards": [
+      {
+        "resourceBoxId": 600152
+      }
+    ]
+  },
+  {
+    "id": 5842,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "resourceBoxId": 600153
+      }
+    ]
+  },
+  {
+    "id": 5843,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2850,
+    "rewards": [
+      {
+        "resourceBoxId": 600154
+      }
+    ]
+  },
+  {
+    "id": 5844,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "resourceBoxId": 600155
+      }
+    ]
+  },
+  {
+    "id": 5845,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 2950,
+    "rewards": [
+      {
+        "resourceBoxId": 600156
+      }
+    ]
+  },
+  {
+    "id": 5846,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "resourceBoxId": 600157
+      }
+    ]
+  },
+  {
+    "id": 5847,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3050,
+    "rewards": [
+      {
+        "resourceBoxId": 600158
+      }
+    ]
+  },
+  {
+    "id": 5848,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "resourceBoxId": 600159
+      }
+    ]
+  },
+  {
+    "id": 5849,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3150,
+    "rewards": [
+      {
+        "resourceBoxId": 600160
+      }
+    ]
+  },
+  {
+    "id": 5850,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "resourceBoxId": 600161
+      }
+    ]
+  },
+  {
+    "id": 5851,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3250,
+    "rewards": [
+      {
+        "resourceBoxId": 600162
+      }
+    ]
+  },
+  {
+    "id": 5852,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "resourceBoxId": 600163
+      }
+    ]
+  },
+  {
+    "id": 5853,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3350,
+    "rewards": [
+      {
+        "resourceBoxId": 600164
+      }
+    ]
+  },
+  {
+    "id": 5854,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "resourceBoxId": 600165
+      }
+    ]
+  },
+  {
+    "id": 5855,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3450,
+    "rewards": [
+      {
+        "resourceBoxId": 600166
+      }
+    ]
+  },
+  {
+    "id": 5856,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "resourceBoxId": 600167
+      }
+    ]
+  },
+  {
+    "id": 5857,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3550,
+    "rewards": [
+      {
+        "resourceBoxId": 600168
+      }
+    ]
+  },
+  {
+    "id": 5858,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "resourceBoxId": 600169
+      }
+    ]
+  },
+  {
+    "id": 5859,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3650,
+    "rewards": [
+      {
+        "resourceBoxId": 600170
+      }
+    ]
+  },
+  {
+    "id": 5860,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "resourceBoxId": 600171
+      }
+    ]
+  },
+  {
+    "id": 5861,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3750,
+    "rewards": [
+      {
+        "resourceBoxId": 1482
+      }
+    ]
+  },
+  {
+    "id": 5862,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "resourceBoxId": 600172
+      }
+    ]
+  },
+  {
+    "id": 5863,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3850,
+    "rewards": [
+      {
+        "resourceBoxId": 600173
+      }
+    ]
+  },
+  {
+    "id": 5864,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "resourceBoxId": 600174
+      }
+    ]
+  },
+  {
+    "id": 5865,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 3950,
+    "rewards": [
+      {
+        "resourceBoxId": 600175
+      }
+    ]
+  },
+  {
+    "id": 5866,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "resourceBoxId": 600176
+      }
+    ]
+  },
+  {
+    "id": 5867,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4050,
+    "rewards": [
+      {
+        "resourceBoxId": 600177
+      }
+    ]
+  },
+  {
+    "id": 5868,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "resourceBoxId": 600178
+      }
+    ]
+  },
+  {
+    "id": 5869,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4150,
+    "rewards": [
+      {
+        "resourceBoxId": 600179
+      }
+    ]
+  },
+  {
+    "id": 5870,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "resourceBoxId": 600180
+      }
+    ]
+  },
+  {
+    "id": 5871,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4250,
+    "rewards": [
+      {
+        "resourceBoxId": 600181
+      }
+    ]
+  },
+  {
+    "id": 5872,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "resourceBoxId": 600182
+      }
+    ]
+  },
+  {
+    "id": 5873,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4350,
+    "rewards": [
+      {
+        "resourceBoxId": 600183
+      }
+    ]
+  },
+  {
+    "id": 5874,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "resourceBoxId": 600184
+      }
+    ]
+  },
+  {
+    "id": 5875,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4450,
+    "rewards": [
+      {
+        "resourceBoxId": 600185
+      }
+    ]
+  },
+  {
+    "id": 5876,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "resourceBoxId": 600186
+      }
+    ]
+  },
+  {
+    "id": 5877,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4550,
+    "rewards": [
+      {
+        "resourceBoxId": 600187
+      }
+    ]
+  },
+  {
+    "id": 5878,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "resourceBoxId": 600188
+      }
+    ]
+  },
+  {
+    "id": 5879,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4650,
+    "rewards": [
+      {
+        "resourceBoxId": 600189
+      }
+    ]
+  },
+  {
+    "id": 5880,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "resourceBoxId": 600190
+      }
+    ]
+  },
+  {
+    "id": 5881,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4750,
+    "rewards": [
+      {
+        "resourceBoxId": 600191
+      }
+    ]
+  },
+  {
+    "id": 5882,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "resourceBoxId": 600192
+      }
+    ]
+  },
+  {
+    "id": 5883,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4850,
+    "rewards": [
+      {
+        "resourceBoxId": 600193
+      }
+    ]
+  },
+  {
+    "id": 5884,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "resourceBoxId": 600194
+      }
+    ]
+  },
+  {
+    "id": 5885,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 4950,
+    "rewards": [
+      {
+        "resourceBoxId": 600195
+      }
+    ]
+  },
+  {
+    "id": 5886,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "premium",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "resourceBoxId": 1483
+      }
+    ]
+  },
+  {
+    "id": 20075,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 50,
+    "rewards": [
+      {
+        "resourceBoxId": 600000
+      }
+    ]
+  },
+  {
+    "id": 20076,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 100,
+    "rewards": [
+      {
+        "resourceBoxId": 600001
+      }
+    ]
+  },
+  {
+    "id": 20077,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 150,
+    "rewards": [
+      {
+        "resourceBoxId": 600002
+      }
+    ]
+  },
+  {
+    "id": 20078,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 200,
+    "rewards": [
+      {
+        "resourceBoxId": 600003
+      }
+    ]
+  },
+  {
+    "id": 20079,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 250,
+    "rewards": [
+      {
+        "resourceBoxId": 600004
+      }
+    ]
+  },
+  {
+    "id": 20080,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 300,
+    "rewards": [
+      {
+        "resourceBoxId": 600005
+      }
+    ]
+  },
+  {
+    "id": 20081,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 350,
+    "rewards": [
+      {
+        "resourceBoxId": 600006
+      }
+    ]
+  },
+  {
+    "id": 20082,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 400,
+    "rewards": [
+      {
+        "resourceBoxId": 600007
+      }
+    ]
+  },
+  {
+    "id": 20083,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 450,
+    "rewards": [
+      {
+        "resourceBoxId": 600008
+      }
+    ]
+  },
+  {
+    "id": 20084,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 500,
+    "rewards": [
+      {
+        "resourceBoxId": 600009
+      }
+    ]
+  },
+  {
+    "id": 20085,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 550,
+    "rewards": [
+      {
+        "resourceBoxId": 600010
+      }
+    ]
+  },
+  {
+    "id": 20086,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 600,
+    "rewards": [
+      {
+        "resourceBoxId": 600011
+      }
+    ]
+  },
+  {
+    "id": 20087,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 650,
+    "rewards": [
+      {
+        "resourceBoxId": 600012
+      }
+    ]
+  },
+  {
+    "id": 20088,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 700,
+    "rewards": [
+      {
+        "resourceBoxId": 600013
+      }
+    ]
+  },
+  {
+    "id": 20089,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 750,
+    "rewards": [
+      {
+        "resourceBoxId": 600014
+      }
+    ]
+  },
+  {
+    "id": 20090,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 800,
+    "rewards": [
+      {
+        "resourceBoxId": 600015
+      }
+    ]
+  },
+  {
+    "id": 20091,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 850,
+    "rewards": [
+      {
+        "resourceBoxId": 600016
+      }
+    ]
+  },
+  {
+    "id": 20092,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 900,
+    "rewards": [
+      {
+        "resourceBoxId": 600017
+      }
+    ]
+  },
+  {
+    "id": 20093,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 950,
+    "rewards": [
+      {
+        "resourceBoxId": 600018
+      }
+    ]
+  },
+  {
+    "id": 20094,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1000,
+    "rewards": [
+      {
+        "resourceBoxId": 600019
+      }
+    ]
+  },
+  {
+    "id": 20095,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1050,
+    "rewards": [
+      {
+        "resourceBoxId": 600020
+      }
+    ]
+  },
+  {
+    "id": 20096,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1100,
+    "rewards": [
+      {
+        "resourceBoxId": 600021
+      }
+    ]
+  },
+  {
+    "id": 20097,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1150,
+    "rewards": [
+      {
+        "resourceBoxId": 600022
+      }
+    ]
+  },
+  {
+    "id": 20098,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1200,
+    "rewards": [
+      {
+        "resourceBoxId": 600023
+      }
+    ]
+  },
+  {
+    "id": 20099,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1250,
+    "rewards": [
+      {
+        "resourceBoxId": 600024
+      }
+    ]
+  },
+  {
+    "id": 20100,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1300,
+    "rewards": [
+      {
+        "resourceBoxId": 600025
+      }
+    ]
+  },
+  {
+    "id": 20101,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1350,
+    "rewards": [
+      {
+        "resourceBoxId": 600026
+      }
+    ]
+  },
+  {
+    "id": 20102,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1400,
+    "rewards": [
+      {
+        "resourceBoxId": 600027
+      }
+    ]
+  },
+  {
+    "id": 20103,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1450,
+    "rewards": [
+      {
+        "resourceBoxId": 600028
+      }
+    ]
+  },
+  {
+    "id": 20104,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1500,
+    "rewards": [
+      {
+        "resourceBoxId": 600029
+      }
+    ]
+  },
+  {
+    "id": 20105,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1550,
+    "rewards": [
+      {
+        "resourceBoxId": 600030
+      }
+    ]
+  },
+  {
+    "id": 20106,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1600,
+    "rewards": [
+      {
+        "resourceBoxId": 600031
+      }
+    ]
+  },
+  {
+    "id": 20107,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1650,
+    "rewards": [
+      {
+        "resourceBoxId": 600032
+      }
+    ]
+  },
+  {
+    "id": 20108,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1700,
+    "rewards": [
+      {
+        "resourceBoxId": 600033
+      }
+    ]
+  },
+  {
+    "id": 20109,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1750,
+    "rewards": [
+      {
+        "resourceBoxId": 600034
+      }
+    ]
+  },
+  {
+    "id": 20110,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1800,
+    "rewards": [
+      {
+        "resourceBoxId": 600035
+      }
+    ]
+  },
+  {
+    "id": 20111,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1850,
+    "rewards": [
+      {
+        "resourceBoxId": 600036
+      }
+    ]
+  },
+  {
+    "id": 20112,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1900,
+    "rewards": [
+      {
+        "resourceBoxId": 600037
+      }
+    ]
+  },
+  {
+    "id": 20113,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 1950,
+    "rewards": [
+      {
+        "resourceBoxId": 600038
+      }
+    ]
+  },
+  {
+    "id": 20114,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2000,
+    "rewards": [
+      {
+        "resourceBoxId": 600039
+      }
+    ]
+  },
+  {
+    "id": 20115,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2050,
+    "rewards": [
+      {
+        "resourceBoxId": 600040
+      }
+    ]
+  },
+  {
+    "id": 20116,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2100,
+    "rewards": [
+      {
+        "resourceBoxId": 600041
+      }
+    ]
+  },
+  {
+    "id": 20117,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2150,
+    "rewards": [
+      {
+        "resourceBoxId": 600042
+      }
+    ]
+  },
+  {
+    "id": 20118,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2200,
+    "rewards": [
+      {
+        "resourceBoxId": 600043
+      }
+    ]
+  },
+  {
+    "id": 20119,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2250,
+    "rewards": [
+      {
+        "resourceBoxId": 600044
+      }
+    ]
+  },
+  {
+    "id": 20120,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2300,
+    "rewards": [
+      {
+        "resourceBoxId": 600045
+      }
+    ]
+  },
+  {
+    "id": 20121,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2350,
+    "rewards": [
+      {
+        "resourceBoxId": 600046
+      }
+    ]
+  },
+  {
+    "id": 20122,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2400,
+    "rewards": [
+      {
+        "resourceBoxId": 600047
+      }
+    ]
+  },
+  {
+    "id": 20123,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2450,
+    "rewards": [
+      {
+        "resourceBoxId": 600048
+      }
+    ]
+  },
+  {
+    "id": 20124,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2500,
+    "rewards": [
+      {
+        "resourceBoxId": 600049
+      }
+    ]
+  },
+  {
+    "id": 20125,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2550,
+    "rewards": [
+      {
+        "resourceBoxId": 600050
+      }
+    ]
+  },
+  {
+    "id": 20126,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2600,
+    "rewards": [
+      {
+        "resourceBoxId": 600051
+      }
+    ]
+  },
+  {
+    "id": 20127,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2650,
+    "rewards": [
+      {
+        "resourceBoxId": 600052
+      }
+    ]
+  },
+  {
+    "id": 20128,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2700,
+    "rewards": [
+      {
+        "resourceBoxId": 600053
+      }
+    ]
+  },
+  {
+    "id": 20129,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2750,
+    "rewards": [
+      {
+        "resourceBoxId": 600054
+      }
+    ]
+  },
+  {
+    "id": 20130,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2800,
+    "rewards": [
+      {
+        "resourceBoxId": 600055
+      }
+    ]
+  },
+  {
+    "id": 20131,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2850,
+    "rewards": [
+      {
+        "resourceBoxId": 600056
+      }
+    ]
+  },
+  {
+    "id": 20132,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2900,
+    "rewards": [
+      {
+        "resourceBoxId": 600057
+      }
+    ]
+  },
+  {
+    "id": 20133,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 2950,
+    "rewards": [
+      {
+        "resourceBoxId": 600058
+      }
+    ]
+  },
+  {
+    "id": 20134,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3000,
+    "rewards": [
+      {
+        "resourceBoxId": 600059
+      }
+    ]
+  },
+  {
+    "id": 20135,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3050,
+    "rewards": [
+      {
+        "resourceBoxId": 600060
+      }
+    ]
+  },
+  {
+    "id": 20136,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3100,
+    "rewards": [
+      {
+        "resourceBoxId": 600061
+      }
+    ]
+  },
+  {
+    "id": 20137,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3150,
+    "rewards": [
+      {
+        "resourceBoxId": 600062
+      }
+    ]
+  },
+  {
+    "id": 20138,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3200,
+    "rewards": [
+      {
+        "resourceBoxId": 600063
+      }
+    ]
+  },
+  {
+    "id": 20139,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3250,
+    "rewards": [
+      {
+        "resourceBoxId": 600064
+      }
+    ]
+  },
+  {
+    "id": 20140,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3300,
+    "rewards": [
+      {
+        "resourceBoxId": 600065
+      }
+    ]
+  },
+  {
+    "id": 20141,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3350,
+    "rewards": [
+      {
+        "resourceBoxId": 600066
+      }
+    ]
+  },
+  {
+    "id": 20142,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3400,
+    "rewards": [
+      {
+        "resourceBoxId": 600067
+      }
+    ]
+  },
+  {
+    "id": 20143,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3450,
+    "rewards": [
+      {
+        "resourceBoxId": 600068
+      }
+    ]
+  },
+  {
+    "id": 20144,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3500,
+    "rewards": [
+      {
+        "resourceBoxId": 600069
+      }
+    ]
+  },
+  {
+    "id": 20145,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3550,
+    "rewards": [
+      {
+        "resourceBoxId": 600070
+      }
+    ]
+  },
+  {
+    "id": 20146,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3600,
+    "rewards": [
+      {
+        "resourceBoxId": 600071
+      }
+    ]
+  },
+  {
+    "id": 20147,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3650,
+    "rewards": [
+      {
+        "resourceBoxId": 600072
+      }
+    ]
+  },
+  {
+    "id": 20148,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3700,
+    "rewards": [
+      {
+        "resourceBoxId": 600073
+      }
+    ]
+  },
+  {
+    "id": 20149,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3750,
+    "rewards": [
+      {
+        "resourceBoxId": 600074
+      }
+    ]
+  },
+  {
+    "id": 20150,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3800,
+    "rewards": [
+      {
+        "resourceBoxId": 600075
+      }
+    ]
+  },
+  {
+    "id": 20151,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3850,
+    "rewards": [
+      {
+        "resourceBoxId": 600076
+      }
+    ]
+  },
+  {
+    "id": 20152,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3900,
+    "rewards": [
+      {
+        "resourceBoxId": 600077
+      }
+    ]
+  },
+  {
+    "id": 20153,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 3950,
+    "rewards": [
+      {
+        "resourceBoxId": 600078
+      }
+    ]
+  },
+  {
+    "id": 20154,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4000,
+    "rewards": [
+      {
+        "resourceBoxId": 600079
+      }
+    ]
+  },
+  {
+    "id": 20155,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4050,
+    "rewards": [
+      {
+        "resourceBoxId": 600080
+      }
+    ]
+  },
+  {
+    "id": 20156,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4100,
+    "rewards": [
+      {
+        "resourceBoxId": 600081
+      }
+    ]
+  },
+  {
+    "id": 20157,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4150,
+    "rewards": [
+      {
+        "resourceBoxId": 600082
+      }
+    ]
+  },
+  {
+    "id": 20158,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4200,
+    "rewards": [
+      {
+        "resourceBoxId": 600083
+      }
+    ]
+  },
+  {
+    "id": 20159,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4250,
+    "rewards": [
+      {
+        "resourceBoxId": 600084
+      }
+    ]
+  },
+  {
+    "id": 20160,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4300,
+    "rewards": [
+      {
+        "resourceBoxId": 600085
+      }
+    ]
+  },
+  {
+    "id": 20161,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4350,
+    "rewards": [
+      {
+        "resourceBoxId": 600086
+      }
+    ]
+  },
+  {
+    "id": 20162,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4400,
+    "rewards": [
+      {
+        "resourceBoxId": 600087
+      }
+    ]
+  },
+  {
+    "id": 20163,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4450,
+    "rewards": [
+      {
+        "resourceBoxId": 600088
+      }
+    ]
+  },
+  {
+    "id": 20164,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4500,
+    "rewards": [
+      {
+        "resourceBoxId": 600089
+      }
+    ]
+  },
+  {
+    "id": 20165,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4550,
+    "rewards": [
+      {
+        "resourceBoxId": 600090
+      }
+    ]
+  },
+  {
+    "id": 20166,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4600,
+    "rewards": [
+      {
+        "resourceBoxId": 600091
+      }
+    ]
+  },
+  {
+    "id": 20167,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4650,
+    "rewards": [
+      {
+        "resourceBoxId": 600092
+      }
+    ]
+  },
+  {
+    "id": 20168,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4700,
+    "rewards": [
+      {
+        "resourceBoxId": 600093
+      }
+    ]
+  },
+  {
+    "id": 20169,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4750,
+    "rewards": [
+      {
+        "resourceBoxId": 600094
+      }
+    ]
+  },
+  {
+    "id": 20170,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4800,
+    "rewards": [
+      {
+        "resourceBoxId": 600095
+      }
+    ]
+  },
+  {
+    "id": 20171,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4850,
+    "rewards": [
+      {
+        "resourceBoxId": 600096
+      }
+    ]
+  },
+  {
+    "id": 20172,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4900,
+    "rewards": [
+      {
+        "resourceBoxId": 600097
+      }
+    ]
+  },
+  {
+    "id": 20173,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 4950,
+    "rewards": [
+      {
+        "resourceBoxId": 600098
+      }
+    ]
+  },
+  {
+    "id": 20174,
+    "liveMissionPeriodId": 39,
+    "liveMissionType": "lite",
+    "requirement": 5000,
+    "rewards": [
+      {
+        "resourceBoxId": 600099
+      }
+    ]
+  }
+]

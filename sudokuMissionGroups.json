@@ -1,0 +1,271 @@
+[
+  {
+    "id": 2,
+    "turn": 3,
+    "startAt": 1733414400000,
+    "endAt": 1734667199000,
+    "sudokuMissionTurns": [
+      {
+        "missionTurn": 1,
+        "resourceBoxId": 400001,
+        "sudokuMissions": [
+          {
+            "id": 28,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "set_note_speed",
+            "requirement": 1,
+            "sentence": "更改1次 \n音符速度",
+            "resourceBoxId": 400004
+          },
+          {
+            "id": 29,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "action_set",
+            "requirement": 1,
+            "sentence": "观看区域对话",
+            "resourceBoxId": 400005
+          },
+          {
+            "id": 30,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "read_mainstory",
+            "requirement": 1,
+            "sentence": "观看任意组合的 \n第1话主线剧情",
+            "resourceBoxId": 400006
+          },
+          {
+            "id": 31,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "clear_multi_live",
+            "requirement": 1,
+            "sentence": "进行1次\n多人演出",
+            "resourceBoxId": 400007
+          },
+          {
+            "id": 32,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "livemission_level",
+            "requirement": 1,
+            "sentence": "领取1次 \n演出任务奖励",
+            "resourceBoxId": 400008
+          },
+          {
+            "id": 33,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "equip_costume_3d",
+            "requirement": 1,
+            "sentence": "更改演出服装",
+            "resourceBoxId": 400009
+          },
+          {
+            "id": 34,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "card_level_up",
+            "requirement": 1,
+            "sentence": "提升任意角色 \n的角色等级",
+            "resourceBoxId": 400010
+          },
+          {
+            "id": 35,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "send_friend_request",
+            "requirement": 1,
+            "sentence": "发送1次 \n好友申请",
+            "resourceBoxId": 400011
+          },
+          {
+            "id": 36,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 1,
+            "sudokuMissionType": "player_rank",
+            "requirement": 2,
+            "sentence": "玩家等级\n达到3级",
+            "resourceBoxId": 400012
+          }
+        ]
+      },
+      {
+        "missionTurn": 2,
+        "resourceBoxId": 400002,
+        "sudokuMissions": [
+          {
+            "id": 37,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "clear_solo_challenge_live",
+            "requirement": 1,
+            "sentence": "进行1次\n挑战演出",
+            "resourceBoxId": 400013
+          },
+          {
+            "id": 38,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "character_rank_bonus",
+            "requirement": 1,
+            "sentence": "领取1次角色\n等级提升奖励",
+            "resourceBoxId": 400014
+          },
+          {
+            "id": 39,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "watch_mv",
+            "requirement": 1,
+            "sentence": "观看完1次MV",
+            "resourceBoxId": 400015
+          },
+          {
+            "id": 40,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "dance_formation",
+            "requirement": 1,
+            "sentence": "进行1次\n成员编组",
+            "resourceBoxId": 400016
+          },
+          {
+            "id": 41,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "live_normal",
+            "requirement": 1,
+            "sentence": "完成1次NORMAL难度及以上的演出",
+            "resourceBoxId": 400017
+          },
+          {
+            "id": 42,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "collect_stamp",
+            "requirement": 1,
+            "sentence": "购买1次表情套装",
+            "resourceBoxId": 400018
+          },
+          {
+            "id": 43,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "buy_music",
+            "requirement": 1,
+            "sentence": "兑换1次歌曲",
+            "resourceBoxId": 400019
+          },
+          {
+            "id": 44,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "make_costume_3d",
+            "requirement": 1,
+            "sentence": "制作演出服装",
+            "resourceBoxId": 400020
+          },
+          {
+            "id": 45,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 2,
+            "sudokuMissionType": "buy_exchange",
+            "requirement": 1,
+            "sentence": "在兑换所\n兑换1次道具",
+            "resourceBoxId": 400021
+          }
+        ]
+      },
+      {
+        "missionTurn": 3,
+        "resourceBoxId": 400003,
+        "sudokuMissions": [
+          {
+            "id": 46,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "special_training",
+            "requirement": 1,
+            "sentence": "对任意成员\n进行1次特训",
+            "resourceBoxId": 400022
+          },
+          {
+            "id": 47,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "master_rank",
+            "requirement": 1,
+            "sentence": "对任意成员\n进行1次专家训练",
+            "resourceBoxId": 400023
+          },
+          {
+            "id": 48,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "buy_area_item",
+            "requirement": 1,
+            "sentence": "兑换区域道具",
+            "resourceBoxId": 400024
+          },
+          {
+            "id": 49,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "collect_another_vocal",
+            "requirement": 1,
+            "sentence": "购买1次\nAnother Vocal ver.歌曲",
+            "resourceBoxId": 400025
+          },
+          {
+            "id": 50,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "clear_live_hard",
+            "requirement": 1,
+            "sentence": "完成1次HARD难度及以上的演出",
+            "resourceBoxId": 400026
+          },
+          {
+            "id": 51,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "clear_virtual_live",
+            "requirement": 1,
+            "sentence": "参加1次\n虚拟演唱会",
+            "resourceBoxId": 400027
+          },
+          {
+            "id": 52,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "player_rank",
+            "requirement": 9,
+            "sentence": "玩家等级\n达到10级",
+            "resourceBoxId": 400028
+          },
+          {
+            "id": 53,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "clear_live_fever",
+            "requirement": 1,
+            "sentence": "在多人演出中\n达成1次“FEVER”",
+            "resourceBoxId": 400029
+          },
+          {
+            "id": 54,
+            "sudokuMissionGroupId": 2,
+            "missionTurn": 3,
+            "sudokuMissionType": "waiting_room_exchange",
+            "requirement": 1,
+            "sentence": "在休息室通过兑换成员\n获得“心愿碎片”",
+            "resourceBoxId": 400030
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 100,
+    "day": 1,
+    "resourceBoxId": 2001,
+    "loginBonusId": 3
+  },
+  {
+    "id": 101,
+    "day": 2,
+    "resourceBoxId": 2002,
+    "loginBonusId": 3
+  },
+  {
+    "id": 102,
+    "day": 3,
+    "resourceBoxId": 2003,
+    "loginBonusId": 3
+  },
+  {
+    "id": 103,
+    "day": 4,
+    "resourceBoxId": 2004,
+    "loginBonusId": 3
+  },
+  {
+    "id": 104,
+    "day": 5,
+    "resourceBoxId": 2005,
+    "loginBonusId": 3
+  },
+  {
+    "id": 105,
+    "day": 6,
+    "resourceBoxId": 2006,
+    "loginBonusId": 3
+  },
+  {
+    "id": 106,
+    "day": 7,
+    "resourceBoxId": 2007,
+    "loginBonusId": 3
+  },
+  {
+    "id": 107,
+    "day": 8,
+    "resourceBoxId": 2008,
+    "loginBonusId": 3
+  },
+  {
+    "id": 108,
+    "day": 9,
+    "resourceBoxId": 2009,
+    "loginBonusId": 3
+  },
+  {
+    "id": 109,
+    "day": 10,
+    "resourceBoxId": 2010,
+    "loginBonusId": 3
+  },
+  {
+    "id": 110,
+    "day": 11,
+    "resourceBoxId": 2011,
+    "loginBonusId": 3
+  },
+  {
+    "id": 111,
+    "day": 12,
+    "resourceBoxId": 2012,
+    "loginBonusId": 3
+  },
+  {
+    "id": 112,
+    "day": 13,
+    "resourceBoxId": 2013,
+    "loginBonusId": 3
+  },
+  {
+    "id": 113,
+    "day": 14,
+    "resourceBoxId": 2014,
+    "loginBonusId": 3
+  }
+]
