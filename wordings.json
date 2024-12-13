@@ -349,7 +349,7 @@
   },
   {
     "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
-    "value": "此饰品为特定发型专用饰品，通过“[{0}]{1}”解锁\n发型\n后即可设置。"
+    "value": "此饰品为特定发型专用饰品，\n通过“[{0}]{1}”\n解锁发型后即可设置。"
   },
   {
     "wordingKey": "MSG_ADJUST_WITH_TAP",
