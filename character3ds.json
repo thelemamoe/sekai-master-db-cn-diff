@@ -880,6 +880,14 @@
     "bodyCostume3dId": 44134
   },
   {
+    "id": 111,
+    "characterId": 21,
+    "unit": "street",
+    "headCostume3dId": 60129,
+    "hairCostume3dId": 221,
+    "bodyCostume3dId": 60130
+  },
+  {
     "id": 112,
     "characterId": 21,
     "unit": "theme_park",
@@ -11632,19 +11640,59 @@
     "bodyCostume3dId": 579034
   },
   {
-    "id": 10001,
-    "characterId": 21,
-    "unit": "piapro",
-    "headCostume3dId": 9046129,
-    "hairCostume3dId": 221,
-    "bodyCostume3dId": 9046130
+    "id": 1466,
+    "characterId": 1,
+    "unit": "light_sound",
+    "headCostume3dId": 582003,
+    "hairCostume3dId": 201,
+    "bodyCostume3dId": 582004
   },
   {
-    "id": 10002,
+    "id": 1467,
+    "characterId": 2,
+    "unit": "light_sound",
+    "headCostume3dId": 582009,
+    "hairCostume3dId": 202,
+    "bodyCostume3dId": 582010
+  },
+  {
+    "id": 1468,
+    "characterId": 3,
+    "unit": "light_sound",
+    "headCostume3dId": 584021,
+    "hairCostume3dId": 203,
+    "bodyCostume3dId": 584022
+  },
+  {
+    "id": 1469,
+    "characterId": 4,
+    "unit": "light_sound",
+    "headCostume3dId": 583025,
+    "hairCostume3dId": 204,
+    "bodyCostume3dId": 583026
+  },
+  {
+    "id": 1470,
+    "characterId": 25,
+    "unit": "piapro",
+    "headCostume3dId": 584153,
+    "hairCostume3dId": 230,
+    "bodyCostume3dId": 584154
+  },
+  {
+    "id": 1726,
+    "characterId": 21,
+    "unit": "piapro",
+    "headCostume3dId": 971129,
+    "hairCostume3dId": 221,
+    "bodyCostume3dId": 971130
+  },
+  {
+    "id": 1727,
     "characterId": 26,
     "unit": "piapro",
-    "headCostume3dId": 9047041,
+    "headCostume3dId": 972041,
     "hairCostume3dId": 231,
-    "bodyCostume3dId": 9047042
+    "bodyCostume3dId": 972042
   }
 ]

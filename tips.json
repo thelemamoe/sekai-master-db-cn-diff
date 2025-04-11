@@ -448,6 +448,13 @@
     "toUserRank": 29
   },
   {
+    "id": 101,
+    "title": "自动演出",
+    "description": "在“单人演出”中可以选择“自动”，\n让节奏游戏自动进行。",
+    "fromUserRank": 1,
+    "toUserRank": 999
+  },
+  {
     "id": 102,
     "title": "自动演出",
     "description": "“自动演出”1天最多只能进行10次。",
@@ -472,13 +479,6 @@
     "id": 105,
     "title": "挑战演出的EX舞台",
     "description": "“挑战演出”的舞台等级达到100后\n就会变成EX舞台。",
-    "fromUserRank": 250,
-    "toUserRank": 999
-  },
-  {
-    "id": 106,
-    "title": "挑战演出的EX舞台",
-    "description": "“挑战演出”达到EX舞台之后，\n每次提升舞台等级都能获得水晶。",
     "fromUserRank": 250,
     "toUserRank": 999
   },
@@ -597,7 +597,7 @@
   {
     "id": 124,
     "title": "排位赛",
-    "description": "在歌曲的EXPERT、MASTER难度中合计达成10次FULL COMBO后，即可解锁“排位赛”。",
+    "description": "在歌曲的EXPERT、MASTER难度中合计达成5次FULL COMBO后，即可解锁“排位赛”。",
     "fromUserRank": 1,
     "toUserRank": 999
   },
@@ -757,7 +757,7 @@
   },
   {
     "id": 1052,
-    "title": "小梦机器人诞生？",
+    "title": "笑梦机器人诞生？",
     "assetbundleName": "comic_0052",
     "fromUserRank": 1,
     "toUserRank": 999
@@ -862,7 +862,7 @@
   },
   {
     "id": 1067,
-    "title": "神高三年三班“奇点诞生”",
+    "title": "神高三年三班“怪人集合”",
     "assetbundleName": "comic_0067",
     "fromUserRank": 1,
     "toUserRank": 999

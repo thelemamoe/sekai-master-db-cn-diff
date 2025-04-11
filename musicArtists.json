@@ -386,7 +386,7 @@
   },
   {
     "id": 78,
-    "name": "aqu3ra",
+    "name": "Aqu3ra",
     "pronunciation": "あくえら"
   },
   {
@@ -1181,27 +1181,47 @@
   },
   {
     "id": 238,
-    "name": "Utsu-P",
-    "pronunciation": "1"
+    "name": "Shu",
+    "pronunciation": "しゅー"
   },
   {
-    "id": 239,
-    "name": "gaburyu & nyankobrq",
-    "pronunciation": "1"
+    "id": 11001,
+    "name": "敌门",
+    "pronunciation": "敌门"
   },
   {
-    "id": 240,
-    "name": "monaca:factory",
-    "pronunciation": "1"
+    "id": 11002,
+    "name": "cannibaltim",
+    "pronunciation": "cannibaltim"
   },
   {
-    "id": 241,
-    "name": "Synthion",
-    "pronunciation": "1"
+    "id": 11003,
+    "name": "MACHWOLF",
+    "pronunciation": "MACHWOLF"
   },
   {
-    "id": 242,
-    "name": "Yunosuke & CircusP",
-    "pronunciation": "1"
+    "id": 11004,
+    "name": "DECO*27",
+    "pronunciation": "DECO*27"
+  },
+  {
+    "id": 11005,
+    "name": "A-39",
+    "pronunciation": "A-39"
+  },
+  {
+    "id": 11006,
+    "name": "A殿下\/胧音Long",
+    "pronunciation": "A殿下\/胧音Long"
+  },
+  {
+    "id": 11007,
+    "name": "AzureHead",
+    "pronunciation": "AzureHead"
+  },
+  {
+    "id": 11008,
+    "name": "mikitoP",
+    "pronunciation": "mikitoP"
   }
 ]

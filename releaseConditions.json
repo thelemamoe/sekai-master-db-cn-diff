@@ -6367,6 +6367,167 @@
     "releaseConditionTypeLevel": 60
   },
   {
+    "id": 30909,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30910,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 910,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30911,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 911,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30912,
+    "sentence": "等级50·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 912,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30913,
+    "sentence": "等级30·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 913,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30914,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 914,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30927,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 927,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30928,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 928,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30929,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 929,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30930,
+    "sentence": "等级50·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 930,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30931,
+    "sentence": "等级30·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 931,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30932,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 932,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30938,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 938,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30939,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 939,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30940,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 940,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30941,
+    "sentence": "等级50·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 941,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30942,
+    "sentence": "等级30·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 942,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30943,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 943,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30944,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 944,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30945,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 945,
+    "releaseConditionTypeLevel": 60
+  },
+  {
+    "id": 30946,
+    "sentence": "等级50·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 946,
+    "releaseConditionTypeLevel": 50
+  },
+  {
+    "id": 30947,
+    "sentence": "等级30·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 947,
+    "releaseConditionTypeLevel": 30
+  },
+  {
+    "id": 30948,
+    "sentence": "等级60·看完上篇即可解锁",
+    "releaseConditionType": "card_level",
+    "releaseConditionTypeId": 948,
+    "releaseConditionTypeLevel": 60
+  },
+  {
     "id": 40001,
     "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
     "releaseConditionType": "music_difficulty_better_play",
@@ -21424,28 +21585,28 @@
   },
   {
     "id": 63760,
-    "sentence": "获得“[回礼的问候] 神代类”",
+    "sentence": "获得“[回礼的招呼] 神代类”",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 887,
     "releaseConditionTypeLevel": 0
   },
   {
     "id": 63761,
-    "sentence": "“[回礼的问候] 神代类”专家等级达到1级时解锁",
+    "sentence": "“[回礼的招呼] 神代类”专家等级达到1级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 887,
     "releaseConditionTypeLevel": 1
   },
   {
     "id": 63762,
-    "sentence": "“[回礼的问候] 神代类”专家等级达到3级时解锁",
+    "sentence": "“[回礼的招呼] 神代类”专家等级达到3级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 887,
     "releaseConditionTypeLevel": 3
   },
   {
     "id": 63763,
-    "sentence": "“[回礼的问候] 神代类”专家等级达到5级时解锁",
+    "sentence": "“[回礼的招呼] 神代类”专家等级达到5级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 887,
     "releaseConditionTypeLevel": 5
@@ -21826,6 +21987,90 @@
     "sentence": "“[有趣的个展] 镜音连”专家等级达到5级时解锁",
     "releaseConditionType": "master_rank",
     "releaseConditionTypeId": 905,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63890,
+    "sentence": "获得“[独自一人的房间] 天马咲希”",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63891,
+    "sentence": "“[独自一人的房间] 天马咲希”专家等级达到1级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63892,
+    "sentence": "“[独自一人的房间] 天马咲希”专家等级达到3级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63893,
+    "sentence": "“[独自一人的房间] 天马咲希”专家等级达到5级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 909,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63900,
+    "sentence": "获得“[送上慰问品] 日野森志步”",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 910,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63901,
+    "sentence": "“[送上慰问品] 日野森志步”专家等级达到1级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 910,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63902,
+    "sentence": "“[送上慰问品] 日野森志步”专家等级达到3级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 910,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63903,
+    "sentence": "“[送上慰问品] 日野森志步”专家等级达到5级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 910,
+    "releaseConditionTypeLevel": 5
+  },
+  {
+    "id": 63910,
+    "sentence": "获得“[我们的存在意义和方式] MEIKO”",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 911,
+    "releaseConditionTypeLevel": 0
+  },
+  {
+    "id": 63911,
+    "sentence": "“[我们的存在意义和方式] MEIKO”专家等级达到1级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 911,
+    "releaseConditionTypeLevel": 1
+  },
+  {
+    "id": 63912,
+    "sentence": "“[我们的存在意义和方式] MEIKO”专家等级达到3级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 911,
+    "releaseConditionTypeLevel": 3
+  },
+  {
+    "id": 63913,
+    "sentence": "“[我们的存在意义和方式] MEIKO”专家等级达到5级时解锁",
+    "releaseConditionType": "master_rank",
+    "releaseConditionTypeId": 911,
     "releaseConditionTypeLevel": 5
   },
   {
@@ -28723,6 +28968,40 @@
     "releaseConditionTypeId": 1000896
   },
   {
+    "id": 111100,
+    "sentence": "2024\/11\/08 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 112,
+    "releaseConditionTypeId2": 18
+  },
+  {
+    "id": 111101,
+    "sentence": "2024\/11\/11 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 112,
+    "releaseConditionTypeId2": 20
+  },
+  {
+    "id": 111102,
+    "sentence": "2024\/11\/14 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 112,
+    "releaseConditionTypeId2": 19
+  },
+  {
+    "id": 111103,
+    "sentence": "2024\/11\/17 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 112,
+    "releaseConditionTypeId2": 17
+  },
+  {
+    "id": 111104,
+    "sentence": "2024\/11\/20 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_aggregate",
+    "releaseConditionTypeId": 112
+  },
+  {
     "id": 111105,
     "sentence": "观看“水底寻影”结局",
     "releaseConditionType": "event_story",
@@ -29002,6 +29281,40 @@
     "sentence": "观看“在不变的温暖旁”第8话",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1000946
+  },
+  {
+    "id": 111700,
+    "sentence": "2025\/01\/09 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 118,
+    "releaseConditionTypeId2": 11
+  },
+  {
+    "id": 111701,
+    "sentence": "2025\/01\/12 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 118,
+    "releaseConditionTypeId2": 12
+  },
+  {
+    "id": 111702,
+    "sentence": "2025\/01\/15 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 118,
+    "releaseConditionTypeId2": 10
+  },
+  {
+    "id": 111703,
+    "sentence": "2025\/01\/18 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 118,
+    "releaseConditionTypeId2": 9
+  },
+  {
+    "id": 111704,
+    "sentence": "2025\/01\/21 20:00解锁",
+    "releaseConditionType": "world_bloom_chapter_aggregate",
+    "releaseConditionTypeId": 118
   },
   {
     "id": 111705,
@@ -29285,6 +29598,40 @@
     "releaseConditionTypeId": 1000996
   },
   {
+    "id": 112300,
+    "sentence": "2025\/03\/08 20:00に解放",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeId2": 16
+  },
+  {
+    "id": 112301,
+    "sentence": "2025\/03\/11 20:00に解放",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeId2": 15
+  },
+  {
+    "id": 112302,
+    "sentence": "2025\/03\/14 20:00に解放",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeId2": 14
+  },
+  {
+    "id": 112303,
+    "sentence": "2025\/03\/17 20:00に解放",
+    "releaseConditionType": "world_bloom_chapter_start",
+    "releaseConditionTypeId": 124,
+    "releaseConditionTypeId2": 13
+  },
+  {
+    "id": 112304,
+    "sentence": "2025\/03\/20 20:00に解放",
+    "releaseConditionType": "world_bloom_chapter_aggregate",
+    "releaseConditionTypeId": 124
+  },
+  {
     "id": 112305,
     "sentence": "观看“向着星星，启航！”结局",
     "releaseConditionType": "event_story",
@@ -29454,6 +29801,129 @@
     "sentence": "观看“Knowing the Unseen”第8话",
     "releaseConditionType": "event_story",
     "releaseConditionTypeId": 1001030
+  },
+  {
+    "id": 112701,
+    "sentence": "活动积分达到12000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 12000
+  },
+  {
+    "id": 112702,
+    "sentence": "活动积分达到32000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 32000
+  },
+  {
+    "id": 112703,
+    "sentence": "活动积分达到52000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 52000
+  },
+  {
+    "id": 112704,
+    "sentence": "活动积分达到76000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 76000
+  },
+  {
+    "id": 112705,
+    "sentence": "活动积分达到100000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 100000
+  },
+  {
+    "id": 112706,
+    "sentence": "活动积分达到125000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 125000
+  },
+  {
+    "id": 112707,
+    "sentence": "活动积分达到150000",
+    "releaseConditionType": "event_point",
+    "releaseConditionTypeId": 128,
+    "releaseConditionTypeQuantity": 150000
+  },
+  {
+    "id": 112708,
+    "sentence": "观看“Parallel Harmonies”第8话",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1001038
+  },
+  {
+    "id": 112905,
+    "sentence": "观看“总有一日，登上鲜花盛放的舞台",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1001056
+  },
+  {
+    "id": 113605,
+    "sentence": "观看“那天仰望的夜空，将通向我们的未来",
+    "releaseConditionType": "event_story",
+    "releaseConditionTypeId": 1001114
+  },
+  {
+    "id": 490001,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490004,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490002,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490009,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490003,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490014,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490004,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490019,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490005,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490024,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490006,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490029,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490007,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490034,
+    "releaseConditionTypeQuantity": 7
+  },
+  {
+    "id": 490008,
+    "sentence": "通关EXPERT且GOOD及以下评价不超过7个",
+    "releaseConditionType": "music_difficulty_better_play",
+    "releaseConditionTypeId": 490039,
+    "releaseConditionTypeQuantity": 7
   },
   {
     "id": 800001,
@@ -29877,9 +30347,9 @@
   },
   {
     "id": 1000000,
-    "sentence": "难度EXPERT·MASTER\n至少10首歌曲达成FULL COMBO解锁",
+    "sentence": "难度EXPERT·MASTER\n至少5首歌曲达成FULL COMBO解锁",
     "releaseConditionType": "rank_match",
-    "releaseConditionTypeQuantity": 999
+    "releaseConditionTypeQuantity": 5
   },
   {
     "id": 1000001,

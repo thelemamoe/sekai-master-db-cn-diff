@@ -391,7 +391,7 @@
         "id": 27,
         "specialStoryId": 22,
         "episodeNo": 1,
-        "title": "愚人节2025前导动画",
+        "title": "愚人节2024前导动画",
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_aprilfool_2023",
         "scenarioId": "aprilfool_2023_01",
@@ -412,7 +412,7 @@
         "id": 28,
         "specialStoryId": 23,
         "episodeNo": 1,
-        "title": "愚人节2025后日谈动画",
+        "title": "愚人节2024后日谈动画",
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_aprilfool_2023",
         "scenarioId": "aprilfool_2023_02",
@@ -433,7 +433,7 @@
         "id": 29,
         "specialStoryId": 24,
         "episodeNo": 1,
-        "title": "[复刻]恶之大罪系列前导动画",
+        "title": "[回响]恶之大罪系列前导动画",
         "specialStoryEpisodeType": "area",
         "specialStoryEpisodeTypeId": 14,
         "assetbundleName": "story_collaboration_akuno",
@@ -588,6 +588,70 @@
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "assetbundleName": "world_3900_anniversary_story",
+    "startAt": 4078526400000,
+    "endAt": 4078655999000,
+    "episodes": [
+      {
+        "id": 43,
+        "specialStoryId": 38,
+        "episodeNo": 1,
+        "title": "3900's感谢庆典动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_world_3900_anniversary",
+        "scenarioId": "world_3900_anniversary_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743436800000,
+    "endAt": 1743523199000,
+    "episodes": [
+      {
+        "id": 44,
+        "specialStoryId": 39,
+        "episodeNo": 1,
+        "title": "愚人节2025前导动画",
+        "specialStoryEpisodeType": "area",
+        "specialStoryEpisodeTypeId": 23,
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "assetbundleName": "aprilfool-story-2024",
+    "startAt": 1743523200000,
+    "endAt": 1743609599000,
+    "episodes": [
+      {
+        "id": 45,
+        "specialStoryId": 40,
+        "episodeNo": 1,
+        "title": "愚人节2025后日谈动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2024",
+        "scenarioId": "aprilfool_2024_02",
+        "releaseConditionId": 1000236,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
       }
     ]

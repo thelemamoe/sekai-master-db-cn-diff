@@ -622,7 +622,7 @@
   },
   {
     "id": 73,
-    "seq": 730,
+    "seq": 970,
     "name": "变身为MORE MORE JUMP！镜音铃的服装",
     "assetbundleName": "fullset_0073",
     "skinColorCode": "#ffffff",
@@ -631,7 +631,7 @@
   },
   {
     "id": 74,
-    "seq": 740,
+    "seq": 960,
     "name": "变身为Vivid BAD SQUAD镜音连的服装",
     "assetbundleName": "fullset_0074",
     "skinColorCode": "#ffffff",
@@ -640,7 +640,7 @@
   },
   {
     "id": 75,
-    "seq": 750,
+    "seq": 990,
     "name": "变身为志步的服装 vol.2",
     "assetbundleName": "fullset_0075",
     "skinColorCode": "#ffffff",
@@ -649,7 +649,7 @@
   },
   {
     "id": 76,
-    "seq": 760,
+    "seq": 1010,
     "name": "变身为真冬的服装 vol.2",
     "assetbundleName": "fullset_0076",
     "skinColorCode": "#ffffff",
@@ -658,7 +658,7 @@
   },
   {
     "id": 77,
-    "seq": 770,
+    "seq": 1020,
     "name": "变身为Leo\/need巡音流歌的服装",
     "assetbundleName": "fullset_0077",
     "skinColorCode": "#ffffff",
@@ -667,7 +667,7 @@
   },
   {
     "id": 78,
-    "seq": 780,
+    "seq": 1030,
     "name": "变身为奏的服装 vol.2",
     "assetbundleName": "fullset_0078",
     "skinColorCode": "#ffffff",
@@ -676,7 +676,7 @@
   },
   {
     "id": 79,
-    "seq": 790,
+    "seq": 1040,
     "name": "变身为Wondershow KAITO的服装",
     "assetbundleName": "fullset_0079",
     "skinColorCode": "#ffffff",
@@ -685,7 +685,7 @@
   },
   {
     "id": 80,
-    "seq": 800,
+    "seq": 1050,
     "name": "变身为心羽的服装 vol.2",
     "assetbundleName": "fullset_0080",
     "skinColorCode": "#ffffff",
@@ -694,7 +694,7 @@
   },
   {
     "id": 81,
-    "seq": 810,
+    "seq": 1070,
     "name": "变身为爱莉的服装 vol.2",
     "assetbundleName": "fullset_0081",
     "skinColorCode": "#ffffff",
@@ -703,12 +703,21 @@
   },
   {
     "id": 82,
-    "seq": 820,
+    "seq": 1080,
     "name": "变身为实乃理的服装 vol.2",
     "assetbundleName": "fullset_0082",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0082",
     "accessoryAssetbundleName": "fullset_0082"
+  },
+  {
+    "id": 83,
+    "seq": 1090,
+    "name": "变身为绘名的服装 vol.2",
+    "assetbundleName": "fullset_0083",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0083",
+    "accessoryAssetbundleName": "fullset_0083"
   },
   {
     "id": 94,
@@ -730,12 +739,21 @@
   },
   {
     "id": 96,
-    "seq": 960,
+    "seq": 980,
     "name": "龙玩偶装",
     "assetbundleName": "fullset_0096",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0096",
     "accessoryAssetbundleName": "fullset_0096"
+  },
+  {
+    "id": 97,
+    "seq": 1060,
+    "name": "变身为引导之风初音未来的服装",
+    "assetbundleName": "fullset_0097",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0097",
+    "accessoryAssetbundleName": "fullset_0097"
   },
   {
     "id": 1001,

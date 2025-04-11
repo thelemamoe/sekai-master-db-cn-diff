@@ -324,15 +324,15 @@
   {
     "id": 47,
     "seq": 47,
-    "name": "招募贴纸券",
-    "flavorText": "可和普通招募贴纸组合用于兑换常规成员。",
+    "name": "招募贴纸兑换券",
+    "flavorText": "可兑换喜欢的招募贴纸。\n在招募贴纸兑换所中获得。",
     "materialType": "gacha_ceil_ticket"
   },
   {
     "id": 48,
     "seq": 48,
     "name": "限定招募贴纸兑换券",
-    "flavorText": "可和限定招募贴纸组合用于\n兑换限时、缤纷节日限定、常规成员。",
+    "flavorText": "可和限定招募贴纸组合用于兑换限时、缤纷节日限定、常规成员。",
     "materialType": "gacha_ceil_ticket"
   },
   {
@@ -380,7 +380,7 @@
   {
     "id": 55,
     "seq": 55,
-    "name": "新手限定自选券",
+    "name": "新手限定★4自选券",
     "flavorText": "[新手限定]可在★4成员兑换所里兑换喜欢的★4成员。",
     "materialType": "card_ticket"
   },
@@ -520,36 +520,43 @@
   {
     "id": 1001,
     "seq": 1001,
-    "name": "缤纷通行证～BASIC～兌換券",
+    "name": "缤纷通行证～BASIC～兑换券",
     "flavorText": "缤纷通行证～BASIC～兑换券",
     "materialType": "web_ticket"
   },
   {
     "id": 1002,
     "seq": 1002,
-    "name": "白金任务通行证兑换券",
-    "flavorText": "白金任务通行证",
-    "materialType": "web_ticket"
-  },
-  {
-    "id": 1003,
-    "seq": 1003,
-    "name": "白金任务通行证兑换券・进阶版",
-    "flavorText": "白金任务通行证・进阶版",
+    "name": "白金任务通行证・进阶版兑换券",
+    "flavorText": "白金任务通行证・进阶版兑换券",
     "materialType": "web_ticket"
   },
   {
     "id": 1004,
     "seq": 1004,
-    "name": "缤纷通行证～PRECIOUS～兌換券",
+    "name": "缤纷通行证～PRECIOUS～兑换券",
     "flavorText": "缤纷通行证～PRECIOUS～兑换券",
     "materialType": "web_ticket"
   },
   {
     "id": 1005,
     "seq": 1005,
-    "name": "白金任务通行证兑换券・轻量版",
-    "flavorText": "白金任务通行证兑换券・轻量版",
+    "name": "白金任务通行证兑换券",
+    "flavorText": "白金任务通行证兑换券",
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1006,
+    "seq": 1006,
+    "name": "白金任务通行证・升级包兑换券",
+    "flavorText": "白金任务通行证・升级包兑换券",
+    "materialType": "web_ticket"
+  },
+  {
+    "id": 1007,
+    "seq": 1007,
+    "name": "缤纷通行证～DELUXE～兑换券",
+    "flavorText": "缤纷通行证～DELUXE～兑换券",
     "materialType": "web_ticket"
   },
   {
@@ -558,5 +565,12 @@
     "name": "★2成员自选券",
     "flavorText": "可在成员兑换所里兑换喜欢的★2成员。",
     "materialType": "card_ticket"
+  },
+  {
+    "id": 3002,
+    "seq": 90,
+    "name": "回响点数",
+    "flavorText": "可用于升级回响称号",
+    "materialType": "common"
   }
 ]

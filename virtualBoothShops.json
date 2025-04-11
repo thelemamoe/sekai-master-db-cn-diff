@@ -300,58 +300,76 @@
     "targetId": 10
   },
   {
-    "id": 70,
-    "virtualLiveId": 256,
+    "id": 78,
+    "virtualLiveId": 274,
     "virtualBoothShopType": "virtual_shop",
-    "targetId": 223
+    "targetId": 242
   },
   {
-    "id": 71,
-    "virtualLiveId": 256,
+    "id": 79,
+    "virtualLiveId": 274,
+    "virtualBoothShopType": "omikuji",
+    "targetId": 3
+  },
+  {
+    "id": 80,
+    "virtualLiveId": 274,
     "virtualBoothShopType": "collection_gacha",
-    "targetId": 15
+    "targetId": 22
   },
   {
-    "id": 72,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 16
-  },
-  {
-    "id": 73,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 17
-  },
-  {
-    "id": 74,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 18
-  },
-  {
-    "id": 75,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 19
-  },
-  {
-    "id": 76,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 20
-  },
-  {
-    "id": 77,
-    "virtualLiveId": 256,
-    "virtualBoothShopType": "collection_gacha",
-    "targetId": 21
-  },
-  {
-    "id": 10001,
-    "virtualLiveId": 175,
+    "id": 81,
+    "virtualLiveId": 275,
     "virtualBoothShopType": "virtual_shop",
-    "targetId": 119
+    "targetId": 242
+  },
+  {
+    "id": 82,
+    "virtualLiveId": 275,
+    "virtualBoothShopType": "omikuji",
+    "targetId": 3
+  },
+  {
+    "id": 83,
+    "virtualLiveId": 275,
+    "virtualBoothShopType": "collection_gacha",
+    "targetId": 22
+  },
+  {
+    "id": 84,
+    "virtualLiveId": 276,
+    "virtualBoothShopType": "virtual_shop",
+    "targetId": 242
+  },
+  {
+    "id": 85,
+    "virtualLiveId": 276,
+    "virtualBoothShopType": "omikuji",
+    "targetId": 3
+  },
+  {
+    "id": 86,
+    "virtualLiveId": 276,
+    "virtualBoothShopType": "collection_gacha",
+    "targetId": 22
+  },
+  {
+    "id": 87,
+    "virtualLiveId": 277,
+    "virtualBoothShopType": "virtual_shop",
+    "targetId": 242
+  },
+  {
+    "id": 88,
+    "virtualLiveId": 277,
+    "virtualBoothShopType": "omikuji",
+    "targetId": 3
+  },
+  {
+    "id": 89,
+    "virtualLiveId": 277,
+    "virtualBoothShopType": "collection_gacha",
+    "targetId": 22
   },
   {
     "id": 10002,

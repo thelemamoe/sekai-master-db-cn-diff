@@ -81,6 +81,7 @@
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "街头「世界」",
+    "subName": "咖啡厅",
     "releaseConditionId": 1
   },
   {
@@ -93,6 +94,7 @@
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "奇幻乐园「世界」",
+    "subName": "游乐园",
     "releaseConditionId": 1
   },
   {
@@ -101,10 +103,11 @@
     "groupId": 90,
     "isBaseArea": true,
     "areaType": "spirit_world",
-    "viewType": "quarter_view",
+    "viewType": "side_view",
     "displayTimelineType": "all",
     "additionalAreaType": "none",
     "name": "无人「世界」",
+    "subName": "空地",
     "releaseConditionId": 1
   },
   {
@@ -182,8 +185,22 @@
     "additionalAreaType": "none",
     "name": "街头「世界」",
     "subName": "广场",
-    "startAt": 1737460800000,
+    "startAt": 1750420800000,
     "releaseConditionId": 111705
+  },
+  {
+    "id": 20,
+    "assetbundleName": "area20",
+    "groupId": 80,
+    "isBaseArea": false,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "none",
+    "name": "奇幻乐园「世界」",
+    "subName": "港口",
+    "startAt": 1745668800000,
+    "releaseConditionId": 112305
   },
   {
     "id": 21,
@@ -196,7 +213,7 @@
     "additionalAreaType": "none",
     "name": "无人「世界」",
     "subName": "湖",
-    "startAt": 1763640000000,
+    "startAt": 1758369600000,
     "releaseConditionId": 111105
   },
   {
@@ -209,7 +226,7 @@
     "displayTimelineType": "next_grade",
     "additionalAreaType": "collaboration",
     "name": "彩虹乐园的「世界」",
-    "startAt": 1764907200000,
+    "startAt": 1733371200000,
     "endAt": 1734623999000,
     "releaseConditionId": 1
   },

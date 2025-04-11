@@ -337,5 +337,55 @@
     "ruleSlideType": "ONGOING_MISSION_OPEN",
     "assetbundleName": "tutorial\/slide\/ongoing_mission_open",
     "redisplay": "once"
+  },
+  {
+    "id": 10000005,
+    "ruleSlideType": "UNIT_RELATION_LN",
+    "assetbundleName": "tutorial\/slide\/unit_relation_ln"
+  },
+  {
+    "id": 10000006,
+    "ruleSlideType": "UNIT_RELATION_MMJ",
+    "assetbundleName": "tutorial\/slide\/unit_relation_mmj"
+  },
+  {
+    "id": 10000007,
+    "ruleSlideType": "UNIT_RELATION_VBS",
+    "assetbundleName": "tutorial\/slide\/unit_relation_vbs"
+  },
+  {
+    "id": 10000008,
+    "ruleSlideType": "UNIT_RELATION_WS",
+    "assetbundleName": "tutorial\/slide\/unit_relation_ws"
+  },
+  {
+    "id": 10000009,
+    "ruleSlideType": "UNIT_RELATION_25",
+    "assetbundleName": "tutorial\/slide\/unit_relation_25"
+  },
+  {
+    "id": 10000010,
+    "ruleSlideType": "RK_ABILITYBOOSTGUIDE",
+    "assetbundleName": "tutorial\/slide\/rk_abilityboostguide"
+  },
+  {
+    "id": 10000011,
+    "ruleSlideType": "LIVE_NOTE_SETTING",
+    "assetbundleName": "tutorial\/slide\/live_note_setting"
+  },
+  {
+    "id": 10000012,
+    "ruleSlideType": "SEKAI_ECHO_UNIT",
+    "assetbundleName": "tutorial\/slide\/sekai_echo_unit"
+  },
+  {
+    "id": 10000013,
+    "ruleSlideType": "SEKAI_ECHO_EVENT",
+    "assetbundleName": "tutorial\/slide\/sekai_echo_event"
+  },
+  {
+    "id": 10000014,
+    "ruleSlideType": "SEKAI_ECHO_HONOR",
+    "assetbundleName": "tutorial\/slide\/sekai_echo_honor"
   }
 ]

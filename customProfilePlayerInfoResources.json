@@ -48,7 +48,7 @@
     "customProfileResourceType": "player_info",
     "id": 9,
     "seq": 5,
-    "name": "MVP·SUPERSTAR",
+    "name": "MVP\nSUPERSTAR",
     "resourceLoadType": "prefab",
     "resourceLoadVal": "CustomProfile\/ContentView\/General",
     "fileName": "MultiLive"

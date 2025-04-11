@@ -2710,6 +2710,31 @@
     "bonusRate": 0.0
   },
   {
+    "cardId": 768,
+    "eventId": 109,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 769,
+    "eventId": 109,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 770,
+    "eventId": 109,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 771,
+    "eventId": 109,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 772,
+    "eventId": 109,
+    "bonusRate": 0.0
+  },
+  {
     "cardId": 773,
     "eventId": 110,
     "bonusRate": 20.0
@@ -2757,6 +2782,31 @@
   {
     "cardId": 783,
     "eventId": 111,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 785,
+    "eventId": 112,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 786,
+    "eventId": 112,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 787,
+    "eventId": 112,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 788,
+    "eventId": 112,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 789,
+    "eventId": 112,
     "bonusRate": 0.0
   },
   {
@@ -2885,6 +2935,36 @@
     "bonusRate": 0.0
   },
   {
+    "cardId": 848,
+    "eventId": 118,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 849,
+    "eventId": 118,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 850,
+    "eventId": 118,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 851,
+    "eventId": 118,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 852,
+    "eventId": 118,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 853,
+    "eventId": 118,
+    "bonusRate": 0.0
+  },
+  {
     "cardId": 854,
     "eventId": 119,
     "bonusRate": 20.0
@@ -3007,6 +3087,131 @@
   {
     "cardId": 882,
     "eventId": 123,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 884,
+    "eventId": 124,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 885,
+    "eventId": 124,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 886,
+    "eventId": 124,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 887,
+    "eventId": 124,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 888,
+    "eventId": 124,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 890,
+    "eventId": 125,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 891,
+    "eventId": 125,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 892,
+    "eventId": 125,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 893,
+    "eventId": 125,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 894,
+    "eventId": 125,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 898,
+    "eventId": 126,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 899,
+    "eventId": 126,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 900,
+    "eventId": 126,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 901,
+    "eventId": 126,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 902,
+    "eventId": 126,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 903,
+    "eventId": 127,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 904,
+    "eventId": 127,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 905,
+    "eventId": 127,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 906,
+    "eventId": 127,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 907,
+    "eventId": 127,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 909,
+    "eventId": 128,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 910,
+    "eventId": 128,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 911,
+    "eventId": 128,
+    "bonusRate": 20.0
+  },
+  {
+    "cardId": 912,
+    "eventId": 128,
+    "bonusRate": 0.0
+  },
+  {
+    "cardId": 913,
+    "eventId": 128,
     "bonusRate": 0.0
   }
 ]

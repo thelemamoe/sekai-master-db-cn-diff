@@ -1108,7 +1108,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_full_combo_all",
     "requirement": 1,
-    "sentence": "在“多人演出·欢乐演出”中5人全部达成FULL COMBO。",
+    "sentence": "在“多人演出”中5人全部达成FULL COMBO。",
     "rewards": [
       [
         1039
@@ -1134,7 +1134,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_same_honor",
     "requirement": 1,
-    "sentence": "在“多人演出·欢乐演出”中5人均装备至少1个相同称号。",
+    "sentence": "在“多人演出”中5人均装备至少1个相同称号。",
     "rewards": [
       [
         1041
@@ -1147,7 +1147,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_stamp",
     "requirement": 1000,
-    "sentence": "在“多人演出·欢乐演出、排位赛”中发送1000次表情。",
+    "sentence": "在“多人演出、排位赛”中发送1000次表情。",
     "rewards": [
       [
         1042
@@ -1426,7 +1426,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_mvp",
     "requirement": 100,
-    "sentence": "在“多人演出·欢乐演出”中获得100次“MVP”。",
+    "sentence": "在“多人演出”中获得100次“MVP”。",
     "rewards": [
       [
         1052
@@ -1439,7 +1439,7 @@
     "seq": 1,
     "honorMissionType": "multi_live_super_star",
     "requirement": 100,
-    "sentence": "在“多人演出·欢乐演出”中获得100次“SUPER STAR”。",
+    "sentence": "在“多人演出”中获得100次“SUPER STAR”。",
     "rewards": [
       [
         1053
@@ -1452,7 +1452,7 @@
     "seq": 1,
     "honorMissionType": "collect_costume_3d",
     "requirement": 50,
-    "sentence": "获得50种服装。\n（包含获得成员时的原版服装，专家等级养成的其他颜色版本，通过服装商店制作）",
+    "sentence": "获得50种服装。\n（获得成员时的原版,专家等级养成的其他颜色版本,服装店制作的服装）",
     "rewards": [
       [
         1054
@@ -2661,7 +2661,7 @@
     "seq": 1,
     "honorMissionType": "clear_multi_live_all_friend",
     "requirement": 1,
-    "sentence": "与4名好友一起游玩1次“多人演出·欢乐演出”。",
+    "sentence": "与4名好友一起游玩1次“多人演出”。",
     "rewards": [
       [
         1142
@@ -7350,6 +7350,558 @@
     "startAt": 1640880000000
   },
   {
+    "id": 20001,
+    "seq": 15,
+    "honorMissionType": "play_level_clear",
+    "requirement": 15,
+    "sentence": "完成等级至少为15的歌曲。",
+    "rewards": [
+      [
+        20001
+      ]
+    ]
+  },
+  {
+    "id": 20002,
+    "seq": 16,
+    "honorMissionType": "play_level_clear",
+    "requirement": 16,
+    "sentence": "完成等级至少为16的歌曲。",
+    "rewards": [
+      [
+        20002
+      ]
+    ]
+  },
+  {
+    "id": 20003,
+    "seq": 17,
+    "honorMissionType": "play_level_clear",
+    "requirement": 17,
+    "sentence": "完成等级至少为17的歌曲。",
+    "rewards": [
+      [
+        20003
+      ]
+    ]
+  },
+  {
+    "id": 20004,
+    "seq": 18,
+    "honorMissionType": "play_level_clear",
+    "requirement": 18,
+    "sentence": "完成等级至少为18的歌曲。",
+    "rewards": [
+      [
+        20004
+      ]
+    ]
+  },
+  {
+    "id": 20005,
+    "seq": 19,
+    "honorMissionType": "play_level_clear",
+    "requirement": 19,
+    "sentence": "完成等级至少为19的歌曲。",
+    "rewards": [
+      [
+        20005
+      ]
+    ]
+  },
+  {
+    "id": 20006,
+    "seq": 20,
+    "honorMissionType": "play_level_clear",
+    "requirement": 20,
+    "sentence": "完成等级至少为20的歌曲。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 20007,
+    "seq": 21,
+    "honorMissionType": "play_level_clear",
+    "requirement": 21,
+    "sentence": "完成等级至少为21的歌曲。",
+    "rewards": [
+      [
+        20007
+      ]
+    ]
+  },
+  {
+    "id": 20008,
+    "seq": 22,
+    "honorMissionType": "play_level_clear",
+    "requirement": 22,
+    "sentence": "完成等级至少为22的歌曲。",
+    "rewards": [
+      [
+        20008
+      ]
+    ]
+  },
+  {
+    "id": 20009,
+    "seq": 23,
+    "honorMissionType": "play_level_clear",
+    "requirement": 23,
+    "sentence": "完成等级至少为23的歌曲。",
+    "rewards": [
+      [
+        20009
+      ]
+    ]
+  },
+  {
+    "id": 20010,
+    "seq": 24,
+    "honorMissionType": "play_level_clear",
+    "requirement": 24,
+    "sentence": "完成等级至少为24的歌曲。",
+    "rewards": [
+      [
+        20010
+      ]
+    ]
+  },
+  {
+    "id": 20011,
+    "seq": 25,
+    "honorMissionType": "play_level_clear",
+    "requirement": 25,
+    "sentence": "完成等级至少为25的歌曲。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 20012,
+    "seq": 26,
+    "honorMissionType": "play_level_clear",
+    "requirement": 26,
+    "sentence": "完成等级至少为26的歌曲。",
+    "rewards": [
+      [
+        20012
+      ]
+    ]
+  },
+  {
+    "id": 20013,
+    "seq": 27,
+    "honorMissionType": "play_level_clear",
+    "requirement": 27,
+    "sentence": "完成等级至少为27的歌曲。",
+    "rewards": [
+      [
+        20013
+      ]
+    ]
+  },
+  {
+    "id": 20014,
+    "seq": 28,
+    "honorMissionType": "play_level_clear",
+    "requirement": 28,
+    "sentence": "完成等级至少为28的歌曲。",
+    "rewards": [
+      [
+        20014
+      ]
+    ]
+  },
+  {
+    "id": 20015,
+    "seq": 29,
+    "honorMissionType": "play_level_clear",
+    "requirement": 29,
+    "sentence": "完成等级至少为29的歌曲。",
+    "rewards": [
+      [
+        20015
+      ]
+    ]
+  },
+  {
+    "id": 20016,
+    "seq": 30,
+    "honorMissionType": "play_level_clear",
+    "requirement": 30,
+    "sentence": "完成等级至少为30的歌曲。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 20017,
+    "seq": 31,
+    "honorMissionType": "play_level_clear",
+    "requirement": 31,
+    "sentence": "完成等级至少为31的歌曲。",
+    "rewards": [
+      [
+        20017
+      ]
+    ]
+  },
+  {
+    "id": 20018,
+    "seq": 32,
+    "honorMissionType": "play_level_clear",
+    "requirement": 32,
+    "sentence": "完成等级至少为32的歌曲。",
+    "rewards": [
+      [
+        20018
+      ]
+    ]
+  },
+  {
+    "id": 20019,
+    "seq": 33,
+    "honorMissionType": "play_level_clear",
+    "requirement": 33,
+    "sentence": "完成等级至少为33的歌曲。",
+    "rewards": [
+      [
+        20019
+      ]
+    ]
+  },
+  {
+    "id": 20020,
+    "seq": 34,
+    "honorMissionType": "play_level_clear",
+    "requirement": 34,
+    "sentence": "完成等级至少为34的歌曲。",
+    "rewards": [
+      [
+        20020
+      ]
+    ]
+  },
+  {
+    "id": 20021,
+    "seq": 35,
+    "honorMissionType": "play_level_clear",
+    "requirement": 35,
+    "sentence": "完成等级至少为35的歌曲。",
+    "rewards": [
+      [
+        20021
+      ]
+    ]
+  },
+  {
+    "id": 20022,
+    "seq": 36,
+    "honorMissionType": "play_level_clear",
+    "requirement": 36,
+    "sentence": "完成等级至少为36的歌曲。",
+    "rewards": [
+      [
+        20022
+      ]
+    ]
+  },
+  {
+    "id": 20023,
+    "seq": 37,
+    "honorMissionType": "play_level_clear",
+    "requirement": 37,
+    "sentence": "完成等级至少为37的歌曲。",
+    "rewards": [
+      [
+        20023
+      ]
+    ]
+  },
+  {
+    "id": 21001,
+    "seq": 15,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 15,
+    "sentence": "以FULL COMBO完成等级至少为15的歌曲。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 21002,
+    "seq": 16,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 16,
+    "sentence": "以FULL COMBO完成等级至少为16的歌曲。",
+    "rewards": [
+      [
+        21002
+      ]
+    ]
+  },
+  {
+    "id": 21003,
+    "seq": 17,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 17,
+    "sentence": "以FULL COMBO完成等级至少为17的歌曲。",
+    "rewards": [
+      [
+        21003
+      ]
+    ]
+  },
+  {
+    "id": 21004,
+    "seq": 18,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 18,
+    "sentence": "以FULL COMBO完成等级至少为18的歌曲。",
+    "rewards": [
+      [
+        21004
+      ]
+    ]
+  },
+  {
+    "id": 21005,
+    "seq": 19,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 19,
+    "sentence": "以FULL COMBO完成等级至少为19的歌曲。",
+    "rewards": [
+      [
+        21005
+      ]
+    ]
+  },
+  {
+    "id": 21006,
+    "seq": 20,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 20,
+    "sentence": "以FULL COMBO完成等级至少为20的歌曲。",
+    "rewards": [
+      [
+        21006
+      ]
+    ]
+  },
+  {
+    "id": 21007,
+    "seq": 21,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 21,
+    "sentence": "以FULL COMBO完成等级至少为21的歌曲。",
+    "rewards": [
+      [
+        21007
+      ]
+    ]
+  },
+  {
+    "id": 21008,
+    "seq": 22,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 22,
+    "sentence": "以FULL COMBO完成等级至少为22的歌曲。",
+    "rewards": [
+      [
+        21008
+      ]
+    ]
+  },
+  {
+    "id": 21009,
+    "seq": 23,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 23,
+    "sentence": "以FULL COMBO完成等级至少为23的歌曲。",
+    "rewards": [
+      [
+        21009
+      ]
+    ]
+  },
+  {
+    "id": 21010,
+    "seq": 24,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 24,
+    "sentence": "以FULL COMBO完成等级至少为24的歌曲。",
+    "rewards": [
+      [
+        21010
+      ]
+    ]
+  },
+  {
+    "id": 21011,
+    "seq": 25,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 25,
+    "sentence": "以FULL COMBO完成等级至少为25的歌曲。",
+    "rewards": [
+      [
+        21011
+      ]
+    ]
+  },
+  {
+    "id": 21012,
+    "seq": 26,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 26,
+    "sentence": "以FULL COMBO完成等级至少为26的歌曲。",
+    "rewards": [
+      [
+        21012
+      ]
+    ]
+  },
+  {
+    "id": 21013,
+    "seq": 27,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 27,
+    "sentence": "以FULL COMBO完成等级至少为27的歌曲。",
+    "rewards": [
+      [
+        21013
+      ]
+    ]
+  },
+  {
+    "id": 21014,
+    "seq": 28,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 28,
+    "sentence": "以FULL COMBO完成等级至少为28的歌曲。",
+    "rewards": [
+      [
+        21014
+      ]
+    ]
+  },
+  {
+    "id": 21015,
+    "seq": 29,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 29,
+    "sentence": "以FULL COMBO完成等级至少为29的歌曲。",
+    "rewards": [
+      [
+        21015
+      ]
+    ]
+  },
+  {
+    "id": 21016,
+    "seq": 30,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 30,
+    "sentence": "以FULL COMBO完成等级至少为30的歌曲。",
+    "rewards": [
+      [
+        21016
+      ]
+    ]
+  },
+  {
+    "id": 21017,
+    "seq": 31,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 31,
+    "sentence": "以FULL COMBO完成等级至少为31的歌曲。",
+    "rewards": [
+      [
+        21017
+      ]
+    ]
+  },
+  {
+    "id": 21018,
+    "seq": 32,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 32,
+    "sentence": "以FULL COMBO完成等级至少为32的歌曲。",
+    "rewards": [
+      [
+        21018
+      ]
+    ]
+  },
+  {
+    "id": 21019,
+    "seq": 33,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 33,
+    "sentence": "以FULL COMBO完成等级至少为33的歌曲。",
+    "rewards": [
+      [
+        21019
+      ]
+    ]
+  },
+  {
+    "id": 21020,
+    "seq": 34,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 34,
+    "sentence": "以FULL COMBO完成等级至少为34的歌曲。",
+    "rewards": [
+      [
+        21020
+      ]
+    ]
+  },
+  {
+    "id": 21021,
+    "seq": 35,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 35,
+    "sentence": "以FULL COMBO完成等级至少为35的歌曲。",
+    "rewards": [
+      [
+        21021
+      ]
+    ]
+  },
+  {
+    "id": 21022,
+    "seq": 36,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 36,
+    "sentence": "以FULL COMBO完成等级至少为36的歌曲。",
+    "rewards": [
+      [
+        21022
+      ]
+    ]
+  },
+  {
+    "id": 21023,
+    "seq": 37,
+    "honorMissionType": "play_level_full_combo_clear",
+    "requirement": 37,
+    "sentence": "以FULL COMBO完成等级至少为37的歌曲。",
+    "rewards": [
+      [
+        21023
+      ]
+    ]
+  },
+  {
     "id": 50001,
     "seq": 1,
     "honorMissionType": "level_with_max_card_total",
@@ -7458,7 +8010,7 @@
     "seq": 9,
     "honorMissionType": "special_training_card_total",
     "requirement": 25,
-    "sentence": "拥有25名满级成员。",
+    "sentence": "拥有25名完成特训的成员。",
     "rewards": [
       [
         50009
@@ -7471,7 +8023,7 @@
     "seq": 10,
     "honorMissionType": "special_training_card_total",
     "requirement": 50,
-    "sentence": "拥有50名满级成员。",
+    "sentence": "拥有50名完成特训的成员。",
     "rewards": [
       [
         50010
@@ -7484,7 +8036,7 @@
     "seq": 11,
     "honorMissionType": "special_training_card_total",
     "requirement": 75,
-    "sentence": "拥有75名满级成员。",
+    "sentence": "拥有75名完成特训的成员。",
     "rewards": [
       [
         50011
@@ -7497,7 +8049,7 @@
     "seq": 12,
     "honorMissionType": "special_training_card_total",
     "requirement": 100,
-    "sentence": "拥有100名满级成员。",
+    "sentence": "拥有100名完成特训的成员。",
     "rewards": [
       [
         50012
@@ -7510,7 +8062,7 @@
     "seq": 13,
     "honorMissionType": "special_training_card_total",
     "requirement": 125,
-    "sentence": "拥有125名满级成员。",
+    "sentence": "拥有125名完成特训的成员。",
     "rewards": [
       [
         50013
@@ -7523,7 +8075,7 @@
     "seq": 14,
     "honorMissionType": "special_training_card_total",
     "requirement": 150,
-    "sentence": "拥有150名满级成员。",
+    "sentence": "拥有150名完成特训的成员。",
     "rewards": [
       [
         50014
@@ -7946,5 +8498,1721 @@
       ]
     ],
     "startAt": 1640880000000
+  },
+  {
+    "id": 60000,
+    "seq": 1,
+    "honorMissionType": "deck_power_live",
+    "requirement": 110000,
+    "sentence": "编组综合力达到11万并完成1次演出。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 60001,
+    "seq": 2,
+    "honorMissionType": "deck_power_live",
+    "requirement": 120000,
+    "sentence": "编组综合力达到12万并完成1次演出。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 60002,
+    "seq": 3,
+    "honorMissionType": "deck_power_live",
+    "requirement": 130000,
+    "sentence": "编组综合力达到13万并完成1次演出。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 60003,
+    "seq": 4,
+    "honorMissionType": "deck_power_live",
+    "requirement": 140000,
+    "sentence": "编组综合力达到14万并完成1次演出。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 60004,
+    "seq": 5,
+    "honorMissionType": "deck_power_live",
+    "requirement": 150000,
+    "sentence": "编组综合力达到15万并完成1次演出。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 60005,
+    "seq": 6,
+    "honorMissionType": "deck_power_live",
+    "requirement": 160000,
+    "sentence": "编组综合力达到16万并完成1次演出。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 60006,
+    "seq": 7,
+    "honorMissionType": "deck_power_live",
+    "requirement": 170000,
+    "sentence": "编组综合力达到17万并完成1次演出。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 60007,
+    "seq": 8,
+    "honorMissionType": "deck_power_live",
+    "requirement": 180000,
+    "sentence": "编组综合力达到18万并完成1次演出。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 60008,
+    "seq": 9,
+    "honorMissionType": "deck_power_live",
+    "requirement": 190000,
+    "sentence": "编组综合力达到19万并完成1次演出。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 60009,
+    "seq": 10,
+    "honorMissionType": "deck_power_live",
+    "requirement": 200000,
+    "sentence": "编组综合力达到20万并完成1次演出。",
+    "rewards": [
+      [
+        20006
+      ]
+    ]
+  },
+  {
+    "id": 60010,
+    "seq": 11,
+    "honorMissionType": "deck_power_live",
+    "requirement": 210000,
+    "sentence": "编组综合力达到21万并完成1次演出。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 60011,
+    "seq": 12,
+    "honorMissionType": "deck_power_live",
+    "requirement": 220000,
+    "sentence": "编组综合力达到22万并完成1次演出。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 60012,
+    "seq": 13,
+    "honorMissionType": "deck_power_live",
+    "requirement": 230000,
+    "sentence": "编组综合力达到23万并完成1次演出。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 60013,
+    "seq": 14,
+    "honorMissionType": "deck_power_live",
+    "requirement": 240000,
+    "sentence": "编组综合力达到24万并完成1次演出。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 60014,
+    "seq": 15,
+    "honorMissionType": "deck_power_live",
+    "requirement": 250000,
+    "sentence": "编组综合力达到25万并完成1次演出。",
+    "rewards": [
+      [
+        20011
+      ]
+    ]
+  },
+  {
+    "id": 60015,
+    "seq": 16,
+    "honorMissionType": "deck_power_live",
+    "requirement": 260000,
+    "sentence": "编组综合力达到26万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60016,
+    "seq": 17,
+    "honorMissionType": "deck_power_live",
+    "requirement": 270000,
+    "sentence": "编组综合力达到27万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60017,
+    "seq": 18,
+    "honorMissionType": "deck_power_live",
+    "requirement": 280000,
+    "sentence": "编组综合力达到28万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60018,
+    "seq": 19,
+    "honorMissionType": "deck_power_live",
+    "requirement": 290000,
+    "sentence": "编组综合力达到29万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60019,
+    "seq": 20,
+    "honorMissionType": "deck_power_live",
+    "requirement": 300000,
+    "sentence": "编组综合力达到30万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60020,
+    "seq": 21,
+    "honorMissionType": "deck_power_live",
+    "requirement": 310000,
+    "sentence": "编组综合力达到31万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60021,
+    "seq": 22,
+    "honorMissionType": "deck_power_live",
+    "requirement": 320000,
+    "sentence": "编组综合力达到32万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 60022,
+    "seq": 23,
+    "honorMissionType": "deck_power_live",
+    "requirement": 330000,
+    "sentence": "编组综合力达到33万并完成1次演出。",
+    "rewards": [
+      [
+        20016
+      ]
+    ]
+  },
+  {
+    "id": 61000,
+    "seq": 1,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 1,
+    "sentence": "不使用跳过或快进功能，观看1个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61001,
+    "seq": 2,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 2,
+    "sentence": "不使用跳过或快进功能，观看2个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61002,
+    "seq": 3,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 3,
+    "sentence": "不使用跳过或快进功能，观看3个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61003,
+    "seq": 4,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 4,
+    "sentence": "不使用跳过或快进功能，观看4个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61004,
+    "seq": 5,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 5,
+    "sentence": "不使用跳过或快进功能，观看5个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61005,
+    "seq": 6,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 6,
+    "sentence": "不使用跳过或快进功能，观看6个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61006,
+    "seq": 7,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 7,
+    "sentence": "不使用跳过或快进功能，观看7个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61007,
+    "seq": 8,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 8,
+    "sentence": "不使用跳过或快进功能，观看8个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61008,
+    "seq": 9,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 9,
+    "sentence": "不使用跳过或快进功能，观看9个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61009,
+    "seq": 10,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 10,
+    "sentence": "不使用跳过或快进功能，观看10个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61010,
+    "seq": 11,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 11,
+    "sentence": "不使用跳过或快进功能，观看11个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61011,
+    "seq": 12,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 12,
+    "sentence": "不使用跳过或快进功能，观看12个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61012,
+    "seq": 13,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 13,
+    "sentence": "不使用跳过或快进功能，观看13个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61013,
+    "seq": 14,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 14,
+    "sentence": "不使用跳过或快进功能，观看14个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61014,
+    "seq": 15,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 15,
+    "sentence": "不使用跳过或快进功能，观看15个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61015,
+    "seq": 16,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 16,
+    "sentence": "不使用跳过或快进功能，观看16个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61016,
+    "seq": 17,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 17,
+    "sentence": "不使用跳过或快进功能，观看17个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61017,
+    "seq": 18,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 18,
+    "sentence": "不使用跳过或快进功能，观看18个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61018,
+    "seq": 19,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 19,
+    "sentence": "不使用跳过或快进功能，观看19个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61019,
+    "seq": 20,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 20,
+    "sentence": "不使用跳过或快进功能，观看20个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61020,
+    "seq": 21,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 21,
+    "sentence": "不使用跳过或快进功能，观看21个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61021,
+    "seq": 22,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 22,
+    "sentence": "不使用跳过或快进功能，观看22个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61022,
+    "seq": 23,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 23,
+    "sentence": "不使用跳过或快进功能，观看23个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61023,
+    "seq": 24,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 24,
+    "sentence": "不使用跳过或快进功能，观看24个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61024,
+    "seq": 25,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 25,
+    "sentence": "不使用跳过或快进功能，观看25个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61025,
+    "seq": 26,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 26,
+    "sentence": "不使用跳过或快进功能，观看26个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61026,
+    "seq": 27,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 27,
+    "sentence": "不使用跳过或快进功能，观看27个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61027,
+    "seq": 28,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 28,
+    "sentence": "不使用跳过或快进功能，观看28个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61028,
+    "seq": 29,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 29,
+    "sentence": "不使用跳过或快进功能，观看29个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61029,
+    "seq": 30,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 30,
+    "sentence": "不使用跳过或快进功能，观看30个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61030,
+    "seq": 31,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 31,
+    "sentence": "不使用跳过或快进功能，观看31个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61031,
+    "seq": 32,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 32,
+    "sentence": "不使用跳过或快进功能，观看32个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61032,
+    "seq": 33,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 33,
+    "sentence": "不使用跳过或快进功能，观看33个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61033,
+    "seq": 34,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 34,
+    "sentence": "不使用跳过或快进功能，观看34个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61034,
+    "seq": 35,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 35,
+    "sentence": "不使用跳过或快进功能，观看35个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61035,
+    "seq": 36,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 36,
+    "sentence": "不使用跳过或快进功能，观看36个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61036,
+    "seq": 37,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 37,
+    "sentence": "不使用跳过或快进功能，观看37个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61037,
+    "seq": 38,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 38,
+    "sentence": "不使用跳过或快进功能，观看38个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61038,
+    "seq": 39,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 39,
+    "sentence": "不使用跳过或快进功能，观看39个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61039,
+    "seq": 40,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 40,
+    "sentence": "不使用跳过或快进功能，观看40个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61040,
+    "seq": 41,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 41,
+    "sentence": "不使用跳过或快进功能，观看41个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61041,
+    "seq": 42,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 42,
+    "sentence": "不使用跳过或快进功能，观看42个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61042,
+    "seq": 43,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 43,
+    "sentence": "不使用跳过或快进功能，观看43个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61043,
+    "seq": 44,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 44,
+    "sentence": "不使用跳过或快进功能，观看44个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61044,
+    "seq": 45,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 45,
+    "sentence": "不使用跳过或快进功能，观看45个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61045,
+    "seq": 46,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 46,
+    "sentence": "不使用跳过或快进功能，观看46个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61046,
+    "seq": 47,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 47,
+    "sentence": "不使用跳过或快进功能，观看47个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61047,
+    "seq": 48,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 48,
+    "sentence": "不使用跳过或快进功能，观看48个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61048,
+    "seq": 49,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 49,
+    "sentence": "不使用跳过或快进功能，观看49个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61049,
+    "seq": 50,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 50,
+    "sentence": "不使用跳过或快进功能，观看50个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61050,
+    "seq": 51,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 51,
+    "sentence": "不使用跳过或快进功能，观看51个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61051,
+    "seq": 52,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 52,
+    "sentence": "不使用跳过或快进功能，观看52个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61052,
+    "seq": 53,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 53,
+    "sentence": "不使用跳过或快进功能，观看53个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61053,
+    "seq": 54,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 54,
+    "sentence": "不使用跳过或快进功能，观看54个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61054,
+    "seq": 55,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 55,
+    "sentence": "不使用跳过或快进功能，观看55个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61055,
+    "seq": 56,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 56,
+    "sentence": "不使用跳过或快进功能，观看56个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61056,
+    "seq": 57,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 57,
+    "sentence": "不使用跳过或快进功能，观看57个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61057,
+    "seq": 58,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 58,
+    "sentence": "不使用跳过或快进功能，观看58个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61058,
+    "seq": 59,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 59,
+    "sentence": "不使用跳过或快进功能，观看59个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61059,
+    "seq": 60,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 60,
+    "sentence": "不使用跳过或快进功能，观看60个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61060,
+    "seq": 61,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 61,
+    "sentence": "不使用跳过或快进功能，观看61个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61061,
+    "seq": 62,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 62,
+    "sentence": "不使用跳过或快进功能，观看62个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61062,
+    "seq": 63,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 63,
+    "sentence": "不使用跳过或快进功能，观看63个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61063,
+    "seq": 64,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 64,
+    "sentence": "不使用跳过或快进功能，观看64个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61064,
+    "seq": 65,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 65,
+    "sentence": "不使用跳过或快进功能，观看65个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61065,
+    "seq": 66,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 66,
+    "sentence": "不使用跳过或快进功能，观看66个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61066,
+    "seq": 67,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 67,
+    "sentence": "不使用跳过或快进功能，观看67个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61067,
+    "seq": 68,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 68,
+    "sentence": "不使用跳过或快进功能，观看68个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61068,
+    "seq": 69,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 69,
+    "sentence": "不使用跳过或快进功能，观看69个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61069,
+    "seq": 70,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 70,
+    "sentence": "不使用跳过或快进功能，观看70个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61070,
+    "seq": 71,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 71,
+    "sentence": "不使用跳过或快进功能，观看71个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61071,
+    "seq": 72,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 72,
+    "sentence": "不使用跳过或快进功能，观看72个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61072,
+    "seq": 73,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 73,
+    "sentence": "不使用跳过或快进功能，观看73个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61073,
+    "seq": 74,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 74,
+    "sentence": "不使用跳过或快进功能，观看74个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61074,
+    "seq": 75,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 75,
+    "sentence": "不使用跳过或快进功能，观看75个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61075,
+    "seq": 76,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 76,
+    "sentence": "不使用跳过或快进功能，观看76个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61076,
+    "seq": 77,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 77,
+    "sentence": "不使用跳过或快进功能，观看77个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61077,
+    "seq": 78,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 78,
+    "sentence": "不使用跳过或快进功能，观看78个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61078,
+    "seq": 79,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 79,
+    "sentence": "不使用跳过或快进功能，观看79个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61079,
+    "seq": 80,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 80,
+    "sentence": "不使用跳过或快进功能，观看80个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61080,
+    "seq": 81,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 81,
+    "sentence": "不使用跳过或快进功能，观看81个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61081,
+    "seq": 82,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 82,
+    "sentence": "不使用跳过或快进功能，观看82个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61082,
+    "seq": 83,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 83,
+    "sentence": "不使用跳过或快进功能，观看83个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61083,
+    "seq": 84,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 84,
+    "sentence": "不使用跳过或快进功能，观看84个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61084,
+    "seq": 85,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 85,
+    "sentence": "不使用跳过或快进功能，观看85个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61085,
+    "seq": 86,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 86,
+    "sentence": "不使用跳过或快进功能，观看86个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61086,
+    "seq": 87,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 87,
+    "sentence": "不使用跳过或快进功能，观看87个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61087,
+    "seq": 88,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 88,
+    "sentence": "不使用跳过或快进功能，观看88个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61088,
+    "seq": 89,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 89,
+    "sentence": "不使用跳过或快进功能，观看89个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61089,
+    "seq": 90,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 90,
+    "sentence": "不使用跳过或快进功能，观看90个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61090,
+    "seq": 91,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 91,
+    "sentence": "不使用跳过或快进功能，观看91个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61091,
+    "seq": 92,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 92,
+    "sentence": "不使用跳过或快进功能，观看92个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61092,
+    "seq": 93,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 93,
+    "sentence": "不使用跳过或快进功能，观看93个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61093,
+    "seq": 94,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 94,
+    "sentence": "不使用跳过或快进功能，观看94个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61094,
+    "seq": 95,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 95,
+    "sentence": "不使用跳过或快进功能，观看95个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61095,
+    "seq": 96,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 96,
+    "sentence": "不使用跳过或快进功能，观看96个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61096,
+    "seq": 97,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 97,
+    "sentence": "不使用跳过或快进功能，观看97个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61097,
+    "seq": 98,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 98,
+    "sentence": "不使用跳过或快进功能，观看98个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61098,
+    "seq": 99,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 99,
+    "sentence": "不使用跳过或快进功能，观看99个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61099,
+    "seq": 100,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 100,
+    "sentence": "不使用跳过或快进功能，观看100个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61100,
+    "seq": 101,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 101,
+    "sentence": "不使用跳过或快进功能，观看101个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61101,
+    "seq": 102,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 102,
+    "sentence": "不使用跳过或快进功能，观看102个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61102,
+    "seq": 103,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 103,
+    "sentence": "不使用跳过或快进功能，观看103个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61103,
+    "seq": 104,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 104,
+    "sentence": "不使用跳过或快进功能，观看104个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61104,
+    "seq": 105,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 105,
+    "sentence": "不使用跳过或快进功能，观看105个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61105,
+    "seq": 106,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 106,
+    "sentence": "不使用跳过或快进功能，观看106个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61106,
+    "seq": 107,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 107,
+    "sentence": "不使用跳过或快进功能，观看107个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61107,
+    "seq": 108,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 108,
+    "sentence": "不使用跳过或快进功能，观看108个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61108,
+    "seq": 109,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 109,
+    "sentence": "不使用跳过或快进功能，观看109个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61109,
+    "seq": 110,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 110,
+    "sentence": "不使用跳过或快进功能，观看110个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61110,
+    "seq": 111,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 111,
+    "sentence": "不使用跳过或快进功能，观看111个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61111,
+    "seq": 112,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 112,
+    "sentence": "不使用跳过或快进功能，观看112个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61112,
+    "seq": 113,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 113,
+    "sentence": "不使用跳过或快进功能，观看113个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61113,
+    "seq": 114,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 114,
+    "sentence": "不使用跳过或快进功能，观看114个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61114,
+    "seq": 115,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 115,
+    "sentence": "不使用跳过或快进功能，观看115个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61115,
+    "seq": 116,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 116,
+    "sentence": "不使用跳过或快进功能，观看116个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61116,
+    "seq": 117,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 117,
+    "sentence": "不使用跳过或快进功能，观看117个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61117,
+    "seq": 118,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 118,
+    "sentence": "不使用跳过或快进功能，观看118个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61118,
+    "seq": 119,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 119,
+    "sentence": "不使用跳过或快进功能，观看119个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
+  },
+  {
+    "id": 61119,
+    "seq": 120,
+    "honorMissionType": "read_event_story_no_skip",
+    "requirement": 120,
+    "sentence": "不使用跳过或快进功能，观看120个活动的全部剧情。",
+    "rewards": [
+      [
+        21001
+      ]
+    ]
   }
 ]

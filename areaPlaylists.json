@@ -30,6 +30,30 @@
     "bgmName": "bgm_area_nightcode_untitled"
   },
   {
+    "id": 9,
+    "areaId": 19,
+    "assetbundleName": "vividbad_untitled_2",
+    "bgmName": "bgm_area_vividbad_untitled"
+  },
+  {
+    "id": 10,
+    "areaId": 20,
+    "assetbundleName": "wonderlands_untitled_2",
+    "bgmName": "bgm_area_wonderlands_untitled"
+  },
+  {
+    "id": 11,
+    "areaId": 21,
+    "assetbundleName": "nightcode_untitled_2",
+    "bgmName": "bgm_area_nightcode_untitled_2"
+  },
+  {
+    "id": 12,
+    "areaId": 22,
+    "assetbundleName": "collaboration_sanrio",
+    "bgmName": "bgm_area_sanrio_collabo"
+  },
+  {
     "id": 13,
     "areaId": 23,
     "assetbundleName": "april_fool_2024_01",

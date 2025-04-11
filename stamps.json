@@ -367,7 +367,7 @@
     "id": 29,
     "stampType": "illustration",
     "seq": 290,
-    "name": "[表情]真冬：乖乖女……",
+    "name": "[表情]真冬：好孩子……",
     "assetbundleName": "stamp0029",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 18,
@@ -458,7 +458,7 @@
     "id": 36,
     "stampType": "illustration",
     "seq": 360,
-    "name": "[表情]MEIKO：谢谢大家捧场",
+    "name": "[表情]MEIKO：谢谢大家捧场 ♪",
     "assetbundleName": "stamp0046",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 25,
@@ -1745,7 +1745,7 @@
     "id": 135,
     "stampType": "illustration",
     "seq": 1350,
-    "name": "[表情]心羽：扑通扑通",
+    "name": "[表情]心羽：扑通扑通……！",
     "assetbundleName": "stamp0400",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 9,
@@ -3058,7 +3058,7 @@
     "id": 236,
     "stampType": "illustration",
     "seq": 2360,
-    "name": "[表情]绘名：（自拍）",
+    "name": "[表情]绘名：请多关照♪",
     "assetbundleName": "stamp0210",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 19,
@@ -4745,7 +4745,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“雨过天晴的启明星\n后日谈·演唱会”"
+    "description": "参加“雨过天晴的启明星”\n后日谈·演唱会"
   },
   {
     "id": 422,
@@ -4758,7 +4758,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“被囚禁的提线木偶\n后日谈·演唱会”"
+    "description": "参加“被囚禁的提线木偶”\n后日谈·演唱会"
   },
   {
     "id": 423,
@@ -4771,7 +4771,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“全力以赴！奇幻万圣节！\n后日谈·演唱会”"
+    "description": "参加“全力以赴！奇幻万圣节！”\n后日谈·演唱会"
   },
   {
     "id": 424,
@@ -4784,7 +4784,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“此时此地再次启程！\n 后日谈·演唱会”"
+    "description": "参加“此时此地再次启程！”\n后日谈·演唱会"
   },
   {
     "id": 425,
@@ -4797,7 +4797,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“总有一天为你献上心连心的抒情诗\n后日谈·演唱会”"
+    "description": "参加“总有一天为你献上心连心的抒情诗”\n后日谈·演唱会"
   },
   {
     "id": 426,
@@ -4810,7 +4810,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“让歌声响彻，神圣之夜\n后日谈·演唱会”"
+    "description": "参加“让歌声响彻，神圣之夜”\n后日谈·演唱会"
   },
   {
     "id": 427,
@@ -4823,7 +4823,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“即使摇摆不定，但毅然勇往直前\n后日谈·演唱会”"
+    "description": "参加“即使摇摆不定，但毅然勇往直前”\n后日谈·演唱会"
   },
   {
     "id": 428,
@@ -4836,7 +4836,7 @@
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Color of Myself!\n后日谈·演唱会”"
+    "description": "参加“Color of Myself!”\n后日谈·演唱会"
   },
   {
     "id": 429,
@@ -4849,7 +4849,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Period of NOCTURNE\n后日谈·演唱会”"
+    "description": "参加“Period of NOCTURNE”\n后日谈·演唱会"
   },
   {
     "id": 430,
@@ -4862,7 +4862,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“饱和不了的黯淡色彩\n后日谈·演唱会”"
+    "description": "参加“饱和不了的黯淡色彩”\n后日谈·演唱会"
   },
   {
     "id": 431,
@@ -4875,7 +4875,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“梦想家的笑容\n后日谈·演唱会”"
+    "description": "参加“梦想家的笑容”\n后日谈·演唱会"
   },
   {
     "id": 432,
@@ -4888,7 +4888,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“天马家的女儿节\n后日谈·演唱会”"
+    "description": "参加“天马家的女儿节”\n后日谈·演唱会"
   },
   {
     "id": 433,
@@ -4901,7 +4901,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“传递心声！充满希望的舞台♪\n后日谈·演唱会”"
+    "description": "参加“传递心声！充满希望的舞台♪”\n后日谈·演唱会"
   },
   {
     "id": 434,
@@ -4911,7 +4911,7 @@
     "assetbundleName": "stamp0434",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 435,
@@ -4921,7 +4921,7 @@
     "assetbundleName": "stamp0435",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 436,
@@ -4931,7 +4931,7 @@
     "assetbundleName": "stamp0436",
     "balloonAssetbundleName": "balloon_stamp_03",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 437,
@@ -4941,7 +4941,7 @@
     "assetbundleName": "stamp0437",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 438,
@@ -4951,7 +4951,7 @@
     "assetbundleName": "stamp0438",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 439,
@@ -4961,7 +4961,7 @@
     "assetbundleName": "stamp0439",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 440,
@@ -4971,7 +4971,7 @@
     "assetbundleName": "stamp0440",
     "balloonAssetbundleName": "balloon_stamp_02",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 441,
@@ -4981,7 +4981,7 @@
     "assetbundleName": "stamp0441",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 442,
@@ -4991,7 +4991,7 @@
     "assetbundleName": "stamp0442",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 443,
@@ -5004,7 +5004,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“在樱花烂漫的世界中与你高歌\n后日谈·演唱会”"
+    "description": "参加“在樱花烂漫的世界中与你高歌”\n后日谈·演唱会"
   },
   {
     "id": 444,
@@ -5017,7 +5017,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Secret Distance\n后日谈·演唱会”"
+    "description": "参加“Secret Distance”\n后日谈·演唱会"
   },
   {
     "id": 445,
@@ -5030,7 +5030,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Resonate with you\n后日谈·演唱会”"
+    "description": "参加“Resonate with you”\n后日谈·演唱会"
   },
   {
     "id": 446,
@@ -5043,7 +5043,7 @@
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“STRAY BAD DOG\n后日谈·演唱会”"
+    "description": "参加“STRAY BAD DOG”\n后日谈·演唱会"
   },
   {
     "id": 447,
@@ -5056,7 +5056,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“让我分担你的烦恼！心跳雀跃的郊游\n后日谈·演唱会”"
+    "description": "参加“让我分担你的烦恼！心跳雀跃的郊游”\n后日谈·演唱会"
   },
   {
     "id": 448,
@@ -5069,7 +5069,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“为努力的你营造闲暇时光！\n后日谈·演唱会”"
+    "description": "参加“为努力的你营造闲暇时光！”\n后日谈·演唱会"
   },
   {
     "id": 449,
@@ -5082,7 +5082,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“为纯白的你唱响誓言之歌！\n后日谈·演唱会”"
+    "description": "参加“为纯白的你唱响誓言之歌！”\n后日谈·演唱会"
   },
   {
     "id": 450,
@@ -5095,7 +5095,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“奇幻魔法表演时间！\n后日谈·演唱会”"
+    "description": "参加“奇幻魔法表演时间！”\n后日谈·演唱会"
   },
   {
     "id": 451,
@@ -5108,7 +5108,7 @@
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“珍藏在心中的康乃馨\n后日谈·演唱会”"
+    "description": "参加“珍藏在心中的康乃馨”\n后日谈·演唱会"
   },
   {
     "id": 452,
@@ -5121,7 +5121,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Unnamed Harmony\n后日谈·演唱会”"
+    "description": "参加“Unnamed Harmony”\n后日谈·演唱会"
   },
   {
     "id": 453,
@@ -5134,7 +5134,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Awakening Beat \n后日谈·演唱会”"
+    "description": "参加“Awakening Beat ”\n后日谈·演唱会"
   },
   {
     "id": 454,
@@ -5147,7 +5147,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“夏日庆典，那响彻云霄的声音\n后日谈·演唱会”"
+    "description": "参加“夏日庆典，那响彻云霄的声音”\n后日谈·演唱会"
   },
   {
     "id": 455,
@@ -5160,7 +5160,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“这一定是最棒的summer!\n后日谈·演唱会”"
+    "description": "参加“这一定是最棒的summer!”\n后日谈·演唱会"
   },
   {
     "id": 456,
@@ -5173,7 +5173,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Happy lovely everyday!\n后日谈·演唱会”"
+    "description": "参加“Happy lovely everyday!”\n后日谈·演唱会"
   },
   {
     "id": 457,
@@ -5186,7 +5186,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“对美人鱼充满憧憬\n后日谈·演唱会”"
+    "description": "参加“对美人鱼充满憧憬”\n后日谈·演唱会"
   },
   {
     "id": 458,
@@ -5199,7 +5199,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“两人与月兔\n后日谈·演唱会”"
+    "description": "参加“两人与月兔”\n后日谈·演唱会"
   },
   {
     "id": 459,
@@ -5212,7 +5212,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Knock the Future!! \n后日谈·演唱会”"
+    "description": "参加“Knock the Future!! ”\n后日谈·演唱会"
   },
   {
     "id": 460,
@@ -5225,7 +5225,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“光之幻影\n后日谈·演唱会”"
+    "description": "参加“光之幻影”\n后日谈·演唱会"
   },
   {
     "id": 461,
@@ -5238,7 +5238,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“缤纷粉丝节！\n后日谈·演唱会”"
+    "description": "参加“缤纷粉丝节！”\n后日谈·演唱会"
   },
   {
     "id": 462,
@@ -5471,6 +5471,71 @@
     "archivePublishedAt": 1233288000000
   },
   {
+    "id": 485,
+    "stampType": "illustration",
+    "seq": 4850,
+    "name": "[表情]未来：要珍惜这个心愿哦",
+    "assetbundleName": "stamp0485",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 27,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1233288000000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 486,
+    "stampType": "illustration",
+    "seq": 4860,
+    "name": "[表情]未来：今天也要活泼又可爱♪",
+    "assetbundleName": "stamp0486",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 28,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 487,
+    "stampType": "illustration",
+    "seq": 4870,
+    "name": "[表情]未来：真的要止步于此吗？",
+    "assetbundleName": "stamp0487",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 29,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 488,
+    "stampType": "illustration",
+    "seq": 4880,
+    "name": "[表情]未来：欢迎来到「世界」～",
+    "assetbundleName": "stamp0488",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 30,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 489,
+    "stampType": "illustration",
+    "seq": 4890,
+    "name": "[表情]未来：快来……",
+    "assetbundleName": "stamp0489",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 31,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "在表情商店购买"
+  },
+  {
     "id": 490,
     "stampType": "illustration",
     "seq": 4900,
@@ -5481,7 +5546,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Bout for Beside You \n后日谈·演唱会”"
+    "description": "参加“Bout for Beside You ”\n后日谈·演唱会"
   },
   {
     "id": 491,
@@ -5494,7 +5559,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“重燃的梦想\n后日谈·演唱会”"
+    "description": "参加“重燃的梦想”\n后日谈·演唱会"
   },
   {
     "id": 492,
@@ -5507,7 +5572,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“我的足迹 你的止境 \n后日谈·演唱会”"
+    "description": "参加“我的足迹 你的止境 ”\n后日谈·演唱会"
   },
   {
     "id": 493,
@@ -5520,7 +5585,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“矢志不摇的心愿，此刻以话语传达\n后日谈·演唱会”"
+    "description": "参加“矢志不摇的心愿，此刻以话语传达”\n后日谈·演唱会"
   },
   {
     "id": 494,
@@ -5533,7 +5598,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“搭档·趣事·欢乐时刻♪\n后日谈·演唱会”"
+    "description": "参加“搭档·趣事·欢乐时刻♪”\n后日谈·演唱会"
   },
   {
     "id": 495,
@@ -5546,7 +5611,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“交织的旋律 点亮的温暖\n后日谈·演唱会”"
+    "description": "参加“交织的旋律 点亮的温暖”\n后日谈·演唱会"
   },
   {
     "id": 496,
@@ -5559,7 +5624,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“MOREMOREMakingXmas\n后日谈·演唱会”"
+    "description": "参加“MOREMOREMakingXmas”\n后日谈·演唱会"
   },
   {
     "id": 497,
@@ -5572,7 +5637,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Same Dreams,Same Colors\n后日谈·演唱会”"
+    "description": "参加“Same Dreams,Same Colors”\n后日谈·演唱会"
   },
   {
     "id": 498,
@@ -5585,7 +5650,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“祈愿的未来 憧憬的明天\n后日谈·演唱会”"
+    "description": "参加“祈愿的未来 憧憬的明天”\n后日谈·演唱会"
   },
   {
     "id": 499,
@@ -5598,7 +5663,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“POP IN MY HEART!!\n后日谈·演唱会”"
+    "description": "参加“POP IN MY HEART!!”\n后日谈·演唱会"
   },
   {
     "id": 500,
@@ -5611,7 +5676,7 @@
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“总有一天，会从绝望的深渊\n后日谈·演唱会”"
+    "description": "参加“总有一天，会从绝望的深渊”\n后日谈·演唱会"
   },
   {
     "id": 501,
@@ -5962,7 +6027,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“秘密♡情人节大作战！\n后日谈·演唱会”"
+    "description": "参加“秘密♡情人节大作战！”\n后日谈·演唱会"
   },
   {
     "id": 528,
@@ -5975,7 +6040,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Legend still vivid\n后日谈·演唱会”"
+    "description": "参加“Legend still vivid”\n后日谈·演唱会"
   },
   {
     "id": 529,
@@ -5988,7 +6053,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“那一天，天空遥不可及\n后日谈·演唱会”"
+    "description": "参加“那一天，天空遥不可及”\n后日谈·演唱会"
   },
   {
     "id": 530,
@@ -6051,7 +6116,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“慌慌张张？！怪盗绅士的白色情人节\n后日谈·演唱会”"
+    "description": "参加“慌慌张张？！怪盗绅士的白色情人节”\n后日谈·演唱会"
   },
   {
     "id": 536,
@@ -6064,7 +6129,7 @@
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1233288000000,
-    "description": "参加“Cast Spell on You\n后日谈·演唱会”"
+    "description": "参加“Cast Spell on You”\n后日谈·演唱会"
   },
   {
     "id": 537,
@@ -6077,7 +6142,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1679295600000,
-    "description": "参加“在空白的画布上描绘自我\n后日谈·演唱会”"
+    "description": "参加“在空白的画布上描绘自我”\n后日谈·演唱会"
   },
   {
     "id": 538,
@@ -6090,7 +6155,7 @@
     "gameCharacterUnitId": 31,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1680159600000,
-    "description": "参加“「世界」之樱，相连的心愿\n后日谈·演唱会”"
+    "description": "参加“「世界」之樱，相连的心愿”\n后日谈·演唱会"
   },
   {
     "id": 539,
@@ -6103,7 +6168,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1681196400000,
-    "description": "参加“在璀璨耀眼的舞台上\n后日谈·演唱会”"
+    "description": "参加“在璀璨耀眼的舞台上”\n后日谈·演唱会"
   },
   {
     "id": 540,
@@ -6116,7 +6181,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1682060400000,
-    "description": "参加“Live with memories\n后日谈·演唱会”"
+    "description": "参加“Live with memories”\n后日谈·演唱会"
   },
   {
     "id": 541,
@@ -6129,7 +6194,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1682838000000,
-    "description": "参加“连接Painful Hope\n后日谈·演唱会”"
+    "description": "参加“连接Painful Hope”\n后日谈·演唱会"
   },
   {
     "id": 542,
@@ -6142,7 +6207,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1683702000000,
-    "description": "参加“白热！神高应援团！\n后日谈·演唱会”"
+    "description": "参加“白热！神高应援团！”\n后日谈·演唱会"
   },
   {
     "id": 543,
@@ -6155,7 +6220,7 @@
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1684566000000,
-    "description": "参加“THE POWER OF UNITY\n后日谈·演唱会”"
+    "description": "参加“THE POWER OF UNITY”\n后日谈·演唱会"
   },
   {
     "id": 544,
@@ -6168,7 +6233,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1685516400000,
-    "description": "参加“向晴空许愿Your Happiness!\n后日谈·演唱会”"
+    "description": "参加“向晴空许愿Your Happiness!”\n后日谈·演唱会"
   },
   {
     "id": 545,
@@ -6181,7 +6246,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1686380400000,
-    "description": "参加“牵起迷失的孩子，前方等待的是\n后日谈·演唱会”"
+    "description": "参加“牵起迷失的孩子，前方等待的是”\n后日谈·演唱会"
   },
   {
     "id": 546,
@@ -6194,7 +6259,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1687244400000,
-    "description": "参加“危在旦夕？！无人岛绝处逢生！\n后日谈·演唱会”"
+    "description": "参加“危在旦夕？！无人岛绝处逢生！”\n后日谈·演唱会"
   },
   {
     "id": 547,
@@ -6207,7 +6272,7 @@
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1688108400000,
-    "description": "参加“大家一起欢享！SPOJOYPARK\n后日谈·演唱会”"
+    "description": "参加“大家一起欢享！SPOJOYPARK”\n后日谈·演唱会"
   },
   {
     "id": 548,
@@ -6220,7 +6285,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1689058800000,
-    "description": "参加“The Vivid Old Tale\n后日谈·演唱会”"
+    "description": "参加“The Vivid Old Tale”\n后日谈·演唱会"
   },
   {
     "id": 549,
@@ -6233,7 +6298,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1689922800000,
-    "description": "参加“No seek No find\n后日谈·演唱会”"
+    "description": "参加“No seek No find”\n后日谈·演唱会"
   },
   {
     "id": 550,
@@ -6246,7 +6311,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1690786800000,
-    "description": "参加“close game\/OFFLINE\n后日谈·演唱会”"
+    "description": "参加“close game\/OFFLINE”\n后日谈·演唱会"
   },
   {
     "id": 551,
@@ -6259,7 +6324,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1691650800000,
-    "description": "参加“在蓝天下追逐光芒\n后日谈·演唱会”"
+    "description": "参加“在蓝天下追逐光芒”\n后日谈·演唱会"
   },
   {
     "id": 552,
@@ -6272,7 +6337,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1692514800000,
-    "description": "参加“现在再次绑上蝴蝶结\n后日谈·演唱会”"
+    "description": "参加“现在再次绑上蝴蝶结”\n后日谈·演唱会"
   },
   {
     "id": 553,
@@ -6285,7 +6350,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1693465200000,
-    "description": "参加“Don't lose faith!\n后日谈·演唱会”"
+    "description": "参加“Don't lose faith!”\n后日谈·演唱会"
   },
   {
     "id": 554,
@@ -6298,7 +6363,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1694242800000,
-    "description": "参加“绘出自我♪RAINBOW CANVAS\n后日谈·演唱会\""
+    "description": "参加“绘出自我♪RAINBOW CANVAS”\n后日谈·演唱会"
   },
   {
     "id": 555,
@@ -6311,7 +6376,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1695193200000,
-    "description": "参加“Walk on and on\n后日谈·演唱会”"
+    "description": "参加“Walk on and on”\n后日谈·演唱会"
   },
   {
     "id": 556,
@@ -6642,7 +6707,7 @@
     "id": 581,
     "stampType": "illustration",
     "seq": 5810,
-    "name": "[表情]KAITO：开始表演！",
+    "name": "[表情]KAITO：It's show time!",
     "assetbundleName": "stamp0581",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 26,
@@ -6987,7 +7052,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1696057200000,
-    "description": "参加“逢此庆典 暮色亦染\n后日谈·演唱会”"
+    "description": "参加“逢此庆典 暮色亦染”\n后日谈·演唱会"
   },
   {
     "id": 608,
@@ -7000,7 +7065,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1697094000000,
-    "description": "参加“致过去的我\n后日谈·演唱会”"
+    "description": "参加“致过去的我”\n后日谈·演唱会"
   },
   {
     "id": 609,
@@ -7013,7 +7078,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1697871600000,
-    "description": "参加“惜别谢幕\n后日谈·演唱会”"
+    "description": "参加“惜别谢幕”\n后日谈·演唱会"
   },
   {
     "id": 610,
@@ -7026,7 +7091,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1698735600000,
-    "description": "参加“尖叫？！欢迎来到大灰狼森林！\n后日谈·演唱会”"
+    "description": "参加“尖叫？！欢迎来到大灰狼森林！”\n后日谈·演唱会"
   },
   {
     "id": 611,
@@ -7039,7 +7104,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1699686000000,
-    "description": "参加“Echo my melody\n后日谈·演唱会”"
+    "description": "参加“Echo my melody”\n后日谈·演唱会"
   },
   {
     "id": 612,
@@ -7052,7 +7117,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1700463600000,
-    "description": "参加“祈愿，终有一天跨越黎明\n后日谈·演唱会”"
+    "description": "参加“祈愿，终有一天跨越黎明”\n后日谈·演唱会"
   },
   {
     "id": 613,
@@ -7065,7 +7130,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1701327600000,
-    "description": "参加“昨日梦想的延续\n后日谈·演唱会”"
+    "description": "参加“昨日梦想的延续”\n后日谈·演唱会"
   },
   {
     "id": 614,
@@ -7078,7 +7143,7 @@
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1702278000000,
-    "description": "参加“Find A Way Out\n后日谈·演唱会”"
+    "description": "参加“Find A Way Out”\n后日谈·演唱会"
   },
   {
     "id": 615,
@@ -7091,7 +7156,7 @@
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1703142000000,
-    "description": "参加“在纯白世界拉弓引箭\n后日谈·演唱会”"
+    "description": "参加“在纯白世界拉弓引箭”\n后日谈·演唱会"
   },
   {
     "id": 616,
@@ -7104,7 +7169,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1704006000000,
-    "description": "参加“新春！舞狮机器人的新年演出！\n后日谈·演唱会”"
+    "description": "参加“新春！舞狮机器人的新年演出！”\n后日谈·演唱会"
   },
   {
     "id": 617,
@@ -7117,7 +7182,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1704870000000,
-    "description": "参加“梦想的旅途，奔向闪耀的群星\n后日谈·演唱会”"
+    "description": "参加“梦想的旅途，奔向闪耀的群星”\n后日谈·演唱会"
   },
   {
     "id": 618,
@@ -7130,7 +7195,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1705820400000,
-    "description": "参加“Little Bravers!\n后日谈·演唱会”"
+    "description": "参加“Little Bravers!”\n后日谈·演唱会"
   },
   {
     "id": 619,
@@ -7143,7 +7208,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1706684400000,
-    "description": "参加“蜡烛的芬芳萦绕于往昔的回忆\n后日谈·演唱会”"
+    "description": "参加“蜡烛的芬芳萦绕于往昔的回忆”\n后日谈·演唱会"
   },
   {
     "id": 620,
@@ -7156,7 +7221,7 @@
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1707548400000,
-    "description": "参加“解开的心结之后\n后日谈·演唱会”"
+    "description": "参加“解开的心结之后”\n后日谈·演唱会"
   },
   {
     "id": 621,
@@ -7169,7 +7234,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1708326000000,
-    "description": "参加“Kick it up a notch\n后日谈·演唱会”"
+    "description": "参加“Kick it up a notch\n后日谈·演唱会"
   },
   {
     "id": 622,
@@ -7182,7 +7247,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1709103600000,
-    "description": "参加“Never Give Up Cooking!\n后日谈·演唱会”"
+    "description": "参加“Never Give Up Cooking!”\n后日谈·演唱会"
   },
   {
     "id": 623,
@@ -7195,7 +7260,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1710140400000,
-    "description": "参加“追寻翱翔于天际的凤凰\n后日谈·演唱会”"
+    "description": "参加“追寻翱翔于天际的凤凰”\n后日谈·演唱会"
   },
   {
     "id": 624,
@@ -7208,7 +7273,7 @@
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1711004400000,
-    "description": "参加“难以弥合·分歧\n后日谈·演唱会”"
+    "description": "参加“难以弥合·分歧”\n后日谈·演唱会"
   },
   {
     "id": 625,
@@ -7231,7 +7296,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1711782000000,
-    "description": "参加“在乐声共鸣的街角\n后日谈·演唱会”"
+    "description": "参加“在乐声共鸣的街角”\n后日谈·演唱会"
   },
   {
     "id": 627,
@@ -7244,7 +7309,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1712818800000,
-    "description": "参加“Get over it.\n后日谈·演唱会”"
+    "description": "参加“Get over it.”\n后日谈·演唱会"
   },
   {
     "id": 628,
@@ -7257,7 +7322,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1713682800000,
-    "description": "参加“Re-tie Friendship\n后日谈·演唱会”"
+    "description": "参加“Re-tie Friendship”\n后日谈·演唱会"
   },
   {
     "id": 629,
@@ -7270,7 +7335,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1714460400000,
-    "description": "参加“我们为了生存而逃避\n后日谈·演唱会”"
+    "description": "参加“我们为了生存而逃避”\n后日谈·演唱会"
   },
   {
     "id": 630,
@@ -7283,7 +7348,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1715410800000,
-    "description": "参加“启航前的一日游\n后日谈·演唱会”"
+    "description": "参加“启航前的一日游”\n后日谈·演唱会"
   },
   {
     "id": 631,
@@ -7296,7 +7361,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1716188400000,
-    "description": "参加“金丝雀于绝境中高歌\n后日谈·演唱会”"
+    "description": "参加“金丝雀于绝境中高歌”\n后日谈·演唱会"
   },
   {
     "id": 632,
@@ -7309,7 +7374,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1717138800000,
-    "description": "参加“给在我身边温柔的你\n后日谈·演唱会”"
+    "description": "参加“给在我身边温柔的你”\n后日谈·演唱会"
   },
   {
     "id": 633,
@@ -7322,7 +7387,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1718002800000,
-    "description": "参加“Light Up the Fire\n后日谈·演唱会”"
+    "description": "参加“Light Up the Fire”\n后日谈·演唱会"
   },
   {
     "id": 634,
@@ -7335,7 +7400,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1718866800000,
-    "description": "参加“STEP by STEP!\n后日谈·演唱会”"
+    "description": "参加“STEP by STEP!”\n后日谈·演唱会"
   },
   {
     "id": 635,
@@ -7348,7 +7413,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1719730800000,
-    "description": "参加“一期一会的百鬼夜行？！\n后日谈·演唱会”"
+    "description": "参加“一期一会的百鬼夜行？！”\n后日谈·演唱会"
   },
   {
     "id": 636,
@@ -7361,7 +7426,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1720681200000,
-    "description": "参加“向戴着面具的我告别\n后日谈·演唱会”"
+    "description": "参加“向戴着面具的我告别”\n后日谈·演唱会"
   },
   {
     "id": 637,
@@ -7374,7 +7439,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1721545200000,
-    "description": "参加“相联的，星星之歌\n后日谈·演唱会”"
+    "description": "参加“相联的，星星之歌”\n后日谈·演唱会"
   },
   {
     "id": 638,
@@ -7387,7 +7452,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1722409200000,
-    "description": "参加“手忙脚乱 cafe ●REC!!\n后日谈·演唱会”"
+    "description": "参加“手忙脚乱 cafe ●REC!!”\n后日谈·演唱会"
   },
   {
     "id": 639,
@@ -7400,7 +7465,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1723273200000,
-    "description": "参加“On Your Feet\n后日谈·演唱会”"
+    "description": "参加“On Your Feet”\n后日谈·演唱会"
   },
   {
     "id": 640,
@@ -7413,7 +7478,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1724223600000,
-    "description": "参加“我们的圆满结局\n后日谈·演唱会”"
+    "description": "参加“我们的圆满结局”\n后日谈·演唱会"
   },
   {
     "id": 641,
@@ -7473,7 +7538,7 @@
     "assetbundleName": "stamp0647",
     "balloonAssetbundleName": "balloon_stamp_03",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 648,
@@ -7483,7 +7548,7 @@
     "assetbundleName": "stamp0648",
     "balloonAssetbundleName": "balloon_stamp_04",
     "archiveDisplayType": "none",
-    "archivePublishedAt": 1233288000000
+    "archivePublishedAt": 4073428800000
   },
   {
     "id": 649,
@@ -7559,7 +7624,7 @@
     "id": 656,
     "stampType": "text",
     "seq": 6600,
-    "name": "[表情文字]：没问题的！",
+    "name": "[表情文字]：没问题哦！",
     "assetbundleName": "stamp0656",
     "balloonAssetbundleName": "balloon_stamp_03",
     "archiveDisplayType": "none",
@@ -7576,7 +7641,7 @@
     "gameCharacterUnitId": 30,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1725087600000,
-    "description": "参加“响彻「世界」！Your Song\n后日谈·演唱会”"
+    "description": "参加“响彻「世界」！Your Song”\n后日谈·演唱会"
   },
   {
     "id": 658,
@@ -7589,7 +7654,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1726038000000,
-    "description": "参加“和你创造的Precious memories\n后日谈·演唱会”"
+    "description": "参加“和你创造的Precious memories”\n后日谈·演唱会"
   },
   {
     "id": 659,
@@ -7602,7 +7667,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1726815600000,
-    "description": "参加“Let's study hard!\n后日谈·演唱会”"
+    "description": "参加“Let's study hard!”\n后日谈·演唱会"
   },
   {
     "id": 660,
@@ -7614,8 +7679,8 @@
     "characterId1": 1,
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1727679600000,
-    "description": "参加“Hello·Good·Day!\n后日谈·演唱会”"
+    "archivePublishedAt": 1743145200000,
+    "description": "参加“Hello·Good·Day!”\n后日谈·演唱会"
   },
   {
     "id": 661,
@@ -7966,7 +8031,7 @@
     "gameCharacterUnitId": 1,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 688,
@@ -7979,7 +8044,7 @@
     "gameCharacterUnitId": 2,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 689,
@@ -7992,7 +8057,7 @@
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 690,
@@ -8005,7 +8070,7 @@
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 691,
@@ -8018,7 +8083,7 @@
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 692,
@@ -8031,7 +8096,7 @@
     "gameCharacterUnitId": 6,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 693,
@@ -8044,7 +8109,7 @@
     "gameCharacterUnitId": 7,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 694,
@@ -8057,7 +8122,7 @@
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 695,
@@ -8070,7 +8135,7 @@
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 696,
@@ -8083,7 +8148,7 @@
     "gameCharacterUnitId": 10,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 697,
@@ -8096,7 +8161,7 @@
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 698,
@@ -8109,7 +8174,7 @@
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 699,
@@ -8122,7 +8187,7 @@
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 700,
@@ -8135,7 +8200,7 @@
     "gameCharacterUnitId": 14,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 701,
@@ -8148,7 +8213,7 @@
     "gameCharacterUnitId": 15,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 702,
@@ -8161,7 +8226,7 @@
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 703,
@@ -8174,7 +8239,7 @@
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 704,
@@ -8187,7 +8252,7 @@
     "gameCharacterUnitId": 18,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 705,
@@ -8200,7 +8265,7 @@
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 706,
@@ -8213,7 +8278,7 @@
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 707,
@@ -8226,7 +8291,7 @@
     "gameCharacterUnitId": 21,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 708,
@@ -8239,7 +8304,7 @@
     "gameCharacterUnitId": 22,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 709,
@@ -8252,7 +8317,7 @@
     "gameCharacterUnitId": 23,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 710,
@@ -8265,7 +8330,7 @@
     "gameCharacterUnitId": 24,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 711,
@@ -8278,7 +8343,7 @@
     "gameCharacterUnitId": 25,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 712,
@@ -8291,7 +8356,7 @@
     "gameCharacterUnitId": 26,
     "archiveDisplayType": "normal",
     "archivePublishedAt": 1727539200000,
-    "description": "在水晶商店购买“[水晶商店限定]表情套装”"
+    "description": "在水晶商店购买“[水晶商店限定]表情礼包”"
   },
   {
     "id": 713,
@@ -8303,8 +8368,8 @@
     "characterId1": 11,
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1854946800000,
-    "description": "参加“BURN MY SOUL\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“BURN MY SOUL”\n后日谈·演唱会"
   },
   {
     "id": 714,
@@ -8316,8 +8381,8 @@
     "characterId1": 4,
     "gameCharacterUnitId": 4,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1855810800000,
-    "description": "参加“Stick to your faith\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“Stick to your faith”\n后日谈·演唱会"
   },
   {
     "id": 715,
@@ -8340,8 +8405,8 @@
     "characterId1": 8,
     "gameCharacterUnitId": 8,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1856588400000,
-    "description": "参加“那双手所引向的温暖\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“那双手所引向的温暖”\n后日谈·演唱会"
   },
   {
     "id": 717,
@@ -8353,21 +8418,21 @@
     "characterId1": 26,
     "gameCharacterUnitId": 26,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1857297600000,
-    "description": "参加“水底寻影\n后日谈·演唱会”"
+    "archivePublishedAt": 1757678400000,
+    "description": "参加“水底寻影”\n后日谈·演唱会"
   },
   {
     "id": 718,
     "stampType": "illustration",
     "seq": 9140,
-    "name": "[表情]司：哇！",
+    "name": "[表情]司：哇！？",
     "assetbundleName": "stamp0718",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 13,
     "gameCharacterUnitId": 13,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1858489200000,
-    "description": "参加“以你为主角的故事\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“以你为主角的故事”\n后日谈·演唱会"
   },
   {
     "id": 719,
@@ -8379,8 +8444,8 @@
     "characterId1": 11,
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1859180400000,
-    "description": "参加“最棒的杀青！\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“最棒的杀青！”\n后日谈·演唱会"
   },
   {
     "id": 720,
@@ -8392,8 +8457,8 @@
     "characterId1": 5,
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1860044400000,
-    "description": "参加“东奔西走的饲养员体验！\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“东奔西走的饲养员体验！”\n后日谈·演唱会"
   },
   {
     "id": 721,
@@ -8405,8 +8470,8 @@
     "characterId1": 17,
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1860908400000,
-    "description": "参加“将那天，演奏的音乐\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“将那天，演奏的音乐”\n后日谈·演唱会"
   },
   {
     "id": 722,
@@ -8429,8 +8494,8 @@
     "characterId1": 20,
     "gameCharacterUnitId": 20,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1861858800000,
-    "description": "参加“在不变的温暖旁\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“在不变的温暖旁”\n后日谈·演唱会"
   },
   {
     "id": 724,
@@ -8442,8 +8507,8 @@
     "characterId1": 25,
     "gameCharacterUnitId": 49,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1862654400000,
-    "description": "参加“BREAK DOWN THE WALL\n后日谈·演唱会”"
+    "archivePublishedAt": 1749729600000,
+    "description": "参加“BREAK DOWN THE WALL”\n后日谈·演唱会"
   },
   {
     "id": 725,
@@ -8455,8 +8520,8 @@
     "characterId1": 16,
     "gameCharacterUnitId": 16,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1863846000000,
-    "description": "参加“背光的镜头光晕\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“背光的镜头光晕”\n后日谈·演唱会"
   },
   {
     "id": 726,
@@ -8479,8 +8544,8 @@
     "characterId1": 9,
     "gameCharacterUnitId": 9,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1864555200000,
-    "description": "参加“Take the Best Shot!\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“Take the Best Shot!”\n后日谈·演唱会"
   },
   {
     "id": 728,
@@ -8503,8 +8568,8 @@
     "characterId1": 3,
     "gameCharacterUnitId": 3,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1865401200000,
-    "description": "参加“勇敢引导，温柔在心\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“勇敢引导，温柔在心”\n后日谈·演唱会"
   },
   {
     "id": 730,
@@ -8516,8 +8581,8 @@
     "characterId1": 5,
     "gameCharacterUnitId": 5,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1866265200000,
-    "description": "参加“刻下的伤痕，总有一天\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“刻下的伤痕，总有一天”\n后日谈·演唱会"
   },
   {
     "id": 731,
@@ -8529,8 +8594,8 @@
     "characterId1": 17,
     "gameCharacterUnitId": 17,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1867042800000,
-    "description": "参加“Relax Teatime\n后日谈·演唱会”"
+    "archivePublishedAt": 1233288000000,
+    "description": "参加“Relax Teatime”\n后日谈·演唱会"
   },
   {
     "id": 732,
@@ -8553,8 +8618,8 @@
     "characterId1": 23,
     "gameCharacterUnitId": 40,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1867665600000,
-    "description": "参加“向着星星，启航！\n后日谈·演唱会”"
+    "archivePublishedAt": 1744977600000,
+    "description": "参加“向着星星，启航！”\n后日谈·演唱会"
   },
   {
     "id": 734,
@@ -8566,8 +8631,8 @@
     "characterId1": 12,
     "gameCharacterUnitId": 12,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1868857200000,
-    "description": "参加“The first concerto\n后日谈·演唱会”"
+    "archivePublishedAt": 1743750000000,
+    "description": "参加“The first concerto”\n后日谈·演唱会"
   },
   {
     "id": 735,
@@ -8579,8 +8644,8 @@
     "characterId1": 11,
     "gameCharacterUnitId": 11,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1869548400000,
-    "description": "参加“Rise as ONE!\n后日谈·演唱会”"
+    "archivePublishedAt": 1744354800000,
+    "description": "参加“Rise as ONE!”\n后日谈·演唱会"
   },
   {
     "id": 736,
@@ -8592,8 +8657,1315 @@
     "characterId1": 19,
     "gameCharacterUnitId": 19,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1870498800000,
-    "description": "参加“Knowing the Unseen\n后日谈·演唱会”"
+    "archivePublishedAt": 1745823600000,
+    "description": "参加“Knowing the Unseen”\n后日谈·演唱会"
+  },
+  {
+    "id": 737,
+    "stampType": "illustration",
+    "seq": 9950,
+    "name": "[表情]咲希：到底该怎么办",
+    "assetbundleName": "stamp0737",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1746428400000,
+    "description": "参加“Parallel Harmonies”\n后日谈·演唱会"
+  },
+  {
+    "id": 741,
+    "stampType": "illustration",
+    "seq": 9620,
+    "name": "[表情]未来：你好～",
+    "assetbundleName": "stamp0741",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 742,
+    "stampType": "illustration",
+    "seq": 9630,
+    "name": "[表情]未来：谢谢！！",
+    "assetbundleName": "stamp0742",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 743,
+    "stampType": "illustration",
+    "seq": 9640,
+    "name": "[表情]铃：拜托了……！",
+    "assetbundleName": "stamp0743",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 744,
+    "stampType": "illustration",
+    "seq": 9650,
+    "name": "[表情]连：我来了！",
+    "assetbundleName": "stamp0744",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 745,
+    "stampType": "illustration",
+    "seq": 9660,
+    "name": "[表情]流歌：唔……",
+    "assetbundleName": "stamp0745",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 746,
+    "stampType": "illustration",
+    "seq": 9670,
+    "name": "[表情]MEIKO：呵呵呵",
+    "assetbundleName": "stamp0746",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 25,
+    "gameCharacterUnitId": 25,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 747,
+    "stampType": "illustration",
+    "seq": 9680,
+    "name": "[表情]KAITO：嗯？",
+    "assetbundleName": "stamp0747",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 748,
+    "stampType": "illustration",
+    "seq": 9690,
+    "name": "[表情]未来：不好意思",
+    "assetbundleName": "stamp0748",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 27,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 749,
+    "stampType": "illustration",
+    "seq": 9700,
+    "name": "[表情]一歌：好",
+    "assetbundleName": "stamp0749",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 750,
+    "stampType": "illustration",
+    "seq": 9710,
+    "name": "[表情]咲希：呜──",
+    "assetbundleName": "stamp0750",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 2,
+    "gameCharacterUnitId": 2,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 751,
+    "stampType": "illustration",
+    "seq": 9720,
+    "name": "[表情]穗波：哇……！",
+    "assetbundleName": "stamp0751",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 752,
+    "stampType": "illustration",
+    "seq": 9730,
+    "name": "[表情]志步：不行",
+    "assetbundleName": "stamp0752",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 753,
+    "stampType": "illustration",
+    "seq": 9740,
+    "name": "[表情]未来：加油！",
+    "assetbundleName": "stamp0753",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 28,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 754,
+    "stampType": "illustration",
+    "seq": 9750,
+    "name": "[表情]实乃理：加油吧～！",
+    "assetbundleName": "stamp0754",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 755,
+    "stampType": "illustration",
+    "seq": 9760,
+    "name": "[表情]遥： 唔唔……",
+    "assetbundleName": "stamp0755",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 756,
+    "stampType": "illustration",
+    "seq": 9770,
+    "name": "[表情]爱莉：哼！",
+    "assetbundleName": "stamp0756",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 757,
+    "stampType": "illustration",
+    "seq": 9780,
+    "name": "[表情]雫：呵呵呵",
+    "assetbundleName": "stamp0757",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 758,
+    "stampType": "illustration",
+    "seq": 9790,
+    "name": "[表情]未来：OK",
+    "assetbundleName": "stamp0758",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 29,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 759,
+    "stampType": "illustration",
+    "seq": 9800,
+    "name": "[表情]心羽：好吃……！",
+    "assetbundleName": "stamp0759",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 760,
+    "stampType": "illustration",
+    "seq": 9810,
+    "name": "[表情]杏：晚安",
+    "assetbundleName": "stamp0760",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 10,
+    "gameCharacterUnitId": 10,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 761,
+    "stampType": "illustration",
+    "seq": 9820,
+    "name": "[表情]彰人：喂喂",
+    "assetbundleName": "stamp0761",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 762,
+    "stampType": "illustration",
+    "seq": 9830,
+    "name": "[表情]冬弥： 唔……",
+    "assetbundleName": "stamp0762",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 763,
+    "stampType": "illustration",
+    "seq": 9840,
+    "name": "[表情]未来：耶——☆",
+    "assetbundleName": "stamp0763",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 30,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 764,
+    "stampType": "illustration",
+    "seq": 9850,
+    "name": "[表情]司：哼哼",
+    "assetbundleName": "stamp0764",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 765,
+    "stampType": "illustration",
+    "seq": 9860,
+    "name": "[表情]笑梦：好可爱～！",
+    "assetbundleName": "stamp0765",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 14,
+    "gameCharacterUnitId": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 766,
+    "stampType": "illustration",
+    "seq": 9870,
+    "name": "[表情]宁宁： 我盯……",
+    "assetbundleName": "stamp0766",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 767,
+    "stampType": "illustration",
+    "seq": 9880,
+    "name": "[表情]类：真拿你没办法",
+    "assetbundleName": "stamp0767",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 768,
+    "stampType": "illustration",
+    "seq": 9890,
+    "name": "[表情]未来：！",
+    "assetbundleName": "stamp0768",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 31,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 769,
+    "stampType": "illustration",
+    "seq": 9900,
+    "name": "[表情]奏：唔……",
+    "assetbundleName": "stamp0769",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 770,
+    "stampType": "illustration",
+    "seq": 9910,
+    "name": "[表情]真冬：怎么了",
+    "assetbundleName": "stamp0770",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 771,
+    "stampType": "illustration",
+    "seq": 9920,
+    "name": "[表情]绘名：……",
+    "assetbundleName": "stamp0771",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 772,
+    "stampType": "illustration",
+    "seq": 9930,
+    "name": "[表情]瑞希：吐舌",
+    "assetbundleName": "stamp0772",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 20,
+    "gameCharacterUnitId": 20,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1711771200000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 773,
+    "stampType": "illustration",
+    "seq": 9340,
+    "name": "[表情]咲希：新年快乐～！",
+    "assetbundleName": "stamp0773",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 2,
+    "gameCharacterUnitId": 2,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 774,
+    "stampType": "illustration",
+    "seq": 9350,
+    "name": "[表情]爱莉：给，拿好！",
+    "assetbundleName": "stamp0774",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 775,
+    "stampType": "illustration",
+    "seq": 9360,
+    "name": "[表情]心羽：新年快乐",
+    "assetbundleName": "stamp0775",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 776,
+    "stampType": "illustration",
+    "seq": 9370,
+    "name": "[表情]宁宁：看来是个好兆头",
+    "assetbundleName": "stamp0776",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 777,
+    "stampType": "illustration",
+    "seq": 9380,
+    "name": "[表情]瑞希：谢谢♪",
+    "assetbundleName": "stamp0777",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 20,
+    "gameCharacterUnitId": 20,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 778,
+    "stampType": "illustration",
+    "seq": 9390,
+    "name": "[表情]穗波：一起加油吧",
+    "assetbundleName": "stamp0778",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 779,
+    "stampType": "illustration",
+    "seq": 9400,
+    "name": "[表情]雫：好棒啊！",
+    "assetbundleName": "stamp0779",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 780,
+    "stampType": "illustration",
+    "seq": 9410,
+    "name": "[表情]彰人：糟了……",
+    "assetbundleName": "stamp0780",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 781,
+    "stampType": "illustration",
+    "seq": 9420,
+    "name": "[表情]司：上吧！",
+    "assetbundleName": "stamp0781",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 782,
+    "stampType": "illustration",
+    "seq": 9430,
+    "name": "[表情]绘名：节日快乐",
+    "assetbundleName": "stamp0782",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 783,
+    "stampType": "illustration",
+    "seq": 9440,
+    "name": "[表情]铃：和我一模一样！",
+    "assetbundleName": "stamp0783",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 784,
+    "stampType": "illustration",
+    "seq": 9450,
+    "name": "[表情]连：一起玩吧！",
+    "assetbundleName": "stamp0784",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 785,
+    "stampType": "illustration",
+    "seq": 9460,
+    "name": "[表情]流歌：一起吃吧",
+    "assetbundleName": "stamp0785",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 786,
+    "stampType": "illustration",
+    "seq": 9470,
+    "name": "[表情]MEIKO：跳跳♪",
+    "assetbundleName": "stamp0786",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 25,
+    "gameCharacterUnitId": 25,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 787,
+    "stampType": "illustration",
+    "seq": 9480,
+    "name": "[表情]KAITO：还没好吗……",
+    "assetbundleName": "stamp0787",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 788,
+    "stampType": "illustration",
+    "seq": 9490,
+    "name": "[表情]志步：……万圣节快乐",
+    "assetbundleName": "stamp0788",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 789,
+    "stampType": "illustration",
+    "seq": 9500,
+    "name": "[表情]实乃理：是糖果哦～！",
+    "assetbundleName": "stamp0789",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 790,
+    "stampType": "illustration",
+    "seq": 9510,
+    "name": "[表情]冬弥：不可以恶作剧哦",
+    "assetbundleName": "stamp0790",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 791,
+    "stampType": "illustration",
+    "seq": 9520,
+    "name": "[表情]笑梦：真想快点收到啊！",
+    "assetbundleName": "stamp0791",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 14,
+    "gameCharacterUnitId": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 792,
+    "stampType": "illustration",
+    "seq": 9530,
+    "name": "[表情]真冬：……不给糖就捣蛋",
+    "assetbundleName": "stamp0792",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 793,
+    "stampType": "illustration",
+    "seq": 9540,
+    "name": "[表情]一歌：好热闹啊",
+    "assetbundleName": "stamp0793",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 794,
+    "stampType": "illustration",
+    "seq": 9550,
+    "name": "[表情]遥：都准备好了哦",
+    "assetbundleName": "stamp0794",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 795,
+    "stampType": "illustration",
+    "seq": 9560,
+    "name": "[表情]杏：圣诞老人会来吗？！",
+    "assetbundleName": "stamp0795",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 10,
+    "gameCharacterUnitId": 10,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 796,
+    "stampType": "illustration",
+    "seq": 9570,
+    "name": "[表情]类：圣诞快乐！",
+    "assetbundleName": "stamp0796",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 797,
+    "stampType": "illustration",
+    "seq": 9580,
+    "name": "[表情]奏：我不行了……",
+    "assetbundleName": "stamp0797",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "通过[2025\/3\/30～2025\/5\/14]\n 3900's兑换所获得"
+  },
+  {
+    "id": 10001,
+    "stampType": "illustration",
+    "seq": 100010,
+    "name": "[表情]瑞希：谢谢你的祝福",
+    "assetbundleName": "stamp10001",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 20,
+    "gameCharacterUnitId": 20,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10002,
+    "stampType": "illustration",
+    "seq": 100020,
+    "name": "[表情]宁宁：看来是个好兆头",
+    "assetbundleName": "stamp10002",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 15,
+    "gameCharacterUnitId": 15,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10003,
+    "stampType": "illustration",
+    "seq": 100030,
+    "name": "[表情]咲希：新年快乐",
+    "assetbundleName": "stamp10003",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 2,
+    "gameCharacterUnitId": 2,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10004,
+    "stampType": "illustration",
+    "seq": 100040,
+    "name": "[表情]爱莉：给你看看",
+    "assetbundleName": "stamp10004",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10005,
+    "stampType": "illustration",
+    "seq": 100050,
+    "name": "[表情]心羽：新年快乐",
+    "assetbundleName": "stamp10005",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 9,
+    "gameCharacterUnitId": 9,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10006,
+    "stampType": "illustration",
+    "seq": 100060,
+    "name": "[表情]未来：恭贺新禧",
+    "assetbundleName": "stamp10006",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10007,
+    "stampType": "illustration",
+    "seq": 100070,
+    "name": "[表情]彰人：糟了……",
+    "assetbundleName": "stamp10007",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 11,
+    "gameCharacterUnitId": 11,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10008,
+    "stampType": "illustration",
+    "seq": 100080,
+    "name": "[表情]穗波：一起加油吧！！",
+    "assetbundleName": "stamp10008",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10009,
+    "stampType": "illustration",
+    "seq": 100090,
+    "name": "[表情]雫：真是完美！",
+    "assetbundleName": "stamp10009",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10010,
+    "stampType": "illustration",
+    "seq": 100100,
+    "name": "[表情]司：冲啊！",
+    "assetbundleName": "stamp10010",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 13,
+    "gameCharacterUnitId": 13,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10011,
+    "stampType": "illustration",
+    "seq": 100110,
+    "name": "[表情]绘名：端午节快乐",
+    "assetbundleName": "stamp10011",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10012,
+    "stampType": "illustration",
+    "seq": 100120,
+    "name": "[表情]志步：万、万圣节快乐",
+    "assetbundleName": "stamp10012",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10013,
+    "stampType": "illustration",
+    "seq": 100130,
+    "name": "[表情]实乃理：不用客气哦！",
+    "assetbundleName": "stamp10013",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10014,
+    "stampType": "illustration",
+    "seq": 100140,
+    "name": "[表情]冬弥：不可以恶作剧",
+    "assetbundleName": "stamp10014",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 12,
+    "gameCharacterUnitId": 12,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10015,
+    "stampType": "illustration",
+    "seq": 100150,
+    "name": "[表情]笑梦：好～期待！",
+    "assetbundleName": "stamp10015",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 14,
+    "gameCharacterUnitId": 14,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10016,
+    "stampType": "illustration",
+    "seq": 100160,
+    "name": "[表情]真冬：……不给糖就捣蛋",
+    "assetbundleName": "stamp10016",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10017,
+    "stampType": "text",
+    "seq": 1,
+    "name": "[文字表情]兔年快乐！",
+    "assetbundleName": "stamp10017",
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "参加“应援！新春的「世界」2024”"
+  },
+  {
+    "id": 10018,
+    "stampType": "illustration",
+    "seq": 100170,
+    "name": "[表情]一歌：好热闹啊",
+    "assetbundleName": "stamp10018",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10019,
+    "stampType": "illustration",
+    "seq": 100180,
+    "name": "[表情]遥：都准备好了哦",
+    "assetbundleName": "stamp10019",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10020,
+    "stampType": "illustration",
+    "seq": 100190,
+    "name": "[表情]杏：来试试吧！",
+    "assetbundleName": "stamp10020",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 10,
+    "gameCharacterUnitId": 10,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10021,
+    "stampType": "illustration",
+    "seq": 100200,
+    "name": "[表情]类：圣诞快乐！",
+    "assetbundleName": "stamp10021",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 16,
+    "gameCharacterUnitId": 16,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10022,
+    "stampType": "illustration",
+    "seq": 100210,
+    "name": "[表情]奏：我不行了……",
+    "assetbundleName": "stamp10022",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10023,
+    "stampType": "illustration",
+    "seq": 100220,
+    "name": "[表情]铃：和我一模一样♪",
+    "assetbundleName": "stamp10023",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10024,
+    "stampType": "illustration",
+    "seq": 100230,
+    "name": "[表情]连：一起玩吧！",
+    "assetbundleName": "stamp10024",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10025,
+    "stampType": "illustration",
+    "seq": 100240,
+    "name": "[表情]流歌：一起吃吧",
+    "assetbundleName": "stamp10025",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10026,
+    "stampType": "illustration",
+    "seq": 100250,
+    "name": "[表情]MEIKO：很有中秋节的感觉吧",
+    "assetbundleName": "stamp10026",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 25,
+    "gameCharacterUnitId": 25,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10027,
+    "stampType": "illustration",
+    "seq": 100260,
+    "name": "[表情]KAITO：还没好吗……",
+    "assetbundleName": "stamp10027",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10028,
+    "stampType": "text",
+    "seq": 2,
+    "name": "[文字表情]龙年大吉！",
+    "assetbundleName": "stamp10028",
+    "balloonAssetbundleName": "balloon_stamp_02",
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4073428800000,
+    "description": "参加“应援！新春的「世界」2025”"
+  },
+  {
+    "id": 10029,
+    "stampType": "illustration",
+    "seq": 100290,
+    "name": "[表情]一歌：万事如意",
+    "assetbundleName": "stamp10029",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4074163200000,
+    "description": "参加“应援！新春的「世界」2025”登录活动"
+  },
+  {
+    "id": 10030,
+    "stampType": "illustration",
+    "seq": 100300,
+    "name": "[表情]未来：……♪",
+    "assetbundleName": "stamp10030",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 21,
+    "gameCharacterUnitId": 21,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10031,
+    "stampType": "illustration",
+    "seq": 100310,
+    "name": "[表情]铃：水枪攻击",
+    "assetbundleName": "stamp10031",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 22,
+    "gameCharacterUnitId": 22,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10032,
+    "stampType": "illustration",
+    "seq": 100320,
+    "name": "[表情]连：要及时补充能量哦！",
+    "assetbundleName": "stamp10032",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 23,
+    "gameCharacterUnitId": 23,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10033,
+    "stampType": "illustration",
+    "seq": 100330,
+    "name": "[表情]流歌：这温度都能煎蛋了……",
+    "assetbundleName": "stamp10033",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 24,
+    "gameCharacterUnitId": 24,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10034,
+    "stampType": "illustration",
+    "seq": 100340,
+    "name": "[表情]MEIKO：一起玩吧！",
+    "assetbundleName": "stamp10034",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 25,
+    "gameCharacterUnitId": 25,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10035,
+    "stampType": "illustration",
+    "seq": 100350,
+    "name": "[表情]KAITO：一起吃吧！",
+    "assetbundleName": "stamp10035",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 26,
+    "gameCharacterUnitId": 26,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10036,
+    "stampType": "illustration",
+    "seq": 100360,
+    "name": "[表情]一歌：我们是Leo\/need",
+    "assetbundleName": "stamp10036",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 1,
+    "gameCharacterUnitId": 1,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10037,
+    "stampType": "illustration",
+    "seq": 100370,
+    "name": "[表情]咲希：干杯☆",
+    "assetbundleName": "stamp10037",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 2,
+    "gameCharacterUnitId": 2,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10038,
+    "stampType": "illustration",
+    "seq": 100380,
+    "name": "[表情]穗波：有你真好",
+    "assetbundleName": "stamp10038",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 3,
+    "gameCharacterUnitId": 3,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10039,
+    "stampType": "illustration",
+    "seq": 100390,
+    "name": "[表情]志步：想和大家一直演奏下去！",
+    "assetbundleName": "stamp10039",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 4,
+    "gameCharacterUnitId": 4,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10040,
+    "stampType": "illustration",
+    "seq": 100400,
+    "name": "[表情]实乃理：多谢款待",
+    "assetbundleName": "stamp10040",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 5,
+    "gameCharacterUnitId": 5,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10041,
+    "stampType": "illustration",
+    "seq": 100410,
+    "name": "[表情]遥：好吃！！",
+    "assetbundleName": "stamp10041",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 6,
+    "gameCharacterUnitId": 6,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10042,
+    "stampType": "illustration",
+    "seq": 100420,
+    "name": "[表情]爱莉：啊……",
+    "assetbundleName": "stamp10042",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 7,
+    "gameCharacterUnitId": 7,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10043,
+    "stampType": "illustration",
+    "seq": 100430,
+    "name": "[表情]雫：花好月圆",
+    "assetbundleName": "stamp10043",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 8,
+    "gameCharacterUnitId": 8,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 4078526400000,
+    "description": "在表情商店购买"
   },
   {
     "id": 101021,
@@ -8982,7 +10354,7 @@
     "characterId1": 3,
     "characterId2": 6,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1853683200000,
+    "archivePublishedAt": 1233288000000,
     "description": "穗波和遥的牵绊等级达到66级时获得"
   },
   {
@@ -9138,7 +10510,7 @@
     "characterId1": 4,
     "characterId2": 7,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1853683200000,
+    "archivePublishedAt": 1233288000000,
     "description": "志步和爱莉的牵绊等级达到66级时获得"
   },
   {
@@ -9652,7 +11024,7 @@
     "id": 108091,
     "stampType": "illustration",
     "seq": 7920,
-    "name": "[表情]雫和心羽：希望能听听你的歌声",
+    "name": "[表情]雫和心羽：希望能再听听你的歌声",
     "assetbundleName": "stamp108091",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 8,
@@ -9944,7 +11316,7 @@
     "characterId1": 10,
     "characterId2": 15,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1864522800000,
+    "archivePublishedAt": 1233288000000,
     "description": "杏和宁宁的牵绊等级达到66级时获得"
   },
   {
@@ -10061,7 +11433,7 @@
     "characterId1": 11,
     "characterId2": 15,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1864522800000,
+    "archivePublishedAt": 1233288000000,
     "description": "彰人和宁宁的牵绊等级达到66级时获得"
   },
   {
@@ -10224,7 +11596,7 @@
     "id": 112201,
     "stampType": "illustration",
     "seq": 8340,
-    "name": "[表情]冬弥和瑞希：我刚才是开玩笑的？！",
+    "name": "[表情]冬弥和瑞希：刚才那是开玩笑的啦？！",
     "assetbundleName": "stamp112201",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 12,
@@ -10276,7 +11648,7 @@
     "id": 112241,
     "stampType": "illustration",
     "seq": 8380,
-    "name": "[表情]冬弥和流歌：你就试试吧！",
+    "name": "[表情]冬弥和流歌：来试试看吧！",
     "assetbundleName": "stamp112241",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 12,
@@ -10744,7 +12116,7 @@
     "id": 117241,
     "stampType": "illustration",
     "seq": 8740,
-    "name": "[表情]奏和流歌：再开心一点不好吗？",
+    "name": "[表情]奏和流歌：再尽兴一点吧！",
     "assetbundleName": "stamp117241",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 17,
@@ -10763,7 +12135,7 @@
     "characterId1": 17,
     "characterId2": 26,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1864522800000,
+    "archivePublishedAt": 1233288000000,
     "description": "奏和KAITO的牵绊等级达到66级时获得"
   },
   {
@@ -11095,7 +12467,7 @@
     "id": 122261,
     "stampType": "illustration",
     "seq": 9000,
-    "name": "[表情]铃和KAITO：KAITO，干得好！",
+    "name": "[表情]铃和KAITO：KAITO也来比赞！",
     "assetbundleName": "stamp122261",
     "balloonAssetbundleName": "balloon_stamp_01",
     "characterId1": 22,

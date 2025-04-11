@@ -4866,9 +4866,99 @@
     "customProfileResourceType": "collection",
     "id": 10001,
     "seq": 100001,
-    "name": "中秋主題裝飾物",
+    "name": "中秋主题装饰品",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/cht",
     "fileName": "midautumn2024_2"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10010,
+    "seq": 10010,
+    "name": "【My stage with you】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_mystagewithyou_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10011,
+    "seq": 10020,
+    "name": "【pick me up】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_pickmeup_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10012,
+    "seq": 10030,
+    "name": "【We Leave The World Together】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_wlwt_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10013,
+    "seq": 10040,
+    "name": "【初岚】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_chulan_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10014,
+    "seq": 10050,
+    "name": "【镜中少女】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_girlmirror_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10015,
+    "seq": 10060,
+    "name": "【梦色星球】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_woah_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10016,
+    "seq": 10070,
+    "name": "【踏步、出发】CD虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_tabuchufa_cdvp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10017,
+    "seq": 10080,
+    "name": "CD收纳架虚拟周边",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "obt_cdholder_vp"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10018,
+    "seq": 10090,
+    "name": "三文鱼（装饰品）",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "birthday2025_05"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 10019,
+    "seq": 10110,
+    "name": "松饼（装饰品）",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/cn",
+    "fileName": "birthday2025_19"
   }
 ]

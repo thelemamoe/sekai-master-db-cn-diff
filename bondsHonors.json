@@ -7,7 +7,7 @@
     "gameCharacterUnitId2": 2,
     "honorRarity": "low",
     "name": "一歌和咲希",
-    "description": "已將一歌和咲希提升至一定等級",
+    "description": "已将一歌和咲希提升至一定等级",
     "levels": [
       {
         "id": 101020101,
@@ -50,7 +50,7 @@
     "gameCharacterUnitId2": 2,
     "honorRarity": "middle",
     "name": "一歌和咲希",
-    "description": "已將一歌和咲希提升至一定等級",
+    "description": "已将一歌和咲希提升至一定等级",
     "levels": [
       {
         "id": 101020201,
@@ -123,7 +123,7 @@
     "gameCharacterUnitId2": 3,
     "honorRarity": "low",
     "name": "一歌和穗波",
-    "description": "已將一歌和穗波提升至一定等級",
+    "description": "已将一歌和穗波提升至一定等级",
     "levels": [
       {
         "id": 101030101,
@@ -166,7 +166,7 @@
     "gameCharacterUnitId2": 3,
     "honorRarity": "middle",
     "name": "一歌和穗波",
-    "description": "已將一歌和穗波提升至一定等級",
+    "description": "已将一歌和穗波提升至一定等级",
     "levels": [
       {
         "id": 101030201,
@@ -239,7 +239,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "low",
     "name": "一歌和志步",
-    "description": "已將一歌和志步提升至一定等級",
+    "description": "已将一歌和志步提升至一定等级",
     "levels": [
       {
         "id": 101040101,
@@ -282,7 +282,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "middle",
     "name": "一歌和志步",
-    "description": "已將一歌和志步提升至一定等級",
+    "description": "已将一歌和志步提升至一定等级",
     "levels": [
       {
         "id": 101040201,
@@ -355,7 +355,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "low",
     "name": "一歌和实乃理",
-    "description": "已將一歌和实乃理提升至一定等級",
+    "description": "已将一歌和实乃理提升至一定等级",
     "levels": [
       {
         "id": 101050101,
@@ -398,7 +398,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "middle",
     "name": "一歌和实乃理",
-    "description": "已將一歌和实乃理提升至一定等級",
+    "description": "已将一歌和实乃理提升至一定等级",
     "levels": [
       {
         "id": 101050201,
@@ -471,7 +471,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "low",
     "name": "一歌和遥",
-    "description": "已將一歌和遥提升至一定等級",
+    "description": "已将一歌和遥提升至一定等级",
     "levels": [
       {
         "id": 101060101,
@@ -514,7 +514,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "middle",
     "name": "一歌和遥",
-    "description": "已將一歌和遥提升至一定等級",
+    "description": "已将一歌和遥提升至一定等级",
     "levels": [
       {
         "id": 101060201,
@@ -587,7 +587,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "一歌和雫",
-    "description": "已將一歌和雫提升至一定等級",
+    "description": "已将一歌和雫提升至一定等级",
     "levels": [
       {
         "id": 101080101,
@@ -630,7 +630,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "一歌和雫",
-    "description": "已將一歌和雫提升至一定等級",
+    "description": "已将一歌和雫提升至一定等级",
     "levels": [
       {
         "id": 101080201,
@@ -703,7 +703,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "一歌和心羽",
-    "description": "已將一歌和心羽提升至一定等級",
+    "description": "已将一歌和心羽提升至一定等级",
     "levels": [
       {
         "id": 101090101,
@@ -746,7 +746,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "一歌和心羽",
-    "description": "已將一歌和心羽提升至一定等級",
+    "description": "已将一歌和心羽提升至一定等级",
     "levels": [
       {
         "id": 101090201,
@@ -819,7 +819,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "一歌和司",
-    "description": "已將一歌和司提升至一定等級",
+    "description": "已将一歌和司提升至一定等级",
     "levels": [
       {
         "id": 101130101,
@@ -862,7 +862,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "一歌和司",
-    "description": "已將一歌和司提升至一定等級",
+    "description": "已将一歌和司提升至一定等级",
     "levels": [
       {
         "id": 101130201,
@@ -935,7 +935,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
     "name": "一歌和宁宁",
-    "description": "已將一歌和宁宁提升至一定等級",
+    "description": "已将一歌和宁宁提升至一定等级",
     "levels": [
       {
         "id": 101150101,
@@ -978,7 +978,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
     "name": "一歌和宁宁",
-    "description": "已將一歌和宁宁提升至一定等級",
+    "description": "已将一歌和宁宁提升至一定等级",
     "levels": [
       {
         "id": 101150201,
@@ -1051,7 +1051,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "low",
     "name": "一歌和奏",
-    "description": "已將一歌和奏提升至一定等級",
+    "description": "已将一歌和奏提升至一定等级",
     "levels": [
       {
         "id": 101170101,
@@ -1094,7 +1094,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "middle",
     "name": "一歌和奏",
-    "description": "已將一歌和奏提升至一定等級",
+    "description": "已将一歌和奏提升至一定等级",
     "levels": [
       {
         "id": 101170201,
@@ -1167,7 +1167,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "low",
     "name": "一歌和真冬",
-    "description": "已將一歌和真冬提升至一定等級",
+    "description": "已将一歌和真冬提升至一定等级",
     "levels": [
       {
         "id": 101180101,
@@ -1210,7 +1210,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "middle",
     "name": "一歌和真冬",
-    "description": "已將一歌和真冬提升至一定等級",
+    "description": "已将一歌和真冬提升至一定等级",
     "levels": [
       {
         "id": 101180201,
@@ -1283,7 +1283,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "一歌和未来",
-    "description": "已將一歌和未来提升至一定等級",
+    "description": "已将一歌和未来提升至一定等级",
     "levels": [
       {
         "id": 101210101,
@@ -1326,7 +1326,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "一歌和未来",
-    "description": "已將一歌和未来提升至一定等級",
+    "description": "已将一歌和未来提升至一定等级",
     "levels": [
       {
         "id": 101210201,
@@ -1399,7 +1399,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "一歌和铃",
-    "description": "已將一歌和铃提升至一定等級",
+    "description": "已将一歌和铃提升至一定等级",
     "levels": [
       {
         "id": 101220101,
@@ -1442,7 +1442,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "一歌和铃",
-    "description": "已將一歌和铃提升至一定等級",
+    "description": "已将一歌和铃提升至一定等级",
     "levels": [
       {
         "id": 101220201,
@@ -1515,7 +1515,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "一歌和流歌",
-    "description": "已將一歌和流歌提升至一定等級",
+    "description": "已将一歌和流歌提升至一定等级",
     "levels": [
       {
         "id": 101240101,
@@ -1558,7 +1558,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "一歌和流歌",
-    "description": "已將一歌和流歌提升至一定等級",
+    "description": "已将一歌和流歌提升至一定等级",
     "levels": [
       {
         "id": 101240201,
@@ -1631,7 +1631,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "一歌和KAITO",
-    "description": "已將一歌和KAITO提升至一定等級",
+    "description": "已将一歌和KAITO提升至一定等级",
     "levels": [
       {
         "id": 101260101,
@@ -1674,7 +1674,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "一歌和KAITO",
-    "description": "已將一歌和KAITO提升至一定等級",
+    "description": "已将一歌和KAITO提升至一定等级",
     "levels": [
       {
         "id": 101260201,
@@ -1747,7 +1747,7 @@
     "gameCharacterUnitId2": 3,
     "honorRarity": "low",
     "name": "咲希和穗波",
-    "description": "已將咲希和穗波提升至一定等級",
+    "description": "已将咲希和穗波提升至一定等级",
     "levels": [
       {
         "id": 102030101,
@@ -1790,7 +1790,7 @@
     "gameCharacterUnitId2": 3,
     "honorRarity": "middle",
     "name": "咲希和穗波",
-    "description": "已將咲希和穗波提升至一定等級",
+    "description": "已将咲希和穗波提升至一定等级",
     "levels": [
       {
         "id": 102030201,
@@ -1863,7 +1863,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "low",
     "name": "咲希和志步",
-    "description": "已將咲希和志步提升至一定等級",
+    "description": "已将咲希和志步提升至一定等级",
     "levels": [
       {
         "id": 102040101,
@@ -1906,7 +1906,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "middle",
     "name": "咲希和志步",
-    "description": "已將咲希和志步提升至一定等級",
+    "description": "已将咲希和志步提升至一定等级",
     "levels": [
       {
         "id": 102040201,
@@ -1979,7 +1979,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "low",
     "name": "咲希和实乃理",
-    "description": "已將咲希和实乃理提升至一定等級",
+    "description": "已将咲希和实乃理提升至一定等级",
     "levels": [
       {
         "id": 102050101,
@@ -2022,7 +2022,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "middle",
     "name": "咲希和实乃理",
-    "description": "已將咲希和实乃理提升至一定等級",
+    "description": "已将咲希和实乃理提升至一定等级",
     "levels": [
       {
         "id": 102050201,
@@ -2095,7 +2095,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "low",
     "name": "咲希和遥",
-    "description": "已將咲希和遥提升至一定等級",
+    "description": "已将咲希和遥提升至一定等级",
     "levels": [
       {
         "id": 102060101,
@@ -2138,7 +2138,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "middle",
     "name": "咲希和遥",
-    "description": "已將咲希和遥提升至一定等級",
+    "description": "已将咲希和遥提升至一定等级",
     "levels": [
       {
         "id": 102060201,
@@ -2211,7 +2211,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "low",
     "name": "咲希和爱莉",
-    "description": "已將咲希和爱莉提升至一定等級",
+    "description": "已将咲希和爱莉提升至一定等级",
     "levels": [
       {
         "id": 102070101,
@@ -2254,7 +2254,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "middle",
     "name": "咲希和爱莉",
-    "description": "已將咲希和爱莉提升至一定等級",
+    "description": "已将咲希和爱莉提升至一定等级",
     "levels": [
       {
         "id": 102070201,
@@ -2327,7 +2327,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "咲希和雫",
-    "description": "已將咲希和雫提升至一定等級",
+    "description": "已将咲希和雫提升至一定等级",
     "levels": [
       {
         "id": 102080101,
@@ -2370,7 +2370,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "咲希和雫",
-    "description": "已將咲希和雫提升至一定等級",
+    "description": "已将咲希和雫提升至一定等级",
     "levels": [
       {
         "id": 102080201,
@@ -2443,7 +2443,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "low",
     "name": "咲希和冬弥",
-    "description": "已將咲希和冬弥提升至一定等級",
+    "description": "已将咲希和冬弥提升至一定等级",
     "levels": [
       {
         "id": 102120101,
@@ -2486,7 +2486,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "middle",
     "name": "咲希和冬弥",
-    "description": "已將咲希和冬弥提升至一定等級",
+    "description": "已将咲希和冬弥提升至一定等级",
     "levels": [
       {
         "id": 102120201,
@@ -2559,7 +2559,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "咲希和司",
-    "description": "已將咲希和司提升至一定等級",
+    "description": "已将咲希和司提升至一定等级",
     "levels": [
       {
         "id": 102130101,
@@ -2602,7 +2602,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "咲希和司",
-    "description": "已將咲希和司提升至一定等級",
+    "description": "已将咲希和司提升至一定等级",
     "levels": [
       {
         "id": 102130201,
@@ -2675,7 +2675,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "low",
     "name": "咲希和笑梦",
-    "description": "已將咲希和笑梦提升至一定等級",
+    "description": "已将咲希和笑梦提升至一定等级",
     "levels": [
       {
         "id": 102140101,
@@ -2718,7 +2718,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "middle",
     "name": "咲希和笑梦",
-    "description": "已將咲希和笑梦提升至一定等級",
+    "description": "已将咲希和笑梦提升至一定等级",
     "levels": [
       {
         "id": 102140201,
@@ -2791,7 +2791,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "咲希和未来",
-    "description": "已將咲希和未来提升至一定等級",
+    "description": "已将咲希和未来提升至一定等级",
     "levels": [
       {
         "id": 102210101,
@@ -2834,7 +2834,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "咲希和未来",
-    "description": "已將咲希和未来提升至一定等級",
+    "description": "已将咲希和未来提升至一定等级",
     "levels": [
       {
         "id": 102210201,
@@ -2907,7 +2907,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "咲希和铃",
-    "description": "已將咲希和铃提升至一定等級",
+    "description": "已将咲希和铃提升至一定等级",
     "levels": [
       {
         "id": 102220101,
@@ -2950,7 +2950,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "咲希和铃",
-    "description": "已將咲希和铃提升至一定等級",
+    "description": "已将咲希和铃提升至一定等级",
     "levels": [
       {
         "id": 102220201,
@@ -3023,7 +3023,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "咲希和流歌",
-    "description": "已將咲希和流歌提升至一定等級",
+    "description": "已将咲希和流歌提升至一定等级",
     "levels": [
       {
         "id": 102240101,
@@ -3066,7 +3066,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "咲希和流歌",
-    "description": "已將咲希和流歌提升至一定等級",
+    "description": "已将咲希和流歌提升至一定等级",
     "levels": [
       {
         "id": 102240201,
@@ -3139,7 +3139,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "咲希和KAITO",
-    "description": "已將咲希和KAITO提升至一定等級",
+    "description": "已将咲希和KAITO提升至一定等级",
     "levels": [
       {
         "id": 102260101,
@@ -3182,7 +3182,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "咲希和KAITO",
-    "description": "已將咲希和KAITO提升至一定等級",
+    "description": "已将咲希和KAITO提升至一定等级",
     "levels": [
       {
         "id": 102260201,
@@ -3255,7 +3255,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "low",
     "name": "穗波和志步",
-    "description": "已將穗波和志步提升至一定等級",
+    "description": "已将穗波和志步提升至一定等级",
     "levels": [
       {
         "id": 103040101,
@@ -3298,7 +3298,7 @@
     "gameCharacterUnitId2": 4,
     "honorRarity": "middle",
     "name": "穗波和志步",
-    "description": "已將穗波和志步提升至一定等級",
+    "description": "已将穗波和志步提升至一定等级",
     "levels": [
       {
         "id": 103040201,
@@ -3371,7 +3371,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "low",
     "name": "穗波和遥",
-    "description": "已將穗波和遥提升至一定等級",
+    "description": "已将穗波和遥提升至一定等级",
     "levels": [
       {
         "id": 103060101,
@@ -3414,7 +3414,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "middle",
     "name": "穗波和遥",
-    "description": "已將穗波和遥提升至一定等級",
+    "description": "已将穗波和遥提升至一定等级",
     "levels": [
       {
         "id": 103060201,
@@ -3487,7 +3487,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "穗波和雫",
-    "description": "已將穗波和雫提升至一定等級",
+    "description": "已将穗波和雫提升至一定等级",
     "levels": [
       {
         "id": 103080101,
@@ -3530,7 +3530,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "穗波和雫",
-    "description": "已將穗波和雫提升至一定等級",
+    "description": "已将穗波和雫提升至一定等级",
     "levels": [
       {
         "id": 103080201,
@@ -3603,7 +3603,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "穗波和司",
-    "description": "已將穗波和司提升至一定等級",
+    "description": "已将穗波和司提升至一定等级",
     "levels": [
       {
         "id": 103130101,
@@ -3646,7 +3646,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "穗波和司",
-    "description": "已將穗波和司提升至一定等級",
+    "description": "已将穗波和司提升至一定等级",
     "levels": [
       {
         "id": 103130201,
@@ -3719,7 +3719,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "low",
     "name": "穗波和笑梦",
-    "description": "已將穗波和笑梦提升至一定等級",
+    "description": "已将穗波和笑梦提升至一定等级",
     "levels": [
       {
         "id": 103140101,
@@ -3762,7 +3762,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "middle",
     "name": "穗波和笑梦",
-    "description": "已將穗波和笑梦提升至一定等級",
+    "description": "已将穗波和笑梦提升至一定等级",
     "levels": [
       {
         "id": 103140201,
@@ -3835,7 +3835,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "low",
     "name": "穗波和奏",
-    "description": "已將穗波和奏提升至一定等級",
+    "description": "已将穗波和奏提升至一定等级",
     "levels": [
       {
         "id": 103170101,
@@ -3878,7 +3878,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "middle",
     "name": "穗波和奏",
-    "description": "已將穗波和奏提升至一定等級",
+    "description": "已将穗波和奏提升至一定等级",
     "levels": [
       {
         "id": 103170201,
@@ -3951,7 +3951,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "穗波和绘名",
-    "description": "已將穗波和绘名提升至一定等級",
+    "description": "已将穗波和绘名提升至一定等级",
     "levels": [
       {
         "id": 103190101,
@@ -3994,7 +3994,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "穗波和绘名",
-    "description": "已將穗波和绘名提升至一定等級",
+    "description": "已将穗波和绘名提升至一定等级",
     "levels": [
       {
         "id": 103190201,
@@ -4067,7 +4067,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "穗波和未来",
-    "description": "已將穗波和未来提升至一定等級",
+    "description": "已将穗波和未来提升至一定等级",
     "levels": [
       {
         "id": 103210101,
@@ -4110,7 +4110,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "穗波和未来",
-    "description": "已將穗波和未来提升至一定等級",
+    "description": "已将穗波和未来提升至一定等级",
     "levels": [
       {
         "id": 103210201,
@@ -4183,7 +4183,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "穗波和连",
-    "description": "已將穗波和连提升至一定等級",
+    "description": "已将穗波和连提升至一定等级",
     "levels": [
       {
         "id": 103230101,
@@ -4226,7 +4226,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "穗波和连",
-    "description": "已將穗波和连提升至一定等級",
+    "description": "已将穗波和连提升至一定等级",
     "levels": [
       {
         "id": 103230201,
@@ -4299,7 +4299,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "穗波和流歌",
-    "description": "已將穗波和流歌提升至一定等級",
+    "description": "已将穗波和流歌提升至一定等级",
     "levels": [
       {
         "id": 103240101,
@@ -4342,7 +4342,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "穗波和流歌",
-    "description": "已將穗波和流歌提升至一定等級",
+    "description": "已将穗波和流歌提升至一定等级",
     "levels": [
       {
         "id": 103240201,
@@ -4415,7 +4415,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "穗波和MEIKO",
-    "description": "已將穗波和MEIKO提升至一定等級",
+    "description": "已将穗波和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 103250101,
@@ -4458,7 +4458,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "穗波和MEIKO",
-    "description": "已將穗波和MEIKO提升至一定等級",
+    "description": "已将穗波和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 103250201,
@@ -4531,7 +4531,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "low",
     "name": "志步和实乃理",
-    "description": "已將志步和实乃理提升至一定等級",
+    "description": "已将志步和实乃理提升至一定等级",
     "levels": [
       {
         "id": 104050101,
@@ -4574,7 +4574,7 @@
     "gameCharacterUnitId2": 5,
     "honorRarity": "middle",
     "name": "志步和实乃理",
-    "description": "已將志步和实乃理提升至一定等級",
+    "description": "已将志步和实乃理提升至一定等级",
     "levels": [
       {
         "id": 104050201,
@@ -4647,7 +4647,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "low",
     "name": "志步和遥",
-    "description": "已將志步和遥提升至一定等級",
+    "description": "已将志步和遥提升至一定等级",
     "levels": [
       {
         "id": 104060101,
@@ -4690,7 +4690,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "middle",
     "name": "志步和遥",
-    "description": "已將志步和遥提升至一定等級",
+    "description": "已将志步和遥提升至一定等级",
     "levels": [
       {
         "id": 104060201,
@@ -4763,7 +4763,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "low",
     "name": "志步和爱莉",
-    "description": "已將志步和爱莉提升至一定等級",
+    "description": "已将志步和爱莉提升至一定等级",
     "levels": [
       {
         "id": 104070101,
@@ -4806,7 +4806,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "middle",
     "name": "志步和爱莉",
-    "description": "已將志步和爱莉提升至一定等級",
+    "description": "已将志步和爱莉提升至一定等级",
     "levels": [
       {
         "id": 104070201,
@@ -4879,7 +4879,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "志步和雫",
-    "description": "已將志步和雫提升至一定等級",
+    "description": "已将志步和雫提升至一定等级",
     "levels": [
       {
         "id": 104080101,
@@ -4922,7 +4922,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "志步和雫",
-    "description": "已將志步和雫提升至一定等級",
+    "description": "已将志步和雫提升至一定等级",
     "levels": [
       {
         "id": 104080201,
@@ -4995,7 +4995,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "志步和心羽",
-    "description": "已將志步和心羽提升至一定等級",
+    "description": "已将志步和心羽提升至一定等级",
     "levels": [
       {
         "id": 104090101,
@@ -5038,7 +5038,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "志步和心羽",
-    "description": "已將志步和心羽提升至一定等級",
+    "description": "已将志步和心羽提升至一定等级",
     "levels": [
       {
         "id": 104090201,
@@ -5111,7 +5111,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "志步和司",
-    "description": "已將志步和司提升至一定等級",
+    "description": "已将志步和司提升至一定等级",
     "levels": [
       {
         "id": 104130101,
@@ -5154,7 +5154,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "志步和司",
-    "description": "已將志步和司提升至一定等級",
+    "description": "已将志步和司提升至一定等级",
     "levels": [
       {
         "id": 104130201,
@@ -5227,7 +5227,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "志步和未来",
-    "description": "已將志步和未来提升至一定等級",
+    "description": "已将志步和未来提升至一定等级",
     "levels": [
       {
         "id": 104210101,
@@ -5270,7 +5270,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "志步和未来",
-    "description": "已將志步和未来提升至一定等級",
+    "description": "已将志步和未来提升至一定等级",
     "levels": [
       {
         "id": 104210201,
@@ -5343,7 +5343,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "志步和铃",
-    "description": "已將志步和铃提升至一定等級",
+    "description": "已将志步和铃提升至一定等级",
     "levels": [
       {
         "id": 104220101,
@@ -5386,7 +5386,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "志步和铃",
-    "description": "已將志步和铃提升至一定等級",
+    "description": "已将志步和铃提升至一定等级",
     "levels": [
       {
         "id": 104220201,
@@ -5459,7 +5459,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "志步和流歌",
-    "description": "已將志步和流歌提升至一定等級",
+    "description": "已将志步和流歌提升至一定等级",
     "levels": [
       {
         "id": 104240101,
@@ -5502,7 +5502,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "志步和流歌",
-    "description": "已將志步和流歌提升至一定等級",
+    "description": "已将志步和流歌提升至一定等级",
     "levels": [
       {
         "id": 104240201,
@@ -5575,7 +5575,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "志步和MEIKO",
-    "description": "已將志步和MEIKO提升至一定等級",
+    "description": "已将志步和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 104250101,
@@ -5618,7 +5618,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "志步和MEIKO",
-    "description": "已將志步和MEIKO提升至一定等級",
+    "description": "已将志步和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 104250201,
@@ -5691,7 +5691,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "志步和KAITO",
-    "description": "已將志步和KAITO提升至一定等級",
+    "description": "已将志步和KAITO提升至一定等级",
     "levels": [
       {
         "id": 104260101,
@@ -5734,7 +5734,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "志步和KAITO",
-    "description": "已將志步和KAITO提升至一定等級",
+    "description": "已将志步和KAITO提升至一定等级",
     "levels": [
       {
         "id": 104260201,
@@ -5807,7 +5807,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "low",
     "name": "实乃理和遥",
-    "description": "已將实乃理和遥提升至一定等級",
+    "description": "已将实乃理和遥提升至一定等级",
     "levels": [
       {
         "id": 105060101,
@@ -5850,7 +5850,7 @@
     "gameCharacterUnitId2": 6,
     "honorRarity": "middle",
     "name": "实乃理和遥",
-    "description": "已將实乃理和遥提升至一定等級",
+    "description": "已将实乃理和遥提升至一定等级",
     "levels": [
       {
         "id": 105060201,
@@ -5923,7 +5923,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "low",
     "name": "实乃理和爱莉",
-    "description": "已將实乃理和爱莉提升至一定等級",
+    "description": "已将实乃理和爱莉提升至一定等级",
     "levels": [
       {
         "id": 105070101,
@@ -5966,7 +5966,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "middle",
     "name": "实乃理和爱莉",
-    "description": "已將实乃理和爱莉提升至一定等級",
+    "description": "已将实乃理和爱莉提升至一定等级",
     "levels": [
       {
         "id": 105070201,
@@ -6039,7 +6039,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "实乃理和雫",
-    "description": "已將实乃理和雫提升至一定等級",
+    "description": "已将实乃理和雫提升至一定等级",
     "levels": [
       {
         "id": 105080101,
@@ -6082,7 +6082,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "实乃理和雫",
-    "description": "已將实乃理和雫提升至一定等級",
+    "description": "已将实乃理和雫提升至一定等级",
     "levels": [
       {
         "id": 105080201,
@@ -6155,7 +6155,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "实乃理和心羽",
-    "description": "已將实乃理和心羽提升至一定等級",
+    "description": "已将实乃理和心羽提升至一定等级",
     "levels": [
       {
         "id": 105090101,
@@ -6198,7 +6198,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "实乃理和心羽",
-    "description": "已將实乃理和心羽提升至一定等級",
+    "description": "已将实乃理和心羽提升至一定等级",
     "levels": [
       {
         "id": 105090201,
@@ -6271,7 +6271,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "low",
     "name": "实乃理和杏",
-    "description": "已將实乃理和杏提升至一定等級",
+    "description": "已将实乃理和杏提升至一定等级",
     "levels": [
       {
         "id": 105100101,
@@ -6314,7 +6314,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "middle",
     "name": "实乃理和杏",
-    "description": "已將实乃理和杏提升至一定等級",
+    "description": "已将实乃理和杏提升至一定等级",
     "levels": [
       {
         "id": 105100201,
@@ -6387,7 +6387,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "实乃理和司",
-    "description": "已將实乃理和司提升至一定等級",
+    "description": "已将实乃理和司提升至一定等级",
     "levels": [
       {
         "id": 105130101,
@@ -6430,7 +6430,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "实乃理和司",
-    "description": "已將实乃理和司提升至一定等級",
+    "description": "已将实乃理和司提升至一定等级",
     "levels": [
       {
         "id": 105130201,
@@ -6503,7 +6503,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "low",
     "name": "实乃理和奏",
-    "description": "已將实乃理和奏提升至一定等級",
+    "description": "已将实乃理和奏提升至一定等级",
     "levels": [
       {
         "id": 105170101,
@@ -6546,7 +6546,7 @@
     "gameCharacterUnitId2": 17,
     "honorRarity": "middle",
     "name": "实乃理和奏",
-    "description": "已將实乃理和奏提升至一定等級",
+    "description": "已将实乃理和奏提升至一定等级",
     "levels": [
       {
         "id": 105170201,
@@ -6619,7 +6619,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "实乃理和未来",
-    "description": "已將实乃理和未来提升至一定等級",
+    "description": "已将实乃理和未来提升至一定等级",
     "levels": [
       {
         "id": 105210101,
@@ -6662,7 +6662,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "实乃理和未来",
-    "description": "已將实乃理和未来提升至一定等級",
+    "description": "已将实乃理和未来提升至一定等级",
     "levels": [
       {
         "id": 105210201,
@@ -6735,7 +6735,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "实乃理和铃",
-    "description": "已將实乃理和铃提升至一定等級",
+    "description": "已将实乃理和铃提升至一定等级",
     "levels": [
       {
         "id": 105220101,
@@ -6778,7 +6778,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "实乃理和铃",
-    "description": "已將实乃理和铃提升至一定等級",
+    "description": "已将实乃理和铃提升至一定等级",
     "levels": [
       {
         "id": 105220201,
@@ -6851,7 +6851,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "实乃理和流歌",
-    "description": "已將实乃理和流歌提升至一定等級",
+    "description": "已将实乃理和流歌提升至一定等级",
     "levels": [
       {
         "id": 105240101,
@@ -6894,7 +6894,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "实乃理和流歌",
-    "description": "已將实乃理和流歌提升至一定等級",
+    "description": "已将实乃理和流歌提升至一定等级",
     "levels": [
       {
         "id": 105240201,
@@ -6967,7 +6967,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "实乃理和KAITO",
-    "description": "已將实乃理和KAITO提升至一定等級",
+    "description": "已将实乃理和KAITO提升至一定等级",
     "levels": [
       {
         "id": 105260101,
@@ -7010,7 +7010,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "实乃理和KAITO",
-    "description": "已將实乃理和KAITO提升至一定等級",
+    "description": "已将实乃理和KAITO提升至一定等级",
     "levels": [
       {
         "id": 105260201,
@@ -7083,7 +7083,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "low",
     "name": "遥和爱莉",
-    "description": "已將遥和爱莉提升至一定等級",
+    "description": "已将遥和爱莉提升至一定等级",
     "levels": [
       {
         "id": 106070101,
@@ -7126,7 +7126,7 @@
     "gameCharacterUnitId2": 7,
     "honorRarity": "middle",
     "name": "遥和爱莉",
-    "description": "已將遥和爱莉提升至一定等級",
+    "description": "已将遥和爱莉提升至一定等级",
     "levels": [
       {
         "id": 106070201,
@@ -7199,7 +7199,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "遥和雫",
-    "description": "已將遥和雫提升至一定等級",
+    "description": "已将遥和雫提升至一定等级",
     "levels": [
       {
         "id": 106080101,
@@ -7242,7 +7242,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "遥和雫",
-    "description": "已將遥和雫提升至一定等級",
+    "description": "已将遥和雫提升至一定等级",
     "levels": [
       {
         "id": 106080201,
@@ -7315,7 +7315,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "遥和心羽",
-    "description": "已將遥和心羽提升至一定等級",
+    "description": "已将遥和心羽提升至一定等级",
     "levels": [
       {
         "id": 106090101,
@@ -7358,7 +7358,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "遥和心羽",
-    "description": "已將遥和心羽提升至一定等級",
+    "description": "已将遥和心羽提升至一定等级",
     "levels": [
       {
         "id": 106090201,
@@ -7431,7 +7431,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "low",
     "name": "遥和杏",
-    "description": "已將遥和杏提升至一定等級",
+    "description": "已将遥和杏提升至一定等级",
     "levels": [
       {
         "id": 106100101,
@@ -7474,7 +7474,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "middle",
     "name": "遥和杏",
-    "description": "已將遥和杏提升至一定等級",
+    "description": "已将遥和杏提升至一定等级",
     "levels": [
       {
         "id": 106100201,
@@ -7547,7 +7547,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "low",
     "name": "遥和笑梦",
-    "description": "已將遥和笑梦提升至一定等級",
+    "description": "已将遥和笑梦提升至一定等级",
     "levels": [
       {
         "id": 106140101,
@@ -7590,7 +7590,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "middle",
     "name": "遥和笑梦",
-    "description": "已將遥和笑梦提升至一定等級",
+    "description": "已将遥和笑梦提升至一定等级",
     "levels": [
       {
         "id": 106140201,
@@ -7663,7 +7663,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "遥和未来",
-    "description": "已將遥和未来提升至一定等級",
+    "description": "已将遥和未来提升至一定等级",
     "levels": [
       {
         "id": 106210101,
@@ -7706,7 +7706,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "遥和未来",
-    "description": "已將遥和未来提升至一定等級",
+    "description": "已将遥和未来提升至一定等级",
     "levels": [
       {
         "id": 106210201,
@@ -7779,7 +7779,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "遥和铃",
-    "description": "已將遥和铃提升至一定等級",
+    "description": "已将遥和铃提升至一定等级",
     "levels": [
       {
         "id": 106220101,
@@ -7822,7 +7822,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "遥和铃",
-    "description": "已將遥和铃提升至一定等級",
+    "description": "已将遥和铃提升至一定等级",
     "levels": [
       {
         "id": 106220201,
@@ -7895,7 +7895,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "遥和MEIKO",
-    "description": "已將遥和MEIKO提升至一定等級",
+    "description": "已将遥和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 106250101,
@@ -7938,7 +7938,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "遥和MEIKO",
-    "description": "已將遥和MEIKO提升至一定等級",
+    "description": "已将遥和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 106250201,
@@ -8011,7 +8011,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "遥和KAITO",
-    "description": "已將遥和KAITO提升至一定等級",
+    "description": "已将遥和KAITO提升至一定等级",
     "levels": [
       {
         "id": 106260101,
@@ -8054,7 +8054,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "遥和KAITO",
-    "description": "已將遥和KAITO提升至一定等級",
+    "description": "已将遥和KAITO提升至一定等级",
     "levels": [
       {
         "id": 106260201,
@@ -8127,7 +8127,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "low",
     "name": "爱莉和雫",
-    "description": "已將爱莉和雫提升至一定等級",
+    "description": "已将爱莉和雫提升至一定等级",
     "levels": [
       {
         "id": 107080101,
@@ -8170,7 +8170,7 @@
     "gameCharacterUnitId2": 8,
     "honorRarity": "middle",
     "name": "爱莉和雫",
-    "description": "已將爱莉和雫提升至一定等級",
+    "description": "已将爱莉和雫提升至一定等级",
     "levels": [
       {
         "id": 107080201,
@@ -8243,7 +8243,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "爱莉和心羽",
-    "description": "已將爱莉和心羽提升至一定等級",
+    "description": "已将爱莉和心羽提升至一定等级",
     "levels": [
       {
         "id": 107090101,
@@ -8286,7 +8286,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "爱莉和心羽",
-    "description": "已將爱莉和心羽提升至一定等級",
+    "description": "已将爱莉和心羽提升至一定等级",
     "levels": [
       {
         "id": 107090201,
@@ -8359,7 +8359,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "low",
     "name": "爱莉和杏",
-    "description": "已將爱莉和杏提升至一定等級",
+    "description": "已将爱莉和杏提升至一定等级",
     "levels": [
       {
         "id": 107100101,
@@ -8402,7 +8402,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "middle",
     "name": "爱莉和杏",
-    "description": "已將爱莉和杏提升至一定等級",
+    "description": "已将爱莉和杏提升至一定等级",
     "levels": [
       {
         "id": 107100201,
@@ -8475,7 +8475,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "low",
     "name": "爱莉和彰人",
-    "description": "已將爱莉和彰人提升至一定等級",
+    "description": "已将爱莉和彰人提升至一定等级",
     "levels": [
       {
         "id": 107110101,
@@ -8518,7 +8518,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "middle",
     "name": "爱莉和彰人",
-    "description": "已將爱莉和彰人提升至一定等級",
+    "description": "已将爱莉和彰人提升至一定等级",
     "levels": [
       {
         "id": 107110201,
@@ -8591,7 +8591,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "low",
     "name": "爱莉和笑梦",
-    "description": "已將爱莉和笑梦提升至一定等級",
+    "description": "已将爱莉和笑梦提升至一定等级",
     "levels": [
       {
         "id": 107140101,
@@ -8634,7 +8634,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "middle",
     "name": "爱莉和笑梦",
-    "description": "已將爱莉和笑梦提升至一定等級",
+    "description": "已将爱莉和笑梦提升至一定等级",
     "levels": [
       {
         "id": 107140201,
@@ -8707,7 +8707,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "爱莉和绘名",
-    "description": "已將爱莉和绘名提升至一定等級",
+    "description": "已将爱莉和绘名提升至一定等级",
     "levels": [
       {
         "id": 107190101,
@@ -8750,7 +8750,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "爱莉和绘名",
-    "description": "已將爱莉和绘名提升至一定等級",
+    "description": "已将爱莉和绘名提升至一定等级",
     "levels": [
       {
         "id": 107190201,
@@ -8823,7 +8823,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "爱莉和瑞希",
-    "description": "已將爱莉和瑞希提升至一定等級",
+    "description": "已将爱莉和瑞希提升至一定等级",
     "levels": [
       {
         "id": 107200101,
@@ -8866,7 +8866,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "爱莉和瑞希",
-    "description": "已將爱莉和瑞希提升至一定等級",
+    "description": "已将爱莉和瑞希提升至一定等级",
     "levels": [
       {
         "id": 107200201,
@@ -8939,7 +8939,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "爱莉和未来",
-    "description": "已將爱莉和未来提升至一定等級",
+    "description": "已将爱莉和未来提升至一定等级",
     "levels": [
       {
         "id": 107210101,
@@ -8982,7 +8982,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "爱莉和未来",
-    "description": "已將爱莉和未来提升至一定等級",
+    "description": "已将爱莉和未来提升至一定等级",
     "levels": [
       {
         "id": 107210201,
@@ -9055,7 +9055,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "爱莉和铃",
-    "description": "已將爱莉和铃提升至一定等級",
+    "description": "已将爱莉和铃提升至一定等级",
     "levels": [
       {
         "id": 107220101,
@@ -9098,7 +9098,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "爱莉和铃",
-    "description": "已將爱莉和铃提升至一定等級",
+    "description": "已将爱莉和铃提升至一定等级",
     "levels": [
       {
         "id": 107220201,
@@ -9171,7 +9171,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "爱莉和连",
-    "description": "已將爱莉和连提升至一定等級",
+    "description": "已将爱莉和连提升至一定等级",
     "levels": [
       {
         "id": 107230101,
@@ -9214,7 +9214,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "爱莉和连",
-    "description": "已將爱莉和连提升至一定等級",
+    "description": "已将爱莉和连提升至一定等级",
     "levels": [
       {
         "id": 107230201,
@@ -9287,7 +9287,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "爱莉和MEIKO",
-    "description": "已將爱莉和MEIKO提升至一定等級",
+    "description": "已将爱莉和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 107250101,
@@ -9330,7 +9330,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "爱莉和MEIKO",
-    "description": "已將爱莉和MEIKO提升至一定等級",
+    "description": "已将爱莉和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 107250201,
@@ -9403,7 +9403,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "low",
     "name": "雫和心羽",
-    "description": "已將雫和心羽提升至一定等級",
+    "description": "已将雫和心羽提升至一定等级",
     "levels": [
       {
         "id": 108090101,
@@ -9446,7 +9446,7 @@
     "gameCharacterUnitId2": 9,
     "honorRarity": "middle",
     "name": "雫和心羽",
-    "description": "已將雫和心羽提升至一定等級",
+    "description": "已将雫和心羽提升至一定等级",
     "levels": [
       {
         "id": 108090201,
@@ -9519,7 +9519,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "low",
     "name": "雫和杏",
-    "description": "已將雫和杏提升至一定等級",
+    "description": "已将雫和杏提升至一定等级",
     "levels": [
       {
         "id": 108100101,
@@ -9562,7 +9562,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "middle",
     "name": "雫和杏",
-    "description": "已將雫和杏提升至一定等級",
+    "description": "已将雫和杏提升至一定等级",
     "levels": [
       {
         "id": 108100201,
@@ -9635,7 +9635,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "雫和司",
-    "description": "已將雫和司提升至一定等級",
+    "description": "已将雫和司提升至一定等级",
     "levels": [
       {
         "id": 108130101,
@@ -9678,7 +9678,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "雫和司",
-    "description": "已將雫和司提升至一定等級",
+    "description": "已将雫和司提升至一定等级",
     "levels": [
       {
         "id": 108130201,
@@ -9751,7 +9751,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "low",
     "name": "雫和真冬",
-    "description": "已將雫和真冬提升至一定等級",
+    "description": "已将雫和真冬提升至一定等级",
     "levels": [
       {
         "id": 108180101,
@@ -9794,7 +9794,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "middle",
     "name": "雫和真冬",
-    "description": "已將雫和真冬提升至一定等級",
+    "description": "已将雫和真冬提升至一定等级",
     "levels": [
       {
         "id": 108180201,
@@ -9867,7 +9867,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "雫和绘名",
-    "description": "已將雫和绘名提升至一定等級",
+    "description": "已将雫和绘名提升至一定等级",
     "levels": [
       {
         "id": 108190101,
@@ -9910,7 +9910,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "雫和绘名",
-    "description": "已將雫和绘名提升至一定等級",
+    "description": "已将雫和绘名提升至一定等级",
     "levels": [
       {
         "id": 108190201,
@@ -9983,7 +9983,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "雫和瑞希",
-    "description": "已將雫和瑞希提升至一定等級",
+    "description": "已将雫和瑞希提升至一定等级",
     "levels": [
       {
         "id": 108200101,
@@ -10026,7 +10026,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "雫和瑞希",
-    "description": "已將雫和瑞希提升至一定等級",
+    "description": "已将雫和瑞希提升至一定等级",
     "levels": [
       {
         "id": 108200201,
@@ -10099,7 +10099,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "雫和未来",
-    "description": "已將雫和未来提升至一定等級",
+    "description": "已将雫和未来提升至一定等级",
     "levels": [
       {
         "id": 108210101,
@@ -10142,7 +10142,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "雫和未来",
-    "description": "已將雫和未来提升至一定等級",
+    "description": "已将雫和未来提升至一定等级",
     "levels": [
       {
         "id": 108210201,
@@ -10215,7 +10215,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "雫和铃",
-    "description": "已將雫和铃提升至一定等級",
+    "description": "已将雫和铃提升至一定等级",
     "levels": [
       {
         "id": 108220101,
@@ -10258,7 +10258,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "雫和铃",
-    "description": "已將雫和铃提升至一定等級",
+    "description": "已将雫和铃提升至一定等级",
     "levels": [
       {
         "id": 108220201,
@@ -10331,7 +10331,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "雫和流歌",
-    "description": "已將雫和流歌提升至一定等級",
+    "description": "已将雫和流歌提升至一定等级",
     "levels": [
       {
         "id": 108240101,
@@ -10374,7 +10374,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "雫和流歌",
-    "description": "已將雫和流歌提升至一定等級",
+    "description": "已将雫和流歌提升至一定等级",
     "levels": [
       {
         "id": 108240201,
@@ -10447,7 +10447,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "雫和KAITO",
-    "description": "已將雫和KAITO提升至一定等級",
+    "description": "已将雫和KAITO提升至一定等级",
     "levels": [
       {
         "id": 108260101,
@@ -10490,7 +10490,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "雫和KAITO",
-    "description": "已將雫和KAITO提升至一定等級",
+    "description": "已将雫和KAITO提升至一定等级",
     "levels": [
       {
         "id": 108260201,
@@ -10563,7 +10563,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "low",
     "name": "心羽和杏",
-    "description": "已將心羽和杏提升至一定等級",
+    "description": "已将心羽和杏提升至一定等级",
     "levels": [
       {
         "id": 109100101,
@@ -10606,7 +10606,7 @@
     "gameCharacterUnitId2": 10,
     "honorRarity": "middle",
     "name": "心羽和杏",
-    "description": "已將心羽和杏提升至一定等級",
+    "description": "已将心羽和杏提升至一定等级",
     "levels": [
       {
         "id": 109100201,
@@ -10679,7 +10679,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "low",
     "name": "心羽和彰人",
-    "description": "已將心羽和彰人提升至一定等級",
+    "description": "已将心羽和彰人提升至一定等级",
     "levels": [
       {
         "id": 109110101,
@@ -10722,7 +10722,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "middle",
     "name": "心羽和彰人",
-    "description": "已將心羽和彰人提升至一定等級",
+    "description": "已将心羽和彰人提升至一定等级",
     "levels": [
       {
         "id": 109110201,
@@ -10795,7 +10795,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "low",
     "name": "心羽和冬弥",
-    "description": "已將心羽和冬弥提升至一定等級",
+    "description": "已将心羽和冬弥提升至一定等级",
     "levels": [
       {
         "id": 109120101,
@@ -10838,7 +10838,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "middle",
     "name": "心羽和冬弥",
-    "description": "已將心羽和冬弥提升至一定等級",
+    "description": "已将心羽和冬弥提升至一定等级",
     "levels": [
       {
         "id": 109120201,
@@ -10911,7 +10911,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "心羽和司",
-    "description": "已將心羽和司提升至一定等級",
+    "description": "已将心羽和司提升至一定等级",
     "levels": [
       {
         "id": 109130101,
@@ -10954,7 +10954,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "心羽和司",
-    "description": "已將心羽和司提升至一定等級",
+    "description": "已将心羽和司提升至一定等级",
     "levels": [
       {
         "id": 109130201,
@@ -11027,7 +11027,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "心羽和未来",
-    "description": "已將心羽和未来提升至一定等級",
+    "description": "已将心羽和未来提升至一定等级",
     "levels": [
       {
         "id": 109210101,
@@ -11070,7 +11070,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "心羽和未来",
-    "description": "已將心羽和未来提升至一定等級",
+    "description": "已将心羽和未来提升至一定等级",
     "levels": [
       {
         "id": 109210201,
@@ -11143,7 +11143,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "心羽和铃",
-    "description": "已將心羽和铃提升至一定等級",
+    "description": "已将心羽和铃提升至一定等级",
     "levels": [
       {
         "id": 109220101,
@@ -11186,7 +11186,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "心羽和铃",
-    "description": "已將心羽和铃提升至一定等級",
+    "description": "已将心羽和铃提升至一定等级",
     "levels": [
       {
         "id": 109220201,
@@ -11259,7 +11259,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "心羽和连",
-    "description": "已將心羽和连提升至一定等級",
+    "description": "已将心羽和连提升至一定等级",
     "levels": [
       {
         "id": 109230101,
@@ -11302,7 +11302,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "心羽和连",
-    "description": "已將心羽和连提升至一定等級",
+    "description": "已将心羽和连提升至一定等级",
     "levels": [
       {
         "id": 109230201,
@@ -11375,7 +11375,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "心羽和流歌",
-    "description": "已將心羽和流歌提升至一定等級",
+    "description": "已将心羽和流歌提升至一定等级",
     "levels": [
       {
         "id": 109240101,
@@ -11418,7 +11418,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "心羽和流歌",
-    "description": "已將心羽和流歌提升至一定等級",
+    "description": "已将心羽和流歌提升至一定等级",
     "levels": [
       {
         "id": 109240201,
@@ -11491,7 +11491,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "心羽和MEIKO",
-    "description": "已將心羽和MEIKO提升至一定等級",
+    "description": "已将心羽和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 109250101,
@@ -11534,7 +11534,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "心羽和MEIKO",
-    "description": "已將心羽和MEIKO提升至一定等級",
+    "description": "已将心羽和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 109250201,
@@ -11607,7 +11607,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "心羽和KAITO",
-    "description": "已將心羽和KAITO提升至一定等級",
+    "description": "已将心羽和KAITO提升至一定等级",
     "levels": [
       {
         "id": 109260101,
@@ -11650,7 +11650,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "心羽和KAITO",
-    "description": "已將心羽和KAITO提升至一定等級",
+    "description": "已将心羽和KAITO提升至一定等级",
     "levels": [
       {
         "id": 109260201,
@@ -11723,7 +11723,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "low",
     "name": "杏和彰人",
-    "description": "已將杏和彰人提升至一定等級",
+    "description": "已将杏和彰人提升至一定等级",
     "levels": [
       {
         "id": 110110101,
@@ -11766,7 +11766,7 @@
     "gameCharacterUnitId2": 11,
     "honorRarity": "middle",
     "name": "杏和彰人",
-    "description": "已將杏和彰人提升至一定等級",
+    "description": "已将杏和彰人提升至一定等级",
     "levels": [
       {
         "id": 110110201,
@@ -11839,7 +11839,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "low",
     "name": "杏和冬弥",
-    "description": "已將杏和冬弥提升至一定等級",
+    "description": "已将杏和冬弥提升至一定等级",
     "levels": [
       {
         "id": 110120101,
@@ -11882,7 +11882,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "middle",
     "name": "杏和冬弥",
-    "description": "已將杏和冬弥提升至一定等級",
+    "description": "已将杏和冬弥提升至一定等级",
     "levels": [
       {
         "id": 110120201,
@@ -11954,38 +11954,38 @@
     "gameCharacterUnitId1": 10,
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
-    "name": "杏和寧寧",
-    "description": "已將杏和寧寧提升至一定等級",
+    "name": "杏和宁宁",
+    "description": "已将杏和宁宁提升至一定等级",
     "levels": [
       {
         "id": 110150101,
         "bondsHonorId": 1101501,
         "level": 1,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至5。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至5。"
       },
       {
         "id": 110150102,
         "bondsHonorId": 1101501,
         "level": 2,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至10。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至10。"
       },
       {
         "id": 110150103,
         "bondsHonorId": 1101501,
         "level": 3,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至15。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至15。"
       },
       {
         "id": 110150104,
         "bondsHonorId": 1101501,
         "level": 4,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至20。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至20。"
       },
       {
         "id": 110150105,
         "bondsHonorId": 1101501,
         "level": 5,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至25。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至25。"
       }
     ],
     "configurableUnitVirtualSinger": false
@@ -11997,68 +11997,68 @@
     "gameCharacterUnitId1": 10,
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
-    "name": "杏和寧寧",
-    "description": "已將杏和寧寧提升至一定等級",
+    "name": "杏和宁宁",
+    "description": "已将杏和宁宁提升至一定等级",
     "levels": [
       {
         "id": 110150201,
         "bondsHonorId": 1101502,
         "level": 1,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至30。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至30。"
       },
       {
         "id": 110150202,
         "bondsHonorId": 1101502,
         "level": 2,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至35。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至35。"
       },
       {
         "id": 110150203,
         "bondsHonorId": 1101502,
         "level": 3,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至40。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至40。"
       },
       {
         "id": 110150204,
         "bondsHonorId": 1101502,
         "level": 4,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至45。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至45。"
       },
       {
         "id": 110150205,
         "bondsHonorId": 1101502,
         "level": 5,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至50。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至50。"
       },
       {
         "id": 110150206,
         "bondsHonorId": 1101502,
         "level": 6,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至55。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至55。"
       },
       {
         "id": 110150207,
         "bondsHonorId": 1101502,
         "level": 7,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至60。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至60。"
       },
       {
         "id": 110150208,
         "bondsHonorId": 1101502,
         "level": 8,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至65。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至65。"
       },
       {
         "id": 110150209,
         "bondsHonorId": 1101502,
         "level": 9,
-        "description": "将白石杏和草薙宁宁的情誼等級提升至70。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至70。"
       },
       {
         "id": 110150210,
         "bondsHonorId": 1101502,
         "level": 10,
-        "description": "将白石杏和草薙宁宁的牵绊等级提升至75。"
+        "description": "将白石杏与草薙宁宁的牵绊等级提升至75。"
       }
     ],
     "configurableUnitVirtualSinger": false
@@ -12071,7 +12071,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "杏和瑞希",
-    "description": "已將杏和瑞希提升至一定等級",
+    "description": "已将杏和瑞希提升至一定等级",
     "levels": [
       {
         "id": 110200101,
@@ -12114,7 +12114,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "杏和瑞希",
-    "description": "已將杏和瑞希提升至一定等級",
+    "description": "已将杏和瑞希提升至一定等级",
     "levels": [
       {
         "id": 110200201,
@@ -12187,7 +12187,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "杏和未来",
-    "description": "已將杏和未来提升至一定等級",
+    "description": "已将杏和未来提升至一定等级",
     "levels": [
       {
         "id": 110210101,
@@ -12230,7 +12230,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "杏和未来",
-    "description": "已將杏和未来提升至一定等級",
+    "description": "已将杏和未来提升至一定等级",
     "levels": [
       {
         "id": 110210201,
@@ -12303,7 +12303,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "杏和铃",
-    "description": "已將杏和铃提升至一定等級",
+    "description": "已将杏和铃提升至一定等级",
     "levels": [
       {
         "id": 110220101,
@@ -12346,7 +12346,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "杏和铃",
-    "description": "已將杏和铃提升至一定等級",
+    "description": "已将杏和铃提升至一定等级",
     "levels": [
       {
         "id": 110220201,
@@ -12419,7 +12419,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "杏和连",
-    "description": "已將杏和连提升至一定等級",
+    "description": "已将杏和连提升至一定等级",
     "levels": [
       {
         "id": 110230101,
@@ -12462,7 +12462,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "杏和连",
-    "description": "已將杏和连提升至一定等級",
+    "description": "已将杏和连提升至一定等级",
     "levels": [
       {
         "id": 110230201,
@@ -12535,7 +12535,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "杏和流歌",
-    "description": "已將杏和流歌提升至一定等級",
+    "description": "已将杏和流歌提升至一定等级",
     "levels": [
       {
         "id": 110240101,
@@ -12578,7 +12578,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "杏和流歌",
-    "description": "已將杏和流歌提升至一定等級",
+    "description": "已将杏和流歌提升至一定等级",
     "levels": [
       {
         "id": 110240201,
@@ -12651,7 +12651,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "杏和MEIKO",
-    "description": "已將杏和MEIKO提升至一定等級",
+    "description": "已将杏和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 110250101,
@@ -12694,7 +12694,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "杏和MEIKO",
-    "description": "已將杏和MEIKO提升至一定等級",
+    "description": "已将杏和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 110250201,
@@ -12767,7 +12767,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "low",
     "name": "彰人和冬弥",
-    "description": "已將彰人和冬弥提升至一定等級",
+    "description": "已将彰人和冬弥提升至一定等级",
     "levels": [
       {
         "id": 111120101,
@@ -12810,7 +12810,7 @@
     "gameCharacterUnitId2": 12,
     "honorRarity": "middle",
     "name": "彰人和冬弥",
-    "description": "已將彰人和冬弥提升至一定等級",
+    "description": "已将彰人和冬弥提升至一定等级",
     "levels": [
       {
         "id": 111120201,
@@ -12883,7 +12883,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "彰人和司",
-    "description": "已將彰人和司提升至一定等級",
+    "description": "已将彰人和司提升至一定等级",
     "levels": [
       {
         "id": 111130101,
@@ -12926,7 +12926,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "彰人和司",
-    "description": "已將彰人和司提升至一定等級",
+    "description": "已将彰人和司提升至一定等级",
     "levels": [
       {
         "id": 111130201,
@@ -12998,38 +12998,38 @@
     "gameCharacterUnitId1": 11,
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
-    "name": "彰人和寧寧",
-    "description": "已將彰人和寧寧提升至一定等級",
+    "name": "彰人和宁宁",
+    "description": "已将彰人和宁宁提升至一定等级",
     "levels": [
       {
         "id": 111150101,
         "bondsHonorId": 1111501,
         "level": 1,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至5。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至5。"
       },
       {
         "id": 111150102,
         "bondsHonorId": 1111501,
         "level": 2,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至10。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至10。"
       },
       {
         "id": 111150103,
         "bondsHonorId": 1111501,
         "level": 3,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至15。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至15。"
       },
       {
         "id": 111150104,
         "bondsHonorId": 1111501,
         "level": 4,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至20。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至20。"
       },
       {
         "id": 111150105,
         "bondsHonorId": 1111501,
         "level": 5,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至25。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至25。"
       }
     ],
     "configurableUnitVirtualSinger": false
@@ -13041,68 +13041,68 @@
     "gameCharacterUnitId1": 11,
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
-    "name": "彰人和寧寧",
-    "description": "已將彰人和寧寧提升至一定等級",
+    "name": "彰人和宁宁",
+    "description": "已将彰人和宁宁提升至一定等级",
     "levels": [
       {
         "id": 111150201,
         "bondsHonorId": 1111502,
         "level": 1,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至30。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至30。"
       },
       {
         "id": 111150202,
         "bondsHonorId": 1111502,
         "level": 2,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至35。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至35。"
       },
       {
         "id": 111150203,
         "bondsHonorId": 1111502,
         "level": 3,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至40。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至40。"
       },
       {
         "id": 111150204,
         "bondsHonorId": 1111502,
         "level": 4,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至45。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至45。"
       },
       {
         "id": 111150205,
         "bondsHonorId": 1111502,
         "level": 5,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至50。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至50。"
       },
       {
         "id": 111150206,
         "bondsHonorId": 1111502,
         "level": 6,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至55。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至55。"
       },
       {
         "id": 111150207,
         "bondsHonorId": 1111502,
         "level": 7,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至60。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至60。"
       },
       {
         "id": 111150208,
         "bondsHonorId": 1111502,
         "level": 8,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至65。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至65。"
       },
       {
         "id": 111150209,
         "bondsHonorId": 1111502,
         "level": 9,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至70。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至70。"
       },
       {
         "id": 111150210,
         "bondsHonorId": 1111502,
         "level": 10,
-        "description": "将东云彰人和草薙宁宁的牵绊等级提升至75。"
+        "description": "将东云彰人与草薙宁宁的牵绊等级提升至75。"
       }
     ],
     "configurableUnitVirtualSinger": false
@@ -13115,7 +13115,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "low",
     "name": "彰人和类",
-    "description": "已將彰人和类提升至一定等級",
+    "description": "已将彰人和类提升至一定等级",
     "levels": [
       {
         "id": 111160101,
@@ -13158,7 +13158,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "middle",
     "name": "彰人和类",
-    "description": "已將彰人和类提升至一定等級",
+    "description": "已将彰人和类提升至一定等级",
     "levels": [
       {
         "id": 111160201,
@@ -13231,7 +13231,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "彰人和绘名",
-    "description": "已將彰人和绘名提升至一定等級",
+    "description": "已将彰人和绘名提升至一定等级",
     "levels": [
       {
         "id": 111190101,
@@ -13274,7 +13274,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "彰人和绘名",
-    "description": "已將彰人和绘名提升至一定等級",
+    "description": "已将彰人和绘名提升至一定等级",
     "levels": [
       {
         "id": 111190201,
@@ -13347,7 +13347,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "彰人和瑞希",
-    "description": "已將彰人和瑞希提升至一定等級",
+    "description": "已将彰人和瑞希提升至一定等级",
     "levels": [
       {
         "id": 111200101,
@@ -13390,7 +13390,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "彰人和瑞希",
-    "description": "已將彰人和瑞希提升至一定等級",
+    "description": "已将彰人和瑞希提升至一定等级",
     "levels": [
       {
         "id": 111200201,
@@ -13463,7 +13463,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "彰人和未来",
-    "description": "已將彰人和未来提升至一定等級",
+    "description": "已将彰人和未来提升至一定等级",
     "levels": [
       {
         "id": 111210101,
@@ -13506,7 +13506,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "彰人和未来",
-    "description": "已將彰人和未来提升至一定等級",
+    "description": "已将彰人和未来提升至一定等级",
     "levels": [
       {
         "id": 111210201,
@@ -13579,7 +13579,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "彰人和铃",
-    "description": "已將彰人和铃提升至一定等級",
+    "description": "已将彰人和铃提升至一定等级",
     "levels": [
       {
         "id": 111220101,
@@ -13622,7 +13622,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "彰人和铃",
-    "description": "已將彰人和铃提升至一定等級",
+    "description": "已将彰人和铃提升至一定等级",
     "levels": [
       {
         "id": 111220201,
@@ -13695,7 +13695,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "彰人和连",
-    "description": "已將彰人和连提升至一定等級",
+    "description": "已将彰人和连提升至一定等级",
     "levels": [
       {
         "id": 111230101,
@@ -13738,7 +13738,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "彰人和连",
-    "description": "已將彰人和连提升至一定等級",
+    "description": "已将彰人和连提升至一定等级",
     "levels": [
       {
         "id": 111230201,
@@ -13811,7 +13811,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "彰人和流歌",
-    "description": "已將彰人和流歌提升至一定等級",
+    "description": "已将彰人和流歌提升至一定等级",
     "levels": [
       {
         "id": 111240101,
@@ -13854,7 +13854,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "彰人和流歌",
-    "description": "已將彰人和流歌提升至一定等級",
+    "description": "已将彰人和流歌提升至一定等级",
     "levels": [
       {
         "id": 111240201,
@@ -13927,7 +13927,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "彰人和MEIKO",
-    "description": "已將彰人和MEIKO提升至一定等級",
+    "description": "已将彰人和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 111250101,
@@ -13970,7 +13970,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "彰人和MEIKO",
-    "description": "已將彰人和MEIKO提升至一定等級",
+    "description": "已将彰人和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 111250201,
@@ -14043,7 +14043,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "彰人和KAITO",
-    "description": "已將彰人和KAITO提升至一定等級",
+    "description": "已将彰人和KAITO提升至一定等级",
     "levels": [
       {
         "id": 111260101,
@@ -14086,7 +14086,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "彰人和KAITO",
-    "description": "已將彰人和KAITO提升至一定等級",
+    "description": "已将彰人和KAITO提升至一定等级",
     "levels": [
       {
         "id": 111260201,
@@ -14159,7 +14159,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "low",
     "name": "冬弥和司",
-    "description": "已將冬弥和司提升至一定等級",
+    "description": "已将冬弥和司提升至一定等级",
     "levels": [
       {
         "id": 112130101,
@@ -14202,7 +14202,7 @@
     "gameCharacterUnitId2": 13,
     "honorRarity": "middle",
     "name": "冬弥和司",
-    "description": "已將冬弥和司提升至一定等級",
+    "description": "已将冬弥和司提升至一定等级",
     "levels": [
       {
         "id": 112130201,
@@ -14275,7 +14275,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
     "name": "冬弥和宁宁",
-    "description": "已將冬弥和宁宁提升至一定等級",
+    "description": "已将冬弥和宁宁提升至一定等级",
     "levels": [
       {
         "id": 112150101,
@@ -14318,7 +14318,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
     "name": "冬弥和宁宁",
-    "description": "已將冬弥和宁宁提升至一定等級",
+    "description": "已将冬弥和宁宁提升至一定等级",
     "levels": [
       {
         "id": 112150201,
@@ -14391,7 +14391,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "low",
     "name": "冬弥和类",
-    "description": "已將冬弥和类提升至一定等級",
+    "description": "已将冬弥和类提升至一定等级",
     "levels": [
       {
         "id": 112160101,
@@ -14434,7 +14434,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "middle",
     "name": "冬弥和类",
-    "description": "已將冬弥和类提升至一定等級",
+    "description": "已将冬弥和类提升至一定等级",
     "levels": [
       {
         "id": 112160201,
@@ -14507,7 +14507,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "冬弥和瑞希",
-    "description": "已將冬弥和瑞希提升至一定等級",
+    "description": "已将冬弥和瑞希提升至一定等级",
     "levels": [
       {
         "id": 112200101,
@@ -14550,7 +14550,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "冬弥和瑞希",
-    "description": "已將冬弥和瑞希提升至一定等級",
+    "description": "已将冬弥和瑞希提升至一定等级",
     "levels": [
       {
         "id": 112200201,
@@ -14623,7 +14623,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "冬弥和未来",
-    "description": "已將冬弥和未来提升至一定等級",
+    "description": "已将冬弥和未来提升至一定等级",
     "levels": [
       {
         "id": 112210101,
@@ -14666,7 +14666,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "冬弥和未来",
-    "description": "已將冬弥和未来提升至一定等級",
+    "description": "已将冬弥和未来提升至一定等级",
     "levels": [
       {
         "id": 112210201,
@@ -14739,7 +14739,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "冬弥和铃",
-    "description": "已將冬弥和铃提升至一定等級",
+    "description": "已将冬弥和铃提升至一定等级",
     "levels": [
       {
         "id": 112220101,
@@ -14782,7 +14782,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "冬弥和铃",
-    "description": "已將冬弥和铃提升至一定等級",
+    "description": "已将冬弥和铃提升至一定等级",
     "levels": [
       {
         "id": 112220201,
@@ -14855,7 +14855,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "冬弥和连",
-    "description": "已將冬弥和连提升至一定等級",
+    "description": "已将冬弥和连提升至一定等级",
     "levels": [
       {
         "id": 112230101,
@@ -14898,7 +14898,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "冬弥和连",
-    "description": "已將冬弥和连提升至一定等級",
+    "description": "已将冬弥和连提升至一定等级",
     "levels": [
       {
         "id": 112230201,
@@ -14971,7 +14971,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "冬弥和流歌",
-    "description": "已將冬弥和流歌提升至一定等級",
+    "description": "已将冬弥和流歌提升至一定等级",
     "levels": [
       {
         "id": 112240101,
@@ -15014,7 +15014,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "冬弥和流歌",
-    "description": "已將冬弥和流歌提升至一定等級",
+    "description": "已将冬弥和流歌提升至一定等级",
     "levels": [
       {
         "id": 112240201,
@@ -15087,7 +15087,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "冬弥和MEIKO",
-    "description": "已將冬弥和MEIKO提升至一定等級",
+    "description": "已将冬弥和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 112250101,
@@ -15130,7 +15130,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "冬弥和MEIKO",
-    "description": "已將冬弥和MEIKO提升至一定等級",
+    "description": "已将冬弥和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 112250201,
@@ -15203,7 +15203,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "冬弥和KAITO",
-    "description": "已將冬弥和KAITO提升至一定等級",
+    "description": "已将冬弥和KAITO提升至一定等级",
     "levels": [
       {
         "id": 112260101,
@@ -15246,7 +15246,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "冬弥和KAITO",
-    "description": "已將冬弥和KAITO提升至一定等級",
+    "description": "已将冬弥和KAITO提升至一定等级",
     "levels": [
       {
         "id": 112260201,
@@ -15319,7 +15319,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "low",
     "name": "司和笑梦",
-    "description": "已將司和笑梦提升至一定等級",
+    "description": "已将司和笑梦提升至一定等级",
     "levels": [
       {
         "id": 113140101,
@@ -15362,7 +15362,7 @@
     "gameCharacterUnitId2": 14,
     "honorRarity": "middle",
     "name": "司和笑梦",
-    "description": "已將司和笑梦提升至一定等級",
+    "description": "已将司和笑梦提升至一定等级",
     "levels": [
       {
         "id": 113140201,
@@ -15435,7 +15435,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
     "name": "司和宁宁",
-    "description": "已將司和宁宁提升至一定等級",
+    "description": "已将司和宁宁提升至一定等级",
     "levels": [
       {
         "id": 113150101,
@@ -15478,7 +15478,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
     "name": "司和宁宁",
-    "description": "已將司和宁宁提升至一定等級",
+    "description": "已将司和宁宁提升至一定等级",
     "levels": [
       {
         "id": 113150201,
@@ -15551,7 +15551,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "low",
     "name": "司和类",
-    "description": "已將司和类提升至一定等級",
+    "description": "已将司和类提升至一定等级",
     "levels": [
       {
         "id": 113160101,
@@ -15594,7 +15594,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "middle",
     "name": "司和类",
-    "description": "已將司和类提升至一定等級",
+    "description": "已将司和类提升至一定等级",
     "levels": [
       {
         "id": 113160201,
@@ -15667,7 +15667,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "司和瑞希",
-    "description": "已將司和瑞希提升至一定等級",
+    "description": "已将司和瑞希提升至一定等级",
     "levels": [
       {
         "id": 113200101,
@@ -15710,7 +15710,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "司和瑞希",
-    "description": "已將司和瑞希提升至一定等級",
+    "description": "已将司和瑞希提升至一定等级",
     "levels": [
       {
         "id": 113200201,
@@ -15783,7 +15783,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "司和未来",
-    "description": "已將司和未来提升至一定等級",
+    "description": "已将司和未来提升至一定等级",
     "levels": [
       {
         "id": 113210101,
@@ -15826,7 +15826,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "司和未来",
-    "description": "已將司和未来提升至一定等級",
+    "description": "已将司和未来提升至一定等级",
     "levels": [
       {
         "id": 113210201,
@@ -15899,7 +15899,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "司和连",
-    "description": "已將司和连提升至一定等級",
+    "description": "已将司和连提升至一定等级",
     "levels": [
       {
         "id": 113230101,
@@ -15942,7 +15942,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "司和连",
-    "description": "已將司和连提升至一定等級",
+    "description": "已将司和连提升至一定等级",
     "levels": [
       {
         "id": 113230201,
@@ -16015,7 +16015,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "司和流歌",
-    "description": "已將司和流歌提升至一定等級",
+    "description": "已将司和流歌提升至一定等级",
     "levels": [
       {
         "id": 113240101,
@@ -16058,7 +16058,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "司和流歌",
-    "description": "已將司和流歌提升至一定等級",
+    "description": "已将司和流歌提升至一定等级",
     "levels": [
       {
         "id": 113240201,
@@ -16131,7 +16131,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "司和KAITO",
-    "description": "已將司和KAITO提升至一定等級",
+    "description": "已将司和KAITO提升至一定等级",
     "levels": [
       {
         "id": 113260101,
@@ -16174,7 +16174,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "司和KAITO",
-    "description": "已將司和KAITO提升至一定等級",
+    "description": "已将司和KAITO提升至一定等级",
     "levels": [
       {
         "id": 113260201,
@@ -16247,7 +16247,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "low",
     "name": "笑梦和宁宁",
-    "description": "已將笑梦和宁宁提升至一定等級",
+    "description": "已将笑梦和宁宁提升至一定等级",
     "levels": [
       {
         "id": 114150101,
@@ -16290,7 +16290,7 @@
     "gameCharacterUnitId2": 15,
     "honorRarity": "middle",
     "name": "笑梦和宁宁",
-    "description": "已將笑梦和宁宁提升至一定等級",
+    "description": "已将笑梦和宁宁提升至一定等级",
     "levels": [
       {
         "id": 114150201,
@@ -16363,7 +16363,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "low",
     "name": "笑梦和类",
-    "description": "已將笑梦和类提升至一定等級",
+    "description": "已将笑梦和类提升至一定等级",
     "levels": [
       {
         "id": 114160101,
@@ -16406,7 +16406,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "middle",
     "name": "笑梦和类",
-    "description": "已將笑梦和类提升至一定等級",
+    "description": "已将笑梦和类提升至一定等级",
     "levels": [
       {
         "id": 114160201,
@@ -16479,7 +16479,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "low",
     "name": "笑梦和真冬",
-    "description": "已將笑梦和真冬提升至一定等級",
+    "description": "已将笑梦和真冬提升至一定等级",
     "levels": [
       {
         "id": 114180101,
@@ -16522,7 +16522,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "middle",
     "name": "笑梦和真冬",
-    "description": "已將笑梦和真冬提升至一定等級",
+    "description": "已将笑梦和真冬提升至一定等级",
     "levels": [
       {
         "id": 114180201,
@@ -16595,7 +16595,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "笑梦和绘名",
-    "description": "已將笑梦和绘名提升至一定等級",
+    "description": "已将笑梦和绘名提升至一定等级",
     "levels": [
       {
         "id": 114190101,
@@ -16638,7 +16638,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "笑梦和绘名",
-    "description": "已將笑梦和绘名提升至一定等級",
+    "description": "已将笑梦和绘名提升至一定等级",
     "levels": [
       {
         "id": 114190201,
@@ -16711,7 +16711,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "笑梦和未来",
-    "description": "已將笑梦和未来提升至一定等級",
+    "description": "已将笑梦和未来提升至一定等级",
     "levels": [
       {
         "id": 114210101,
@@ -16754,7 +16754,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "笑梦和未来",
-    "description": "已將笑梦和未来提升至一定等級",
+    "description": "已将笑梦和未来提升至一定等级",
     "levels": [
       {
         "id": 114210201,
@@ -16827,7 +16827,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "笑梦和连",
-    "description": "已將笑梦和连提升至一定等級",
+    "description": "已将笑梦和连提升至一定等级",
     "levels": [
       {
         "id": 114230101,
@@ -16870,7 +16870,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "笑梦和连",
-    "description": "已將笑梦和连提升至一定等級",
+    "description": "已将笑梦和连提升至一定等级",
     "levels": [
       {
         "id": 114230201,
@@ -16943,7 +16943,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "笑梦和MEIKO",
-    "description": "已將笑梦和MEIKO提升至一定等級",
+    "description": "已将笑梦和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 114250101,
@@ -16986,7 +16986,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "笑梦和MEIKO",
-    "description": "已將笑梦和MEIKO提升至一定等級",
+    "description": "已将笑梦和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 114250201,
@@ -17059,7 +17059,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "笑梦和KAITO",
-    "description": "已將笑梦和KAITO提升至一定等級",
+    "description": "已将笑梦和KAITO提升至一定等级",
     "levels": [
       {
         "id": 114260101,
@@ -17102,7 +17102,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "笑梦和KAITO",
-    "description": "已將笑梦和KAITO提升至一定等級",
+    "description": "已将笑梦和KAITO提升至一定等级",
     "levels": [
       {
         "id": 114260201,
@@ -17175,7 +17175,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "low",
     "name": "宁宁和类",
-    "description": "已將宁宁和类提升至一定等級",
+    "description": "已将宁宁和类提升至一定等级",
     "levels": [
       {
         "id": 115160101,
@@ -17218,7 +17218,7 @@
     "gameCharacterUnitId2": 16,
     "honorRarity": "middle",
     "name": "宁宁和类",
-    "description": "已將宁宁和类提升至一定等級",
+    "description": "已将宁宁和类提升至一定等级",
     "levels": [
       {
         "id": 115160201,
@@ -17291,7 +17291,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "宁宁和未来",
-    "description": "已將宁宁和未来提升至一定等級",
+    "description": "已将宁宁和未来提升至一定等级",
     "levels": [
       {
         "id": 115210101,
@@ -17334,7 +17334,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "宁宁和未来",
-    "description": "已將宁宁和未来提升至一定等級",
+    "description": "已将宁宁和未来提升至一定等级",
     "levels": [
       {
         "id": 115210201,
@@ -17407,7 +17407,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "宁宁和铃",
-    "description": "已將宁宁和铃提升至一定等級",
+    "description": "已将宁宁和铃提升至一定等级",
     "levels": [
       {
         "id": 115220101,
@@ -17450,7 +17450,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "宁宁和铃",
-    "description": "已將宁宁和铃提升至一定等級",
+    "description": "已将宁宁和铃提升至一定等级",
     "levels": [
       {
         "id": 115220201,
@@ -17523,7 +17523,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "宁宁和流歌",
-    "description": "已將宁宁和流歌提升至一定等級",
+    "description": "已将宁宁和流歌提升至一定等级",
     "levels": [
       {
         "id": 115240101,
@@ -17566,7 +17566,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "宁宁和流歌",
-    "description": "已將宁宁和流歌提升至一定等級",
+    "description": "已将宁宁和流歌提升至一定等级",
     "levels": [
       {
         "id": 115240201,
@@ -17639,7 +17639,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "宁宁和MEIKO",
-    "description": "已將宁宁和MEIKO提升至一定等級",
+    "description": "已将宁宁和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 115250101,
@@ -17682,7 +17682,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "宁宁和MEIKO",
-    "description": "已將宁宁和MEIKO提升至一定等級",
+    "description": "已将宁宁和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 115250201,
@@ -17755,7 +17755,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "宁宁和KAITO",
-    "description": "已將宁宁和KAITO提升至一定等級",
+    "description": "已将宁宁和KAITO提升至一定等级",
     "levels": [
       {
         "id": 115260101,
@@ -17798,7 +17798,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "宁宁和KAITO",
-    "description": "已將宁宁和KAITO提升至一定等級",
+    "description": "已将宁宁和KAITO提升至一定等级",
     "levels": [
       {
         "id": 115260201,
@@ -17871,7 +17871,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "类和瑞希",
-    "description": "已將类和瑞希提升至一定等級",
+    "description": "已将类和瑞希提升至一定等级",
     "levels": [
       {
         "id": 116200101,
@@ -17914,7 +17914,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "类和瑞希",
-    "description": "已將类和瑞希提升至一定等級",
+    "description": "已将类和瑞希提升至一定等级",
     "levels": [
       {
         "id": 116200201,
@@ -17987,7 +17987,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "类和未来",
-    "description": "已將类和未来提升至一定等級",
+    "description": "已将类和未来提升至一定等级",
     "levels": [
       {
         "id": 116210101,
@@ -18030,7 +18030,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "类和未来",
-    "description": "已將类和未来提升至一定等級",
+    "description": "已将类和未来提升至一定等级",
     "levels": [
       {
         "id": 116210201,
@@ -18103,7 +18103,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "类和连",
-    "description": "已將类和连提升至一定等級",
+    "description": "已将类和连提升至一定等级",
     "levels": [
       {
         "id": 116230101,
@@ -18146,7 +18146,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "类和连",
-    "description": "已將类和连提升至一定等級",
+    "description": "已将类和连提升至一定等级",
     "levels": [
       {
         "id": 116230201,
@@ -18219,7 +18219,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "类和流歌",
-    "description": "已將类和流歌提升至一定等級",
+    "description": "已将类和流歌提升至一定等级",
     "levels": [
       {
         "id": 116240101,
@@ -18262,7 +18262,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "类和流歌",
-    "description": "已將类和流歌提升至一定等級",
+    "description": "已将类和流歌提升至一定等级",
     "levels": [
       {
         "id": 116240201,
@@ -18335,7 +18335,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "类和KAITO",
-    "description": "已將类和KAITO提升至一定等級",
+    "description": "已将类和KAITO提升至一定等级",
     "levels": [
       {
         "id": 116260101,
@@ -18378,7 +18378,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "类和KAITO",
-    "description": "已將类和KAITO提升至一定等級",
+    "description": "已将类和KAITO提升至一定等级",
     "levels": [
       {
         "id": 116260201,
@@ -18451,7 +18451,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "low",
     "name": "奏和真冬",
-    "description": "已將奏和真冬提升至一定等級",
+    "description": "已将奏和真冬提升至一定等级",
     "levels": [
       {
         "id": 117180101,
@@ -18494,7 +18494,7 @@
     "gameCharacterUnitId2": 18,
     "honorRarity": "middle",
     "name": "奏和真冬",
-    "description": "已將奏和真冬提升至一定等級",
+    "description": "已将奏和真冬提升至一定等级",
     "levels": [
       {
         "id": 117180201,
@@ -18567,7 +18567,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "奏和绘名",
-    "description": "已將奏和绘名提升至一定等級",
+    "description": "已将奏和绘名提升至一定等级",
     "levels": [
       {
         "id": 117190101,
@@ -18610,7 +18610,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "奏和绘名",
-    "description": "已將奏和绘名提升至一定等級",
+    "description": "已将奏和绘名提升至一定等级",
     "levels": [
       {
         "id": 117190201,
@@ -18683,7 +18683,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "奏和瑞希",
-    "description": "已將奏和瑞希提升至一定等級",
+    "description": "已将奏和瑞希提升至一定等级",
     "levels": [
       {
         "id": 117200101,
@@ -18726,7 +18726,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "奏和瑞希",
-    "description": "已將奏和瑞希提升至一定等級",
+    "description": "已将奏和瑞希提升至一定等级",
     "levels": [
       {
         "id": 117200201,
@@ -18799,7 +18799,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "奏和未来",
-    "description": "已將奏和未来提升至一定等級",
+    "description": "已将奏和未来提升至一定等级",
     "levels": [
       {
         "id": 117210101,
@@ -18842,7 +18842,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "奏和未来",
-    "description": "已將奏和未来提升至一定等級",
+    "description": "已将奏和未来提升至一定等级",
     "levels": [
       {
         "id": 117210201,
@@ -18915,7 +18915,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "奏和铃",
-    "description": "已將奏和铃提升至一定等級",
+    "description": "已将奏和铃提升至一定等级",
     "levels": [
       {
         "id": 117220101,
@@ -18958,7 +18958,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "奏和铃",
-    "description": "已將奏和铃提升至一定等級",
+    "description": "已将奏和铃提升至一定等级",
     "levels": [
       {
         "id": 117220201,
@@ -19031,7 +19031,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "奏和连",
-    "description": "已將奏和连提升至一定等級",
+    "description": "已将奏和连提升至一定等级",
     "levels": [
       {
         "id": 117230101,
@@ -19074,7 +19074,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "奏和连",
-    "description": "已將奏和连提升至一定等級",
+    "description": "已将奏和连提升至一定等级",
     "levels": [
       {
         "id": 117230201,
@@ -19147,7 +19147,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "奏和流歌",
-    "description": "已將奏和流歌提升至一定等級",
+    "description": "已将奏和流歌提升至一定等级",
     "levels": [
       {
         "id": 117240101,
@@ -19190,7 +19190,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "奏和流歌",
-    "description": "已將奏和流歌提升至一定等級",
+    "description": "已将奏和流歌提升至一定等级",
     "levels": [
       {
         "id": 117240201,
@@ -19263,37 +19263,37 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "奏和KAITO",
-    "description": "已將奏和KAITO提升至一定等級",
+    "description": "已将奏和KAITO提升至一定等级",
     "levels": [
       {
         "id": 117260101,
         "bondsHonorId": 1172601,
         "level": 1,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至5。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至5。"
       },
       {
         "id": 117260102,
         "bondsHonorId": 1172601,
         "level": 2,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至10。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至10。"
       },
       {
         "id": 117260103,
         "bondsHonorId": 1172601,
         "level": 3,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至15。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至15。"
       },
       {
         "id": 117260104,
         "bondsHonorId": 1172601,
         "level": 4,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至20。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至20。"
       },
       {
         "id": 117260105,
         "bondsHonorId": 1172601,
         "level": 5,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至25。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至25。"
       }
     ],
     "configurableUnitVirtualSinger": true
@@ -19306,67 +19306,67 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "奏和KAITO",
-    "description": "已將奏和KAITO提升至一定等級",
+    "description": "已将奏和KAITO提升至一定等级",
     "levels": [
       {
         "id": 117260201,
         "bondsHonorId": 1172602,
         "level": 1,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至30。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至30。"
       },
       {
         "id": 117260202,
         "bondsHonorId": 1172602,
         "level": 2,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至35。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至35。"
       },
       {
         "id": 117260203,
         "bondsHonorId": 1172602,
         "level": 3,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至40。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至40。"
       },
       {
         "id": 117260204,
         "bondsHonorId": 1172602,
         "level": 4,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至45。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至45。"
       },
       {
         "id": 117260205,
         "bondsHonorId": 1172602,
         "level": 5,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至50。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至50。"
       },
       {
         "id": 117260206,
         "bondsHonorId": 1172602,
         "level": 6,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至55。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至55。"
       },
       {
         "id": 117260207,
         "bondsHonorId": 1172602,
         "level": 7,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至60。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至60。"
       },
       {
         "id": 117260208,
         "bondsHonorId": 1172602,
         "level": 8,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至65。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至65。"
       },
       {
         "id": 117260209,
         "bondsHonorId": 1172602,
         "level": 9,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至70。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至70。"
       },
       {
         "id": 117260210,
         "bondsHonorId": 1172602,
         "level": 10,
-        "description": "将宵崎奏和KAITO的牵绊等级提升至75。"
+        "description": "将宵崎奏与KAITO的牵绊等级提升至75。"
       }
     ],
     "configurableUnitVirtualSinger": true
@@ -19379,7 +19379,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "low",
     "name": "真冬和绘名",
-    "description": "已將真冬和绘名提升至一定等級",
+    "description": "已将真冬和绘名提升至一定等级",
     "levels": [
       {
         "id": 118190101,
@@ -19422,7 +19422,7 @@
     "gameCharacterUnitId2": 19,
     "honorRarity": "middle",
     "name": "真冬和绘名",
-    "description": "已將真冬和绘名提升至一定等級",
+    "description": "已将真冬和绘名提升至一定等级",
     "levels": [
       {
         "id": 118190201,
@@ -19495,7 +19495,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "真冬和瑞希",
-    "description": "已將真冬和瑞希提升至一定等級",
+    "description": "已将真冬和瑞希提升至一定等级",
     "levels": [
       {
         "id": 118200101,
@@ -19538,7 +19538,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "真冬和瑞希",
-    "description": "已將真冬和瑞希提升至一定等級",
+    "description": "已将真冬和瑞希提升至一定等级",
     "levels": [
       {
         "id": 118200201,
@@ -19611,7 +19611,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "真冬和未来",
-    "description": "已將真冬和未来提升至一定等級",
+    "description": "已将真冬和未来提升至一定等级",
     "levels": [
       {
         "id": 118210101,
@@ -19654,7 +19654,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "真冬和未来",
-    "description": "已將真冬和未来提升至一定等級",
+    "description": "已将真冬和未来提升至一定等级",
     "levels": [
       {
         "id": 118210201,
@@ -19727,7 +19727,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "真冬和铃",
-    "description": "已將真冬和铃提升至一定等級",
+    "description": "已将真冬和铃提升至一定等级",
     "levels": [
       {
         "id": 118220101,
@@ -19770,7 +19770,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "真冬和铃",
-    "description": "已將真冬和铃提升至一定等級",
+    "description": "已将真冬和铃提升至一定等级",
     "levels": [
       {
         "id": 118220201,
@@ -19843,7 +19843,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "真冬和连",
-    "description": "已將真冬和连提升至一定等級",
+    "description": "已将真冬和连提升至一定等级",
     "levels": [
       {
         "id": 118230101,
@@ -19886,7 +19886,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "真冬和连",
-    "description": "已將真冬和连提升至一定等級",
+    "description": "已将真冬和连提升至一定等级",
     "levels": [
       {
         "id": 118230201,
@@ -19959,7 +19959,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "真冬和流歌",
-    "description": "已將真冬和流歌提升至一定等級",
+    "description": "已将真冬和流歌提升至一定等级",
     "levels": [
       {
         "id": 118240101,
@@ -20002,7 +20002,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "真冬和流歌",
-    "description": "已將真冬和流歌提升至一定等級",
+    "description": "已将真冬和流歌提升至一定等级",
     "levels": [
       {
         "id": 118240201,
@@ -20075,7 +20075,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "真冬和KAITO",
-    "description": "已將真冬和KAITO提升至一定等級",
+    "description": "已将真冬和KAITO提升至一定等级",
     "levels": [
       {
         "id": 118260101,
@@ -20118,7 +20118,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "真冬和KAITO",
-    "description": "已將真冬和KAITO提升至一定等級",
+    "description": "已将真冬和KAITO提升至一定等级",
     "levels": [
       {
         "id": 118260201,
@@ -20191,7 +20191,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "low",
     "name": "绘名和瑞希",
-    "description": "已將绘名和瑞希提升至一定等級",
+    "description": "已将绘名和瑞希提升至一定等级",
     "levels": [
       {
         "id": 119200101,
@@ -20234,7 +20234,7 @@
     "gameCharacterUnitId2": 20,
     "honorRarity": "middle",
     "name": "绘名和瑞希",
-    "description": "已將绘名和瑞希提升至一定等級",
+    "description": "已将绘名和瑞希提升至一定等级",
     "levels": [
       {
         "id": 119200201,
@@ -20307,7 +20307,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "绘名和未来",
-    "description": "已將绘名和未来提升至一定等級",
+    "description": "已将绘名和未来提升至一定等级",
     "levels": [
       {
         "id": 119210101,
@@ -20350,7 +20350,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "绘名和未来",
-    "description": "已將绘名和未来提升至一定等級",
+    "description": "已将绘名和未来提升至一定等级",
     "levels": [
       {
         "id": 119210201,
@@ -20423,7 +20423,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "绘名和铃",
-    "description": "已將绘名和铃提升至一定等級",
+    "description": "已将绘名和铃提升至一定等级",
     "levels": [
       {
         "id": 119220101,
@@ -20466,7 +20466,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "绘名和铃",
-    "description": "已將绘名和铃提升至一定等級",
+    "description": "已将绘名和铃提升至一定等级",
     "levels": [
       {
         "id": 119220201,
@@ -20539,7 +20539,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "绘名和流歌",
-    "description": "已將绘名和流歌提升至一定等級",
+    "description": "已将绘名和流歌提升至一定等级",
     "levels": [
       {
         "id": 119240101,
@@ -20582,7 +20582,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "绘名和流歌",
-    "description": "已將绘名和流歌提升至一定等級",
+    "description": "已将绘名和流歌提升至一定等级",
     "levels": [
       {
         "id": 119240201,
@@ -20655,7 +20655,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "绘名和MEIKO",
-    "description": "已將绘名和MEIKO提升至一定等級",
+    "description": "已将绘名和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 119250101,
@@ -20698,7 +20698,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "绘名和MEIKO",
-    "description": "已將绘名和MEIKO提升至一定等級",
+    "description": "已将绘名和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 119250201,
@@ -20771,7 +20771,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "low",
     "name": "瑞希和未来",
-    "description": "已將瑞希和未来提升至一定等級",
+    "description": "已将瑞希和未来提升至一定等级",
     "levels": [
       {
         "id": 120210101,
@@ -20814,7 +20814,7 @@
     "gameCharacterUnitId2": 21,
     "honorRarity": "middle",
     "name": "瑞希和未来",
-    "description": "已將瑞希和未来提升至一定等級",
+    "description": "已将瑞希和未来提升至一定等级",
     "levels": [
       {
         "id": 120210201,
@@ -20887,7 +20887,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "瑞希和铃",
-    "description": "已將瑞希和铃提升至一定等級",
+    "description": "已将瑞希和铃提升至一定等级",
     "levels": [
       {
         "id": 120220101,
@@ -20930,7 +20930,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "瑞希和铃",
-    "description": "已將瑞希和铃提升至一定等級",
+    "description": "已将瑞希和铃提升至一定等级",
     "levels": [
       {
         "id": 120220201,
@@ -21003,7 +21003,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "瑞希和连",
-    "description": "已將瑞希和连提升至一定等級",
+    "description": "已将瑞希和连提升至一定等级",
     "levels": [
       {
         "id": 120230101,
@@ -21046,7 +21046,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "瑞希和连",
-    "description": "已將瑞希和连提升至一定等級",
+    "description": "已将瑞希和连提升至一定等级",
     "levels": [
       {
         "id": 120230201,
@@ -21119,7 +21119,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "瑞希和流歌",
-    "description": "已將瑞希和流歌提升至一定等級",
+    "description": "已将瑞希和流歌提升至一定等级",
     "levels": [
       {
         "id": 120240101,
@@ -21162,7 +21162,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "瑞希和流歌",
-    "description": "已將瑞希和流歌提升至一定等級",
+    "description": "已将瑞希和流歌提升至一定等级",
     "levels": [
       {
         "id": 120240201,
@@ -21235,7 +21235,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "瑞希和MEIKO",
-    "description": "已將瑞希和MEIKO提升至一定等級",
+    "description": "已将瑞希和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 120250101,
@@ -21278,7 +21278,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "瑞希和MEIKO",
-    "description": "已將瑞希和MEIKO提升至一定等級",
+    "description": "已将瑞希和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 120250201,
@@ -21351,7 +21351,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "low",
     "name": "未来和铃",
-    "description": "已將未来和铃提升至一定等級",
+    "description": "已将未来和铃提升至一定等级",
     "levels": [
       {
         "id": 121220101,
@@ -21394,7 +21394,7 @@
     "gameCharacterUnitId2": 22,
     "honorRarity": "middle",
     "name": "未来和铃",
-    "description": "已將未来和铃提升至一定等級",
+    "description": "已将未来和铃提升至一定等级",
     "levels": [
       {
         "id": 121220201,
@@ -21467,7 +21467,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "未来和连",
-    "description": "已將未来和连提升至一定等級",
+    "description": "已将未来和连提升至一定等级",
     "levels": [
       {
         "id": 121230101,
@@ -21510,7 +21510,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "未来和连",
-    "description": "已將未来和连提升至一定等級",
+    "description": "已将未来和连提升至一定等级",
     "levels": [
       {
         "id": 121230201,
@@ -21583,7 +21583,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "未来和流歌",
-    "description": "已將未来和流歌提升至一定等級",
+    "description": "已将未来和流歌提升至一定等级",
     "levels": [
       {
         "id": 121240101,
@@ -21626,7 +21626,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "未来和流歌",
-    "description": "已將未来和流歌提升至一定等級",
+    "description": "已将未来和流歌提升至一定等级",
     "levels": [
       {
         "id": 121240201,
@@ -21699,7 +21699,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "未来和MEIKO",
-    "description": "已將未来和MEIKO提升至一定等級",
+    "description": "已将未来和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 121250101,
@@ -21742,7 +21742,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "未来和MEIKO",
-    "description": "已將未来和MEIKO提升至一定等級",
+    "description": "已将未来和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 121250201,
@@ -21815,7 +21815,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "未来和KAITO",
-    "description": "已將未来和KAITO提升至一定等級",
+    "description": "已将未来和KAITO提升至一定等级",
     "levels": [
       {
         "id": 121260101,
@@ -21858,7 +21858,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "未来和KAITO",
-    "description": "已將未来和KAITO提升至一定等級",
+    "description": "已将未来和KAITO提升至一定等级",
     "levels": [
       {
         "id": 121260201,
@@ -21931,7 +21931,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "low",
     "name": "铃和连",
-    "description": "已將铃和连提升至一定等級",
+    "description": "已将铃和连提升至一定等级",
     "levels": [
       {
         "id": 122230101,
@@ -21974,7 +21974,7 @@
     "gameCharacterUnitId2": 23,
     "honorRarity": "middle",
     "name": "铃和连",
-    "description": "已將铃和连提升至一定等級",
+    "description": "已将铃和连提升至一定等级",
     "levels": [
       {
         "id": 122230201,
@@ -22047,7 +22047,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "铃和流歌",
-    "description": "已將铃和流歌提升至一定等級",
+    "description": "已将铃和流歌提升至一定等级",
     "levels": [
       {
         "id": 122240101,
@@ -22090,7 +22090,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "铃和流歌",
-    "description": "已將铃和流歌提升至一定等級",
+    "description": "已将铃和流歌提升至一定等级",
     "levels": [
       {
         "id": 122240201,
@@ -22163,7 +22163,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "铃和MEIKO",
-    "description": "已將铃和MEIKO提升至一定等級",
+    "description": "已将铃和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 122250101,
@@ -22206,7 +22206,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "铃和MEIKO",
-    "description": "已將铃和MEIKO提升至一定等級",
+    "description": "已将铃和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 122250201,
@@ -22279,7 +22279,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "铃和KAITO",
-    "description": "已將铃和KAITO提升至一定等級",
+    "description": "已将铃和KAITO提升至一定等级",
     "levels": [
       {
         "id": 122260101,
@@ -22322,7 +22322,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "铃和KAITO",
-    "description": "已將铃和KAITO提升至一定等級",
+    "description": "已将铃和KAITO提升至一定等级",
     "levels": [
       {
         "id": 122260201,
@@ -22395,7 +22395,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "low",
     "name": "连和流歌",
-    "description": "已將连和流歌提升至一定等級",
+    "description": "已将连和流歌提升至一定等级",
     "levels": [
       {
         "id": 123240101,
@@ -22438,7 +22438,7 @@
     "gameCharacterUnitId2": 24,
     "honorRarity": "middle",
     "name": "连和流歌",
-    "description": "已將连和流歌提升至一定等級",
+    "description": "已将连和流歌提升至一定等级",
     "levels": [
       {
         "id": 123240201,
@@ -22511,7 +22511,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "连和MEIKO",
-    "description": "已將连和MEIKO提升至一定等級",
+    "description": "已将连和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 123250101,
@@ -22554,7 +22554,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "连和MEIKO",
-    "description": "已將连和MEIKO提升至一定等級",
+    "description": "已将连和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 123250201,
@@ -22627,7 +22627,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "连和KAITO",
-    "description": "已將连和KAITO提升至一定等級",
+    "description": "已将连和KAITO提升至一定等级",
     "levels": [
       {
         "id": 123260101,
@@ -22670,7 +22670,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "连和KAITO",
-    "description": "已將连和KAITO提升至一定等級",
+    "description": "已将连和KAITO提升至一定等级",
     "levels": [
       {
         "id": 123260201,
@@ -22743,7 +22743,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "low",
     "name": "流歌和MEIKO",
-    "description": "已將流歌和MEIKO提升至一定等級",
+    "description": "已将流歌和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 124250101,
@@ -22786,7 +22786,7 @@
     "gameCharacterUnitId2": 25,
     "honorRarity": "middle",
     "name": "流歌和MEIKO",
-    "description": "已將流歌和MEIKO提升至一定等級",
+    "description": "已将流歌和MEIKO提升至一定等级",
     "levels": [
       {
         "id": 124250201,
@@ -22859,7 +22859,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "流歌和KAITO",
-    "description": "已將流歌和KAITO提升至一定等級",
+    "description": "已将流歌和KAITO提升至一定等级",
     "levels": [
       {
         "id": 124260101,
@@ -22902,7 +22902,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "流歌和KAITO",
-    "description": "已將流歌和KAITO提升至一定等級",
+    "description": "已将流歌和KAITO提升至一定等级",
     "levels": [
       {
         "id": 124260201,
@@ -22975,7 +22975,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "low",
     "name": "MEIKO和KAITO",
-    "description": "已將MEIKO和KAITO提升至一定等級",
+    "description": "已将MEIKO和KAITO提升至一定等级",
     "levels": [
       {
         "id": 125260101,
@@ -23018,7 +23018,7 @@
     "gameCharacterUnitId2": 26,
     "honorRarity": "middle",
     "name": "MEIKO和KAITO",
-    "description": "已將MEIKO和KAITO提升至一定等級",
+    "description": "已将MEIKO和KAITO提升至一定等级",
     "levels": [
       {
         "id": 125260201,

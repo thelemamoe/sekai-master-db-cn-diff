@@ -10567,6 +10567,142 @@
     "bonusRate": 25.0
   },
   {
+    "id": 1635,
+    "eventId": 109,
+    "gameCharacterUnitId": 9,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1636,
+    "eventId": 109,
+    "gameCharacterUnitId": 10,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1637,
+    "eventId": 109,
+    "gameCharacterUnitId": 11,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1638,
+    "eventId": 109,
+    "gameCharacterUnitId": 12,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1639,
+    "eventId": 109,
+    "gameCharacterUnitId": 29,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1640,
+    "eventId": 109,
+    "gameCharacterUnitId": 34,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1641,
+    "eventId": 109,
+    "gameCharacterUnitId": 39,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1642,
+    "eventId": 109,
+    "gameCharacterUnitId": 44,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1643,
+    "eventId": 109,
+    "gameCharacterUnitId": 49,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1644,
+    "eventId": 109,
+    "gameCharacterUnitId": 54,
+    "cardAttr": "cute",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1645,
+    "eventId": 109,
+    "gameCharacterUnitId": 9,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1646,
+    "eventId": 109,
+    "gameCharacterUnitId": 10,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1647,
+    "eventId": 109,
+    "gameCharacterUnitId": 11,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1648,
+    "eventId": 109,
+    "gameCharacterUnitId": 12,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1649,
+    "eventId": 109,
+    "gameCharacterUnitId": 29,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1650,
+    "eventId": 109,
+    "gameCharacterUnitId": 34,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1651,
+    "eventId": 109,
+    "gameCharacterUnitId": 39,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1652,
+    "eventId": 109,
+    "gameCharacterUnitId": 44,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1653,
+    "eventId": 109,
+    "gameCharacterUnitId": 49,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1654,
+    "eventId": 109,
+    "gameCharacterUnitId": 54,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1655,
+    "eventId": 109,
+    "cardAttr": "cute",
+    "bonusRate": 25.0
+  },
+  {
     "id": 1656,
     "eventId": 110,
     "gameCharacterUnitId": 1,
@@ -10836,6 +10972,30 @@
     "id": 1697,
     "eventId": 111,
     "cardAttr": "cool",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1698,
+    "eventId": 112,
+    "gameCharacterUnitId": 17,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1699,
+    "eventId": 112,
+    "gameCharacterUnitId": 18,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1700,
+    "eventId": 112,
+    "gameCharacterUnitId": 19,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1701,
+    "eventId": 112,
+    "gameCharacterUnitId": 20,
     "bonusRate": 25.0
   },
   {
@@ -11321,6 +11481,30 @@
     "id": 1776,
     "eventId": 117,
     "cardAttr": "mysterious",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1777,
+    "eventId": 118,
+    "gameCharacterUnitId": 9,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1778,
+    "eventId": 118,
+    "gameCharacterUnitId": 10,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1779,
+    "eventId": 118,
+    "gameCharacterUnitId": 11,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1780,
+    "eventId": 118,
+    "gameCharacterUnitId": 12,
     "bonusRate": 25.0
   },
   {
@@ -11870,6 +12054,509 @@
   {
     "id": 1865,
     "eventId": 123,
+    "cardAttr": "happy",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1866,
+    "eventId": 124,
+    "gameCharacterUnitId": 13,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1867,
+    "eventId": 124,
+    "gameCharacterUnitId": 14,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1868,
+    "eventId": 124,
+    "gameCharacterUnitId": 15,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1869,
+    "eventId": 124,
+    "gameCharacterUnitId": 16,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1870,
+    "eventId": 125,
+    "gameCharacterUnitId": 9,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1871,
+    "eventId": 125,
+    "gameCharacterUnitId": 10,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1872,
+    "eventId": 125,
+    "gameCharacterUnitId": 11,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1873,
+    "eventId": 125,
+    "gameCharacterUnitId": 12,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1874,
+    "eventId": 125,
+    "gameCharacterUnitId": 29,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1875,
+    "eventId": 125,
+    "gameCharacterUnitId": 34,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1876,
+    "eventId": 125,
+    "gameCharacterUnitId": 39,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1877,
+    "eventId": 125,
+    "gameCharacterUnitId": 44,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1878,
+    "eventId": 125,
+    "gameCharacterUnitId": 49,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1879,
+    "eventId": 125,
+    "gameCharacterUnitId": 54,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1880,
+    "eventId": 125,
+    "gameCharacterUnitId": 9,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1881,
+    "eventId": 125,
+    "gameCharacterUnitId": 10,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1882,
+    "eventId": 125,
+    "gameCharacterUnitId": 11,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1883,
+    "eventId": 125,
+    "gameCharacterUnitId": 12,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1884,
+    "eventId": 125,
+    "gameCharacterUnitId": 29,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1885,
+    "eventId": 125,
+    "gameCharacterUnitId": 34,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1886,
+    "eventId": 125,
+    "gameCharacterUnitId": 39,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1887,
+    "eventId": 125,
+    "gameCharacterUnitId": 44,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1888,
+    "eventId": 125,
+    "gameCharacterUnitId": 49,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1889,
+    "eventId": 125,
+    "gameCharacterUnitId": 54,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1890,
+    "eventId": 125,
+    "cardAttr": "happy",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1891,
+    "eventId": 126,
+    "gameCharacterUnitId": 3,
+    "cardAttr": "cool",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1892,
+    "eventId": 126,
+    "gameCharacterUnitId": 5,
+    "cardAttr": "cool",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1893,
+    "eventId": 126,
+    "gameCharacterUnitId": 11,
+    "cardAttr": "cool",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1894,
+    "eventId": 126,
+    "gameCharacterUnitId": 16,
+    "cardAttr": "cool",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1895,
+    "eventId": 126,
+    "gameCharacterUnitId": 52,
+    "cardAttr": "cool",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1896,
+    "eventId": 126,
+    "gameCharacterUnitId": 3,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1897,
+    "eventId": 126,
+    "gameCharacterUnitId": 5,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1898,
+    "eventId": 126,
+    "gameCharacterUnitId": 11,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1899,
+    "eventId": 126,
+    "gameCharacterUnitId": 16,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1900,
+    "eventId": 126,
+    "gameCharacterUnitId": 52,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1901,
+    "eventId": 126,
+    "cardAttr": "cool",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1902,
+    "eventId": 127,
+    "gameCharacterUnitId": 17,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1903,
+    "eventId": 127,
+    "gameCharacterUnitId": 18,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1904,
+    "eventId": 127,
+    "gameCharacterUnitId": 19,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1905,
+    "eventId": 127,
+    "gameCharacterUnitId": 20,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1906,
+    "eventId": 127,
+    "gameCharacterUnitId": 31,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1907,
+    "eventId": 127,
+    "gameCharacterUnitId": 36,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1908,
+    "eventId": 127,
+    "gameCharacterUnitId": 41,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1909,
+    "eventId": 127,
+    "gameCharacterUnitId": 46,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1910,
+    "eventId": 127,
+    "gameCharacterUnitId": 51,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1911,
+    "eventId": 127,
+    "gameCharacterUnitId": 56,
+    "cardAttr": "pure",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1912,
+    "eventId": 127,
+    "gameCharacterUnitId": 17,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1913,
+    "eventId": 127,
+    "gameCharacterUnitId": 18,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1914,
+    "eventId": 127,
+    "gameCharacterUnitId": 19,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1915,
+    "eventId": 127,
+    "gameCharacterUnitId": 20,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1916,
+    "eventId": 127,
+    "gameCharacterUnitId": 31,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1917,
+    "eventId": 127,
+    "gameCharacterUnitId": 36,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1918,
+    "eventId": 127,
+    "gameCharacterUnitId": 41,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1919,
+    "eventId": 127,
+    "gameCharacterUnitId": 46,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1920,
+    "eventId": 127,
+    "gameCharacterUnitId": 51,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1921,
+    "eventId": 127,
+    "gameCharacterUnitId": 56,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1922,
+    "eventId": 127,
+    "cardAttr": "pure",
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1923,
+    "eventId": 128,
+    "gameCharacterUnitId": 1,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1924,
+    "eventId": 128,
+    "gameCharacterUnitId": 2,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1925,
+    "eventId": 128,
+    "gameCharacterUnitId": 3,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1926,
+    "eventId": 128,
+    "gameCharacterUnitId": 4,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1927,
+    "eventId": 128,
+    "gameCharacterUnitId": 27,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1928,
+    "eventId": 128,
+    "gameCharacterUnitId": 32,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1929,
+    "eventId": 128,
+    "gameCharacterUnitId": 37,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1930,
+    "eventId": 128,
+    "gameCharacterUnitId": 42,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1931,
+    "eventId": 128,
+    "gameCharacterUnitId": 47,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1932,
+    "eventId": 128,
+    "gameCharacterUnitId": 52,
+    "cardAttr": "happy",
+    "bonusRate": 50.0
+  },
+  {
+    "id": 1933,
+    "eventId": 128,
+    "gameCharacterUnitId": 1,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1934,
+    "eventId": 128,
+    "gameCharacterUnitId": 2,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1935,
+    "eventId": 128,
+    "gameCharacterUnitId": 3,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1936,
+    "eventId": 128,
+    "gameCharacterUnitId": 4,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1937,
+    "eventId": 128,
+    "gameCharacterUnitId": 27,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1938,
+    "eventId": 128,
+    "gameCharacterUnitId": 32,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1939,
+    "eventId": 128,
+    "gameCharacterUnitId": 37,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1940,
+    "eventId": 128,
+    "gameCharacterUnitId": 42,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1941,
+    "eventId": 128,
+    "gameCharacterUnitId": 47,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1942,
+    "eventId": 128,
+    "gameCharacterUnitId": 52,
+    "bonusRate": 25.0
+  },
+  {
+    "id": 1943,
+    "eventId": 128,
     "cardAttr": "happy",
     "bonusRate": 25.0
   }

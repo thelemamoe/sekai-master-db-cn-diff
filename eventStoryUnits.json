@@ -1680,6 +1680,13 @@
     "eventStoryUnitRelation": "sub"
   },
   {
+    "id": 258,
+    "seq": 258,
+    "eventStoryId": 109,
+    "unit": "street",
+    "eventStoryUnitRelation": "main"
+  },
+  {
     "id": 259,
     "seq": 259,
     "eventStoryId": 110,
@@ -1692,6 +1699,20 @@
     "eventStoryId": 111,
     "unit": "idol",
     "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 261,
+    "seq": 261,
+    "eventStoryId": 112,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 262,
+    "seq": 262,
+    "eventStoryId": 112,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "sub"
   },
   {
     "id": 263,
@@ -1846,5 +1867,61 @@
     "eventStoryId": 124,
     "unit": "theme_park",
     "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 285,
+    "seq": 285,
+    "eventStoryId": 125,
+    "unit": "street",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 286,
+    "seq": 286,
+    "eventStoryId": 126,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 287,
+    "seq": 287,
+    "eventStoryId": 126,
+    "unit": "idol",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 288,
+    "seq": 288,
+    "eventStoryId": 126,
+    "unit": "street",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 289,
+    "seq": 289,
+    "eventStoryId": 126,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "sub"
+  },
+  {
+    "id": 290,
+    "seq": 290,
+    "eventStoryId": 127,
+    "unit": "school_refusal",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 291,
+    "seq": 291,
+    "eventStoryId": 128,
+    "unit": "light_sound",
+    "eventStoryUnitRelation": "main"
+  },
+  {
+    "id": 292,
+    "seq": 292,
+    "eventStoryId": 128,
+    "unit": "theme_park",
+    "eventStoryUnitRelation": "sub"
   }
 ]

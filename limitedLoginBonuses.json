@@ -1,99 +1,109 @@
 [
   {
-    "id": 1051,
-    "startAt": 1734105600000,
-    "endAt": 1734191999000,
-    "assetbundleName": "cbt_zh",
+    "id": 1058,
+    "startAt": 1740794400000,
+    "endAt": 1746820799000,
+    "assetbundleName": "world_3900_anniversary",
     "limitedLoginBonusDetails": [
       {
-        "id": 1153,
-        "limitedLoginBonusId": 1051,
+        "id": 1160,
+        "limitedLoginBonusId": 1058,
         "day": 1,
-        "resourceBoxId": 2000
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1161,
+        "limitedLoginBonusId": 1058,
+        "day": 2,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1162,
+        "limitedLoginBonusId": 1058,
+        "day": 3,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1163,
+        "limitedLoginBonusId": 1058,
+        "day": 4,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1164,
+        "limitedLoginBonusId": 1058,
+        "day": 5,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1165,
+        "limitedLoginBonusId": 1058,
+        "day": 6,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1166,
+        "limitedLoginBonusId": 1058,
+        "day": 7,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1167,
+        "limitedLoginBonusId": 1058,
+        "day": 8,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1168,
+        "limitedLoginBonusId": 1058,
+        "day": 9,
+        "resourceBoxId": 2032
+      },
+      {
+        "id": 1169,
+        "limitedLoginBonusId": 1058,
+        "day": 10,
+        "resourceBoxId": 2031
       }
     ]
   },
   {
-    "id": 1052,
-    "startAt": 1734192000000,
-    "endAt": 1734278399000,
-    "assetbundleName": "cbt_zh",
+    "id": 1059,
+    "startAt": 1743710400000,
+    "endAt": 1744127999000,
+    "assetbundleName": "outinginspring_cn",
     "limitedLoginBonusDetails": [
       {
-        "id": 1154,
-        "limitedLoginBonusId": 1052,
+        "id": 1170,
+        "limitedLoginBonusId": 1059,
         "day": 1,
-        "resourceBoxId": 2000
+        "resourceBoxId": 2033
+      },
+      {
+        "id": 1171,
+        "limitedLoginBonusId": 1059,
+        "day": 2,
+        "resourceBoxId": 2034
+      },
+      {
+        "id": 1172,
+        "limitedLoginBonusId": 1059,
+        "day": 3,
+        "resourceBoxId": 2035
       }
     ]
   },
   {
-    "id": 1053,
-    "startAt": 1734278400000,
-    "endAt": 1734364799000,
-    "assetbundleName": "cbt_zh",
+    "id": 1060,
+    "startAt": 1744560000000,
+    "endAt": 1744646399000,
+    "assetbundleName": "birthday2025_05",
     "limitedLoginBonusDetails": [
       {
-        "id": 1155,
-        "limitedLoginBonusId": 1053,
+        "id": 1173,
+        "limitedLoginBonusId": 1060,
         "day": 1,
-        "resourceBoxId": 2000
-      }
-    ]
-  },
-  {
-    "id": 1054,
-    "startAt": 1734364800000,
-    "endAt": 1734451199000,
-    "assetbundleName": "cbt_zh",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1156,
-        "limitedLoginBonusId": 1054,
-        "day": 1,
-        "resourceBoxId": 2000
-      }
-    ]
-  },
-  {
-    "id": 1055,
-    "startAt": 1734451200000,
-    "endAt": 1734537599000,
-    "assetbundleName": "cbt_zh",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1157,
-        "limitedLoginBonusId": 1055,
-        "day": 1,
-        "resourceBoxId": 2000
-      }
-    ]
-  },
-  {
-    "id": 1056,
-    "startAt": 1734537600000,
-    "endAt": 1734623999000,
-    "assetbundleName": "cbt_zh",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1158,
-        "limitedLoginBonusId": 1056,
-        "day": 1,
-        "resourceBoxId": 2000
-      }
-    ]
-  },
-  {
-    "id": 1057,
-    "startAt": 1734624000000,
-    "endAt": 1734667199000,
-    "assetbundleName": "cbt_zh",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1159,
-        "limitedLoginBonusId": 1057,
-        "day": 1,
-        "resourceBoxId": 2000
+        "resourceBoxId": 2036
       }
     ]
   }
