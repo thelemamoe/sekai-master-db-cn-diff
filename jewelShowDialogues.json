@@ -1,32 +1,59 @@
 [
-  [
-    1,
-    1,
-    "当期推荐1",
-    null,
-    1746043199000,
-    4081262399000,
-    [
-      [
-        1,
-        45
-      ],
-      [
-        2,
-        7000
-      ],
-      [
-        3,
-        50012
-      ],
-      [
-        4,
-        50112
-      ],
-      [
-        5,
-        51033
-      ]
+  {
+    "id": 1,
+    "seq": 1,
+    "name": "当期推荐1",
+    "startAt": 1746043199000,
+    "endAt": 4081262399000,
+    "behaviors": [
+      {
+        "seq": 8,
+        "billingShopItemId": 45
+      },
+      {
+        "seq": 9,
+        "billingShopItemId": 7000
+      },
+      {
+        "seq": 10,
+        "billingShopItemId": 50012
+      },
+      {
+        "seq": 11,
+        "billingShopItemId": 50112
+      },
+      {
+        "seq": 12,
+        "billingShopItemId": 51033
+      },
+      {
+        "seq": 1,
+        "billingShopItemId": 51039
+      },
+      {
+        "seq": 2,
+        "billingShopItemId": 51040
+      },
+      {
+        "seq": 3,
+        "billingShopItemId": 51041
+      },
+      {
+        "seq": 4,
+        "billingShopItemId": 51042
+      },
+      {
+        "seq": 5,
+        "billingShopItemId": 51043
+      },
+      {
+        "seq": 6,
+        "billingShopItemId": 51044
+      },
+      {
+        "seq": 7,
+        "billingShopItemId": 51045
+      }
     ]
-  ]
+  }
 ]
