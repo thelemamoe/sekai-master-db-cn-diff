@@ -56699,8 +56699,8 @@
     "name": "七夕2022演唱会",
     "assetbundleName": "vlentrance_00082",
     "screenMvMusicVocalId": 12,
-    "startAt": 1755932400000,
-    "endAt": 1756278000000,
+    "startAt": 1755846000000,
+    "endAt": 1756191600000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -56781,176 +56781,176 @@
         "id": 1466,
         "virtualLiveId": 82,
         "seq": 1,
-        "startAt": 1756051200000,
-        "endAt": 1756051994000,
+        "startAt": 1755878400000,
+        "endAt": 1755879194000,
         "isAfterEvent": false
       },
       {
         "id": 1467,
         "virtualLiveId": 82,
         "seq": 2,
-        "startAt": 1756054800000,
-        "endAt": 1756055594000,
+        "startAt": 1755882000000,
+        "endAt": 1755882794000,
         "isAfterEvent": false
       },
       {
         "id": 1468,
         "virtualLiveId": 82,
         "seq": 3,
-        "startAt": 1756058400000,
-        "endAt": 1756059194000,
+        "startAt": 1755885600000,
+        "endAt": 1755886394000,
         "isAfterEvent": false
       },
       {
         "id": 1469,
         "virtualLiveId": 82,
         "seq": 4,
-        "startAt": 1756080000000,
-        "endAt": 1756080794000,
+        "startAt": 1755907200000,
+        "endAt": 1755907994000,
         "isAfterEvent": false
       },
       {
         "id": 1470,
         "virtualLiveId": 82,
         "seq": 5,
-        "startAt": 1756094400000,
-        "endAt": 1756095194000,
+        "startAt": 1755921600000,
+        "endAt": 1755922394000,
         "isAfterEvent": false
       },
       {
         "id": 1471,
         "virtualLiveId": 82,
         "seq": 6,
-        "startAt": 1756116000000,
-        "endAt": 1756116794000,
+        "startAt": 1755943200000,
+        "endAt": 1755943994000,
         "isAfterEvent": false
       },
       {
         "id": 1472,
         "virtualLiveId": 82,
         "seq": 7,
-        "startAt": 1756119600000,
-        "endAt": 1756120394000,
+        "startAt": 1755946800000,
+        "endAt": 1755947594000,
         "isAfterEvent": false
       },
       {
         "id": 1473,
         "virtualLiveId": 82,
         "seq": 8,
-        "startAt": 1756123200000,
-        "endAt": 1756123994000,
+        "startAt": 1755950400000,
+        "endAt": 1755951194000,
         "isAfterEvent": false
       },
       {
         "id": 1474,
         "virtualLiveId": 82,
         "seq": 9,
-        "startAt": 1756126800000,
-        "endAt": 1756127594000,
+        "startAt": 1755954000000,
+        "endAt": 1755954794000,
         "isAfterEvent": false
       },
       {
         "id": 1475,
         "virtualLiveId": 82,
         "seq": 10,
-        "startAt": 1756130400000,
-        "endAt": 1756131194000,
+        "startAt": 1755957600000,
+        "endAt": 1755958394000,
         "isAfterEvent": false
       },
       {
         "id": 1476,
         "virtualLiveId": 82,
         "seq": 11,
-        "startAt": 1756134000000,
-        "endAt": 1756134794000,
+        "startAt": 1755961200000,
+        "endAt": 1755961994000,
         "isAfterEvent": false
       },
       {
         "id": 1477,
         "virtualLiveId": 82,
         "seq": 12,
-        "startAt": 1756137600000,
-        "endAt": 1756138394000,
+        "startAt": 1755964800000,
+        "endAt": 1755965594000,
         "isAfterEvent": false
       },
       {
         "id": 1478,
         "virtualLiveId": 82,
         "seq": 13,
-        "startAt": 1756141200000,
-        "endAt": 1756141994000,
+        "startAt": 1755968400000,
+        "endAt": 1755969194000,
         "isAfterEvent": false
       },
       {
         "id": 1479,
         "virtualLiveId": 82,
         "seq": 14,
-        "startAt": 1756144800000,
-        "endAt": 1756145594000,
+        "startAt": 1755972000000,
+        "endAt": 1755972794000,
         "isAfterEvent": false
       },
       {
         "id": 1480,
         "virtualLiveId": 82,
         "seq": 15,
-        "startAt": 1756166400000,
-        "endAt": 1756167194000,
+        "startAt": 1755993600000,
+        "endAt": 1755994394000,
         "isAfterEvent": false
       },
       {
         "id": 1481,
         "virtualLiveId": 82,
         "seq": 16,
-        "startAt": 1756180800000,
-        "endAt": 1756181594000,
+        "startAt": 1756008000000,
+        "endAt": 1756008794000,
         "isAfterEvent": false
       },
       {
         "id": 1482,
         "virtualLiveId": 82,
         "seq": 17,
-        "startAt": 1756202400000,
-        "endAt": 1756203194000,
+        "startAt": 1756029600000,
+        "endAt": 1756030394000,
         "isAfterEvent": false
       },
       {
         "id": 1483,
         "virtualLiveId": 82,
         "seq": 18,
-        "startAt": 1756206000000,
-        "endAt": 1756206794000,
+        "startAt": 1756033200000,
+        "endAt": 1756033994000,
         "isAfterEvent": false
       },
       {
         "id": 1484,
         "virtualLiveId": 82,
         "seq": 19,
-        "startAt": 1756209600000,
-        "endAt": 1756210394000,
+        "startAt": 1756036800000,
+        "endAt": 1756037594000,
         "isAfterEvent": false
       },
       {
         "id": 1485,
         "virtualLiveId": 82,
         "seq": 20,
-        "startAt": 1756213200000,
-        "endAt": 1756213994000,
+        "startAt": 1756040400000,
+        "endAt": 1756041194000,
         "isAfterEvent": false
       },
       {
         "id": 1486,
         "virtualLiveId": 82,
         "seq": 21,
-        "startAt": 1756216800000,
-        "endAt": 1756217594000,
+        "startAt": 1756044000000,
+        "endAt": 1756044794000,
         "isAfterEvent": false
       },
       {
         "id": 1487,
         "virtualLiveId": 82,
         "seq": 22,
-        "startAt": 1756220400000,
-        "endAt": 1756221194000,
+        "startAt": 1756047600000,
+        "endAt": 1756048394000,
         "isAfterEvent": false
       }
     ],
@@ -57004,8 +57004,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 82,
-      "startAt": 1755932400000,
-      "endAt": 1756278000000
+      "startAt": 1755846000000,
+      "endAt": 1756191600000
     },
     "virtualItems": [
       {
@@ -121121,8 +121121,8 @@
     "name": "七夕2023演唱会",
     "assetbundleName": "vlentrance_00159",
     "screenMvMusicVocalId": 179,
-    "startAt": 1756105200000,
-    "endAt": 1756450800000,
+    "startAt": 1756018800000,
+    "endAt": 1756364400000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -121190,176 +121190,176 @@
         "id": 2359,
         "virtualLiveId": 159,
         "seq": 1,
-        "startAt": 1756224000000,
-        "endAt": 1756224625000,
+        "startAt": 1756051200000,
+        "endAt": 1756051825000,
         "isAfterEvent": false
       },
       {
         "id": 2360,
         "virtualLiveId": 159,
         "seq": 2,
-        "startAt": 1756227600000,
-        "endAt": 1756228225000,
+        "startAt": 1756054800000,
+        "endAt": 1756055425000,
         "isAfterEvent": false
       },
       {
         "id": 2361,
         "virtualLiveId": 159,
         "seq": 3,
-        "startAt": 1756231200000,
-        "endAt": 1756231825000,
+        "startAt": 1756058400000,
+        "endAt": 1756059025000,
         "isAfterEvent": false
       },
       {
         "id": 2362,
         "virtualLiveId": 159,
         "seq": 4,
-        "startAt": 1756252800000,
-        "endAt": 1756253425000,
+        "startAt": 1756080000000,
+        "endAt": 1756080625000,
         "isAfterEvent": false
       },
       {
         "id": 2363,
         "virtualLiveId": 159,
         "seq": 5,
-        "startAt": 1756267200000,
-        "endAt": 1756267825000,
+        "startAt": 1756094400000,
+        "endAt": 1756095025000,
         "isAfterEvent": false
       },
       {
         "id": 2364,
         "virtualLiveId": 159,
         "seq": 6,
-        "startAt": 1756288800000,
-        "endAt": 1756289425000,
+        "startAt": 1756116000000,
+        "endAt": 1756116625000,
         "isAfterEvent": false
       },
       {
         "id": 2365,
         "virtualLiveId": 159,
         "seq": 7,
-        "startAt": 1756292400000,
-        "endAt": 1756293025000,
+        "startAt": 1756119600000,
+        "endAt": 1756120225000,
         "isAfterEvent": false
       },
       {
         "id": 2366,
         "virtualLiveId": 159,
         "seq": 8,
-        "startAt": 1756296000000,
-        "endAt": 1756296625000,
+        "startAt": 1756123200000,
+        "endAt": 1756123825000,
         "isAfterEvent": false
       },
       {
         "id": 2367,
         "virtualLiveId": 159,
         "seq": 9,
-        "startAt": 1756299600000,
-        "endAt": 1756300225000,
+        "startAt": 1756126800000,
+        "endAt": 1756127425000,
         "isAfterEvent": false
       },
       {
         "id": 2368,
         "virtualLiveId": 159,
         "seq": 10,
-        "startAt": 1756303200000,
-        "endAt": 1756303825000,
+        "startAt": 1756130400000,
+        "endAt": 1756131025000,
         "isAfterEvent": false
       },
       {
         "id": 2369,
         "virtualLiveId": 159,
         "seq": 11,
-        "startAt": 1756306800000,
-        "endAt": 1756307425000,
+        "startAt": 1756134000000,
+        "endAt": 1756134625000,
         "isAfterEvent": false
       },
       {
         "id": 2370,
         "virtualLiveId": 159,
         "seq": 12,
-        "startAt": 1756310400000,
-        "endAt": 1756311025000,
+        "startAt": 1756137600000,
+        "endAt": 1756138225000,
         "isAfterEvent": false
       },
       {
         "id": 2371,
         "virtualLiveId": 159,
         "seq": 13,
-        "startAt": 1756314000000,
-        "endAt": 1756314625000,
+        "startAt": 1756141200000,
+        "endAt": 1756141825000,
         "isAfterEvent": false
       },
       {
         "id": 2372,
         "virtualLiveId": 159,
         "seq": 14,
-        "startAt": 1756317600000,
-        "endAt": 1756318225000,
+        "startAt": 1756144800000,
+        "endAt": 1756145425000,
         "isAfterEvent": false
       },
       {
         "id": 2373,
         "virtualLiveId": 159,
         "seq": 15,
-        "startAt": 1756339200000,
-        "endAt": 1756339825000,
+        "startAt": 1756166400000,
+        "endAt": 1756167025000,
         "isAfterEvent": false
       },
       {
         "id": 2374,
         "virtualLiveId": 159,
         "seq": 16,
-        "startAt": 1756353600000,
-        "endAt": 1756354225000,
+        "startAt": 1756180800000,
+        "endAt": 1756181425000,
         "isAfterEvent": false
       },
       {
         "id": 2375,
         "virtualLiveId": 159,
         "seq": 17,
-        "startAt": 1756375200000,
-        "endAt": 1756375825000,
+        "startAt": 1756202400000,
+        "endAt": 1756203025000,
         "isAfterEvent": false
       },
       {
         "id": 2376,
         "virtualLiveId": 159,
         "seq": 18,
-        "startAt": 1756378800000,
-        "endAt": 1756379425000,
+        "startAt": 1756206000000,
+        "endAt": 1756206625000,
         "isAfterEvent": false
       },
       {
         "id": 2377,
         "virtualLiveId": 159,
         "seq": 19,
-        "startAt": 1756382400000,
-        "endAt": 1756383025000,
+        "startAt": 1756209600000,
+        "endAt": 1756210225000,
         "isAfterEvent": false
       },
       {
         "id": 2378,
         "virtualLiveId": 159,
         "seq": 20,
-        "startAt": 1756386000000,
-        "endAt": 1756386625000,
+        "startAt": 1756213200000,
+        "endAt": 1756213825000,
         "isAfterEvent": false
       },
       {
         "id": 2379,
         "virtualLiveId": 159,
         "seq": 21,
-        "startAt": 1756389600000,
-        "endAt": 1756390225000,
+        "startAt": 1756216800000,
+        "endAt": 1756217425000,
         "isAfterEvent": false
       },
       {
         "id": 2380,
         "virtualLiveId": 159,
         "seq": 22,
-        "startAt": 1756393200000,
-        "endAt": 1756393825000,
+        "startAt": 1756220400000,
+        "endAt": 1756221025000,
         "isAfterEvent": false
       }
     ],
@@ -121421,8 +121421,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 159,
-      "startAt": 1756105200000,
-      "endAt": 1756450800000
+      "startAt": 1756018800000,
+      "endAt": 1756364400000
     },
     "virtualItems": [
       {
@@ -150866,58 +150866,6 @@
         "effectAssetbundleName": "chara_kaito",
         "effectExpressionType": "throw_effect",
         "gameCharacterUnitId": 26
-      },
-      {
-        "id": 1001,
-        "virtualItemCategory": "normal",
-        "seq": 1140,
-        "priority": 1140,
-        "name": "春联",
-        "assetbundleName": "event_yuandan_01",
-        "costVirtualCoin": 300,
-        "costJewel": 100,
-        "effectAssetbundleName": "event_yuandan_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1002,
-        "virtualItemCategory": "normal",
-        "seq": 1150,
-        "priority": 1150,
-        "name": "年年有余",
-        "assetbundleName": "event_yuandan_02",
-        "costVirtualCoin": 450,
-        "costJewel": 150,
-        "effectAssetbundleName": "event_yuandan_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1009,
-        "virtualItemCategory": "normal",
-        "seq": 2040,
-        "priority": 2040,
-        "name": "HAPPY NEW YEAR 2024",
-        "assetbundleName": "event_new_year_2024_01",
-        "costVirtualCoin": 300,
-        "costJewel": 100,
-        "effectAssetbundleName": "event_new_year_2024_01",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
-      },
-      {
-        "id": 1010,
-        "virtualItemCategory": "normal",
-        "seq": 2050,
-        "priority": 2050,
-        "name": "2024生肖“龙”",
-        "assetbundleName": "event_new_year_2024_02",
-        "costVirtualCoin": 450,
-        "costJewel": 150,
-        "effectAssetbundleName": "event_new_year_2024_02",
-        "effectExpressionType": "throw_effect",
-        "virtualItemLabelType": "special"
       }
     ],
     "virtualLiveAppeals": [],
@@ -184479,8 +184427,8 @@
     "name": "七夕2024演唱会",
     "assetbundleName": "vlentrance_00239",
     "screenMvMusicVocalId": 627,
-    "startAt": 1756278000000,
-    "endAt": 1756623600000,
+    "startAt": 1756191600000,
+    "endAt": 1756537200000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -184556,176 +184504,176 @@
         "id": 3232,
         "virtualLiveId": 239,
         "seq": 1,
-        "startAt": 1756396800000,
-        "endAt": 1756397477000,
+        "startAt": 1756224000000,
+        "endAt": 1756224677000,
         "isAfterEvent": false
       },
       {
         "id": 3233,
         "virtualLiveId": 239,
         "seq": 2,
-        "startAt": 1756400400000,
-        "endAt": 1756401077000,
+        "startAt": 1756227600000,
+        "endAt": 1756228277000,
         "isAfterEvent": false
       },
       {
         "id": 3234,
         "virtualLiveId": 239,
         "seq": 3,
-        "startAt": 1756404000000,
-        "endAt": 1756404677000,
+        "startAt": 1756231200000,
+        "endAt": 1756231877000,
         "isAfterEvent": false
       },
       {
         "id": 3235,
         "virtualLiveId": 239,
         "seq": 4,
-        "startAt": 1756425600000,
-        "endAt": 1756426277000,
+        "startAt": 1756252800000,
+        "endAt": 1756253477000,
         "isAfterEvent": false
       },
       {
         "id": 3236,
         "virtualLiveId": 239,
         "seq": 5,
-        "startAt": 1756440000000,
-        "endAt": 1756440677000,
+        "startAt": 1756267200000,
+        "endAt": 1756267877000,
         "isAfterEvent": false
       },
       {
         "id": 3237,
         "virtualLiveId": 239,
         "seq": 6,
-        "startAt": 1756461600000,
-        "endAt": 1756462277000,
+        "startAt": 1756288800000,
+        "endAt": 1756289477000,
         "isAfterEvent": false
       },
       {
         "id": 3238,
         "virtualLiveId": 239,
         "seq": 7,
-        "startAt": 1756465200000,
-        "endAt": 1756465877000,
+        "startAt": 1756292400000,
+        "endAt": 1756293077000,
         "isAfterEvent": false
       },
       {
         "id": 3239,
         "virtualLiveId": 239,
         "seq": 8,
-        "startAt": 1756468800000,
-        "endAt": 1756469477000,
+        "startAt": 1756296000000,
+        "endAt": 1756296677000,
         "isAfterEvent": false
       },
       {
         "id": 3240,
         "virtualLiveId": 239,
         "seq": 9,
-        "startAt": 1756472400000,
-        "endAt": 1756473077000,
+        "startAt": 1756299600000,
+        "endAt": 1756300277000,
         "isAfterEvent": false
       },
       {
         "id": 3241,
         "virtualLiveId": 239,
         "seq": 10,
-        "startAt": 1756476000000,
-        "endAt": 1756476677000,
+        "startAt": 1756303200000,
+        "endAt": 1756303877000,
         "isAfterEvent": false
       },
       {
         "id": 3242,
         "virtualLiveId": 239,
         "seq": 11,
-        "startAt": 1756479600000,
-        "endAt": 1756480277000,
+        "startAt": 1756306800000,
+        "endAt": 1756307477000,
         "isAfterEvent": false
       },
       {
         "id": 3243,
         "virtualLiveId": 239,
         "seq": 12,
-        "startAt": 1756483200000,
-        "endAt": 1756483877000,
+        "startAt": 1756310400000,
+        "endAt": 1756311077000,
         "isAfterEvent": false
       },
       {
         "id": 3244,
         "virtualLiveId": 239,
         "seq": 13,
-        "startAt": 1756486800000,
-        "endAt": 1756487477000,
+        "startAt": 1756314000000,
+        "endAt": 1756314677000,
         "isAfterEvent": false
       },
       {
         "id": 3245,
         "virtualLiveId": 239,
         "seq": 14,
-        "startAt": 1756490400000,
-        "endAt": 1756491077000,
+        "startAt": 1756317600000,
+        "endAt": 1756318277000,
         "isAfterEvent": false
       },
       {
         "id": 3246,
         "virtualLiveId": 239,
         "seq": 15,
-        "startAt": 1756512000000,
-        "endAt": 1756512677000,
+        "startAt": 1756339200000,
+        "endAt": 1756339877000,
         "isAfterEvent": false
       },
       {
         "id": 3247,
         "virtualLiveId": 239,
         "seq": 16,
-        "startAt": 1756526400000,
-        "endAt": 1756527077000,
+        "startAt": 1756353600000,
+        "endAt": 1756354277000,
         "isAfterEvent": false
       },
       {
         "id": 3248,
         "virtualLiveId": 239,
         "seq": 17,
-        "startAt": 1756548000000,
-        "endAt": 1756548677000,
+        "startAt": 1756375200000,
+        "endAt": 1756375877000,
         "isAfterEvent": false
       },
       {
         "id": 3249,
         "virtualLiveId": 239,
         "seq": 18,
-        "startAt": 1756551600000,
-        "endAt": 1756552277000,
+        "startAt": 1756378800000,
+        "endAt": 1756379477000,
         "isAfterEvent": false
       },
       {
         "id": 3250,
         "virtualLiveId": 239,
         "seq": 19,
-        "startAt": 1756555200000,
-        "endAt": 1756555877000,
+        "startAt": 1756382400000,
+        "endAt": 1756383077000,
         "isAfterEvent": false
       },
       {
         "id": 3251,
         "virtualLiveId": 239,
         "seq": 20,
-        "startAt": 1756558800000,
-        "endAt": 1756559477000,
+        "startAt": 1756386000000,
+        "endAt": 1756386677000,
         "isAfterEvent": false
       },
       {
         "id": 3252,
         "virtualLiveId": 239,
         "seq": 21,
-        "startAt": 1756562400000,
-        "endAt": 1756563077000,
+        "startAt": 1756389600000,
+        "endAt": 1756390277000,
         "isAfterEvent": false
       },
       {
         "id": 3253,
         "virtualLiveId": 239,
         "seq": 22,
-        "startAt": 1756566000000,
-        "endAt": 1756566677000,
+        "startAt": 1756393200000,
+        "endAt": 1756393877000,
         "isAfterEvent": false
       }
     ],
@@ -184787,8 +184735,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 239,
-      "startAt": 1756278000000,
-      "endAt": 1756623600000
+      "startAt": 1756191600000,
+      "endAt": 1756537200000
     },
     "virtualItems": [
       {
@@ -189763,88 +189711,88 @@
         "id": 3312,
         "virtualLiveId": 246,
         "seq": 1,
-        "startAt": 1691683200000,
-        "endAt": 1691683683000,
+        "startAt": 1754755200000,
+        "endAt": 1754755683000,
         "isAfterEvent": false
       },
       {
         "id": 3313,
         "virtualLiveId": 246,
         "seq": 2,
-        "startAt": 1691686800000,
-        "endAt": 1691687283000,
+        "startAt": 1754758800000,
+        "endAt": 1754759283000,
         "isAfterEvent": false
       },
       {
         "id": 3314,
         "virtualLiveId": 246,
         "seq": 3,
-        "startAt": 1691690400000,
-        "endAt": 1691690883000,
+        "startAt": 1754762400000,
+        "endAt": 1754762883000,
         "isAfterEvent": false
       },
       {
         "id": 3315,
         "virtualLiveId": 246,
         "seq": 4,
-        "startAt": 1691712000000,
-        "endAt": 1691712483000,
+        "startAt": 1754784000000,
+        "endAt": 1754784483000,
         "isAfterEvent": false
       },
       {
         "id": 3316,
         "virtualLiveId": 246,
         "seq": 5,
-        "startAt": 1691726400000,
-        "endAt": 1691726883000,
+        "startAt": 1754798400000,
+        "endAt": 1754798883000,
         "isAfterEvent": false
       },
       {
         "id": 3317,
         "virtualLiveId": 246,
         "seq": 6,
-        "startAt": 1691748000000,
-        "endAt": 1691748483000,
+        "startAt": 1754820000000,
+        "endAt": 1754820483000,
         "isAfterEvent": false
       },
       {
         "id": 3318,
         "virtualLiveId": 246,
         "seq": 7,
-        "startAt": 1691751600000,
-        "endAt": 1691752083000,
+        "startAt": 1754823600000,
+        "endAt": 1754824083000,
         "isAfterEvent": false
       },
       {
         "id": 3319,
         "virtualLiveId": 246,
         "seq": 8,
-        "startAt": 1691755200000,
-        "endAt": 1691755683000,
+        "startAt": 1754827200000,
+        "endAt": 1754827683000,
         "isAfterEvent": false
       },
       {
         "id": 3320,
         "virtualLiveId": 246,
         "seq": 9,
-        "startAt": 1691758800000,
-        "endAt": 1691759283000,
+        "startAt": 1754830800000,
+        "endAt": 1754831283000,
         "isAfterEvent": false
       },
       {
         "id": 3321,
         "virtualLiveId": 246,
         "seq": 10,
-        "startAt": 1691762400000,
-        "endAt": 1691762883000,
+        "startAt": 1754834400000,
+        "endAt": 1754834883000,
         "isAfterEvent": false
       },
       {
         "id": 3322,
         "virtualLiveId": 246,
         "seq": 11,
-        "startAt": 1691766000000,
-        "endAt": 1691766483000,
+        "startAt": 1754838000000,
+        "endAt": 1754838483000,
         "isAfterEvent": false
       }
     ],
@@ -192431,104 +192379,88 @@
         "id": 3345,
         "virtualLiveId": 249,
         "seq": 1,
-        "startAt": 1693065600000,
-        "endAt": 1693066167000,
+        "startAt": 1756137600000,
+        "endAt": 1756138167000,
         "isAfterEvent": false
       },
       {
         "id": 3346,
         "virtualLiveId": 249,
         "seq": 2,
-        "startAt": 1693069200000,
-        "endAt": 1693069767000,
+        "startAt": 1756141200000,
+        "endAt": 1756141767000,
         "isAfterEvent": false
       },
       {
         "id": 3347,
         "virtualLiveId": 249,
         "seq": 3,
-        "startAt": 1693072800000,
-        "endAt": 1693073367000,
+        "startAt": 1756144800000,
+        "endAt": 1756145367000,
         "isAfterEvent": false
       },
       {
         "id": 3348,
         "virtualLiveId": 249,
         "seq": 4,
-        "startAt": 1693094400000,
-        "endAt": 1693094967000,
+        "startAt": 1756166400000,
+        "endAt": 1756166967000,
         "isAfterEvent": false
       },
       {
         "id": 3349,
         "virtualLiveId": 249,
         "seq": 5,
-        "startAt": 1693108800000,
-        "endAt": 1693109367000,
+        "startAt": 1756180800000,
+        "endAt": 1756181367000,
         "isAfterEvent": false
       },
       {
         "id": 3350,
         "virtualLiveId": 249,
         "seq": 6,
-        "startAt": 1693130400000,
-        "endAt": 1693130967000,
+        "startAt": 1756202400000,
+        "endAt": 1756202967000,
         "isAfterEvent": false
       },
       {
         "id": 3351,
         "virtualLiveId": 249,
         "seq": 7,
-        "startAt": 1693134000000,
-        "endAt": 1693134567000,
+        "startAt": 1756206000000,
+        "endAt": 1756206567000,
         "isAfterEvent": false
       },
       {
         "id": 3352,
         "virtualLiveId": 249,
         "seq": 8,
-        "startAt": 1693137600000,
-        "endAt": 1693138167000,
+        "startAt": 1756209600000,
+        "endAt": 1756210167000,
         "isAfterEvent": false
       },
       {
         "id": 3353,
         "virtualLiveId": 249,
         "seq": 9,
-        "startAt": 1693141200000,
-        "endAt": 1693141767000,
+        "startAt": 1756213200000,
+        "endAt": 1756213767000,
         "isAfterEvent": false
       },
       {
         "id": 3354,
         "virtualLiveId": 249,
         "seq": 10,
-        "startAt": 1693144800000,
-        "endAt": 1693145367000,
+        "startAt": 1756216800000,
+        "endAt": 1756217367000,
         "isAfterEvent": false
       },
       {
         "id": 3355,
         "virtualLiveId": 249,
         "seq": 11,
-        "startAt": 1693148400000,
-        "endAt": 1693148967000,
-        "isAfterEvent": false
-      },
-      {
-        "id": 3435,
-        "virtualLiveId": 249,
-        "seq": 12,
-        "startAt": 1725206400000,
-        "endAt": 1725206967000,
-        "isAfterEvent": false
-      },
-      {
-        "id": 3436,
-        "virtualLiveId": 249,
-        "seq": 13,
-        "startAt": 1725210000000,
-        "endAt": 1725210567000,
+        "startAt": 1756220400000,
+        "endAt": 1756220967000,
         "isAfterEvent": false
       }
     ],
@@ -193182,88 +193114,88 @@
         "id": 3356,
         "virtualLiveId": 250,
         "seq": 1,
-        "startAt": 1693411200000,
-        "endAt": 1693412044000,
+        "startAt": 1756483200000,
+        "endAt": 1756484044000,
         "isAfterEvent": false
       },
       {
         "id": 3357,
         "virtualLiveId": 250,
         "seq": 2,
-        "startAt": 1693414800000,
-        "endAt": 1693415644000,
+        "startAt": 1756486800000,
+        "endAt": 1756487644000,
         "isAfterEvent": false
       },
       {
         "id": 3358,
         "virtualLiveId": 250,
         "seq": 3,
-        "startAt": 1693418400000,
-        "endAt": 1693419244000,
+        "startAt": 1756490400000,
+        "endAt": 1756491244000,
         "isAfterEvent": false
       },
       {
         "id": 3359,
         "virtualLiveId": 250,
         "seq": 4,
-        "startAt": 1693440000000,
-        "endAt": 1693440844000,
+        "startAt": 1756512000000,
+        "endAt": 1756512844000,
         "isAfterEvent": false
       },
       {
         "id": 3360,
         "virtualLiveId": 250,
         "seq": 5,
-        "startAt": 1693454400000,
-        "endAt": 1693455244000,
+        "startAt": 1756526400000,
+        "endAt": 1756527244000,
         "isAfterEvent": false
       },
       {
         "id": 3361,
         "virtualLiveId": 250,
         "seq": 6,
-        "startAt": 1693476000000,
-        "endAt": 1693476844000,
+        "startAt": 1756548000000,
+        "endAt": 1756548844000,
         "isAfterEvent": false
       },
       {
         "id": 3362,
         "virtualLiveId": 250,
         "seq": 7,
-        "startAt": 1693479600000,
-        "endAt": 1693480444000,
+        "startAt": 1756551600000,
+        "endAt": 1756552444000,
         "isAfterEvent": false
       },
       {
         "id": 3363,
         "virtualLiveId": 250,
         "seq": 8,
-        "startAt": 1693483200000,
-        "endAt": 1693484044000,
+        "startAt": 1756555200000,
+        "endAt": 1756556044000,
         "isAfterEvent": false
       },
       {
         "id": 3364,
         "virtualLiveId": 250,
         "seq": 9,
-        "startAt": 1693486800000,
-        "endAt": 1693487644000,
+        "startAt": 1756558800000,
+        "endAt": 1756559644000,
         "isAfterEvent": false
       },
       {
         "id": 3365,
         "virtualLiveId": 250,
         "seq": 10,
-        "startAt": 1693490400000,
-        "endAt": 1693491244000,
+        "startAt": 1756562400000,
+        "endAt": 1756563244000,
         "isAfterEvent": false
       },
       {
         "id": 3366,
         "virtualLiveId": 250,
         "seq": 11,
-        "startAt": 1693494000000,
-        "endAt": 1693494844000,
+        "startAt": 1756566000000,
+        "endAt": 1756566844000,
         "isAfterEvent": false
       }
     ],
@@ -195013,88 +194945,88 @@
         "id": 3378,
         "virtualLiveId": 252,
         "seq": 1,
-        "startAt": 1694188800000,
-        "endAt": 1694189360000,
+        "startAt": 1757260800000,
+        "endAt": 1757261360000,
         "isAfterEvent": false
       },
       {
         "id": 3379,
         "virtualLiveId": 252,
         "seq": 2,
-        "startAt": 1694192400000,
-        "endAt": 1694192960000,
+        "startAt": 1757264400000,
+        "endAt": 1757264960000,
         "isAfterEvent": false
       },
       {
         "id": 3380,
         "virtualLiveId": 252,
         "seq": 3,
-        "startAt": 1694196000000,
-        "endAt": 1694196560000,
+        "startAt": 1757268000000,
+        "endAt": 1757268560000,
         "isAfterEvent": false
       },
       {
         "id": 3381,
         "virtualLiveId": 252,
         "seq": 4,
-        "startAt": 1694217600000,
-        "endAt": 1694218160000,
+        "startAt": 1757289600000,
+        "endAt": 1757290160000,
         "isAfterEvent": false
       },
       {
         "id": 3382,
         "virtualLiveId": 252,
         "seq": 5,
-        "startAt": 1694232000000,
-        "endAt": 1694232560000,
+        "startAt": 1757304000000,
+        "endAt": 1757304560000,
         "isAfterEvent": false
       },
       {
         "id": 3383,
         "virtualLiveId": 252,
         "seq": 6,
-        "startAt": 1694253600000,
-        "endAt": 1694254160000,
+        "startAt": 1757325600000,
+        "endAt": 1757326160000,
         "isAfterEvent": false
       },
       {
         "id": 3384,
         "virtualLiveId": 252,
         "seq": 7,
-        "startAt": 1694257200000,
-        "endAt": 1694257760000,
+        "startAt": 1757329200000,
+        "endAt": 1757329760000,
         "isAfterEvent": false
       },
       {
         "id": 3385,
         "virtualLiveId": 252,
         "seq": 8,
-        "startAt": 1694260800000,
-        "endAt": 1694261360000,
+        "startAt": 1757332800000,
+        "endAt": 1757333360000,
         "isAfterEvent": false
       },
       {
         "id": 3386,
         "virtualLiveId": 252,
         "seq": 9,
-        "startAt": 1694264400000,
-        "endAt": 1694264960000,
+        "startAt": 1757336400000,
+        "endAt": 1757336960000,
         "isAfterEvent": false
       },
       {
         "id": 3387,
         "virtualLiveId": 252,
         "seq": 10,
-        "startAt": 1694268000000,
-        "endAt": 1694268560000,
+        "startAt": 1757340000000,
+        "endAt": 1757340560000,
         "isAfterEvent": false
       },
       {
         "id": 3388,
         "virtualLiveId": 252,
         "seq": 11,
-        "startAt": 1694271600000,
-        "endAt": 1694272160000,
+        "startAt": 1757343600000,
+        "endAt": 1757344160000,
         "isAfterEvent": false
       }
     ],
@@ -245415,8 +245347,8 @@
     "name": "七夕2025演唱会",
     "assetbundleName": "vlentrance_00312",
     "screenMvMusicVocalId": 694,
-    "startAt": 1756450800000,
-    "endAt": 1756796400000,
+    "startAt": 1756364400000,
+    "endAt": 1756710000000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -245493,176 +245425,176 @@
         "id": 4092,
         "virtualLiveId": 312,
         "seq": 1,
-        "startAt": 1756569600000,
-        "endAt": 1756570328000,
+        "startAt": 1756396800000,
+        "endAt": 1756397528000,
         "isAfterEvent": false
       },
       {
         "id": 4093,
         "virtualLiveId": 312,
         "seq": 2,
-        "startAt": 1756573200000,
-        "endAt": 1756573928000,
+        "startAt": 1756400400000,
+        "endAt": 1756401128000,
         "isAfterEvent": false
       },
       {
         "id": 4094,
         "virtualLiveId": 312,
         "seq": 3,
-        "startAt": 1756576800000,
-        "endAt": 1756577528000,
+        "startAt": 1756404000000,
+        "endAt": 1756404728000,
         "isAfterEvent": false
       },
       {
         "id": 4095,
         "virtualLiveId": 312,
         "seq": 4,
-        "startAt": 1756598400000,
-        "endAt": 1756599128000,
+        "startAt": 1756425600000,
+        "endAt": 1756426328000,
         "isAfterEvent": false
       },
       {
         "id": 4096,
         "virtualLiveId": 312,
         "seq": 5,
-        "startAt": 1756612800000,
-        "endAt": 1756613528000,
+        "startAt": 1756440000000,
+        "endAt": 1756440728000,
         "isAfterEvent": false
       },
       {
         "id": 4097,
         "virtualLiveId": 312,
         "seq": 6,
-        "startAt": 1756634400000,
-        "endAt": 1756635128000,
+        "startAt": 1756461600000,
+        "endAt": 1756462328000,
         "isAfterEvent": false
       },
       {
         "id": 4098,
         "virtualLiveId": 312,
         "seq": 7,
-        "startAt": 1756638000000,
-        "endAt": 1756638728000,
+        "startAt": 1756465200000,
+        "endAt": 1756465928000,
         "isAfterEvent": false
       },
       {
         "id": 4099,
         "virtualLiveId": 312,
         "seq": 8,
-        "startAt": 1756641600000,
-        "endAt": 1756642328000,
+        "startAt": 1756468800000,
+        "endAt": 1756469528000,
         "isAfterEvent": false
       },
       {
         "id": 4100,
         "virtualLiveId": 312,
         "seq": 9,
-        "startAt": 1756645200000,
-        "endAt": 1756645928000,
+        "startAt": 1756472400000,
+        "endAt": 1756473128000,
         "isAfterEvent": false
       },
       {
         "id": 4101,
         "virtualLiveId": 312,
         "seq": 10,
-        "startAt": 1756648800000,
-        "endAt": 1756649528000,
+        "startAt": 1756476000000,
+        "endAt": 1756476728000,
         "isAfterEvent": false
       },
       {
         "id": 4102,
         "virtualLiveId": 312,
         "seq": 11,
-        "startAt": 1756652400000,
-        "endAt": 1756653128000,
+        "startAt": 1756479600000,
+        "endAt": 1756480328000,
         "isAfterEvent": false
       },
       {
         "id": 4103,
         "virtualLiveId": 312,
         "seq": 12,
-        "startAt": 1756656000000,
-        "endAt": 1756656728000,
+        "startAt": 1756483200000,
+        "endAt": 1756483928000,
         "isAfterEvent": false
       },
       {
         "id": 4104,
         "virtualLiveId": 312,
         "seq": 13,
-        "startAt": 1756659600000,
-        "endAt": 1756660328000,
+        "startAt": 1756486800000,
+        "endAt": 1756487528000,
         "isAfterEvent": false
       },
       {
         "id": 4105,
         "virtualLiveId": 312,
         "seq": 14,
-        "startAt": 1756663200000,
-        "endAt": 1756663928000,
+        "startAt": 1756490400000,
+        "endAt": 1756491128000,
         "isAfterEvent": false
       },
       {
         "id": 4106,
         "virtualLiveId": 312,
         "seq": 15,
-        "startAt": 1756684800000,
-        "endAt": 1756685528000,
+        "startAt": 1756512000000,
+        "endAt": 1756512728000,
         "isAfterEvent": false
       },
       {
         "id": 4107,
         "virtualLiveId": 312,
         "seq": 16,
-        "startAt": 1756699200000,
-        "endAt": 1756699928000,
+        "startAt": 1756526400000,
+        "endAt": 1756527128000,
         "isAfterEvent": false
       },
       {
         "id": 4108,
         "virtualLiveId": 312,
         "seq": 17,
-        "startAt": 1756720800000,
-        "endAt": 1756721528000,
+        "startAt": 1756548000000,
+        "endAt": 1756548728000,
         "isAfterEvent": false
       },
       {
         "id": 4109,
         "virtualLiveId": 312,
         "seq": 18,
-        "startAt": 1756724400000,
-        "endAt": 1756725128000,
+        "startAt": 1756551600000,
+        "endAt": 1756552328000,
         "isAfterEvent": false
       },
       {
         "id": 4110,
         "virtualLiveId": 312,
         "seq": 19,
-        "startAt": 1756728000000,
-        "endAt": 1756728728000,
+        "startAt": 1756555200000,
+        "endAt": 1756555928000,
         "isAfterEvent": false
       },
       {
         "id": 4111,
         "virtualLiveId": 312,
         "seq": 20,
-        "startAt": 1756731600000,
-        "endAt": 1756732328000,
+        "startAt": 1756558800000,
+        "endAt": 1756559528000,
         "isAfterEvent": false
       },
       {
         "id": 4112,
         "virtualLiveId": 312,
         "seq": 21,
-        "startAt": 1756735200000,
-        "endAt": 1756735928000,
+        "startAt": 1756562400000,
+        "endAt": 1756563128000,
         "isAfterEvent": false
       },
       {
         "id": 4113,
         "virtualLiveId": 312,
         "seq": 22,
-        "startAt": 1756738800000,
-        "endAt": 1756739528000,
+        "startAt": 1756566000000,
+        "endAt": 1756566728000,
         "isAfterEvent": false
       }
     ],
@@ -245724,8 +245656,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 312,
-      "startAt": 1756450800000,
-      "endAt": 1756796400000
+      "startAt": 1756364400000,
+      "endAt": 1756710000000
     },
     "virtualItems": [
       {
@@ -250624,7 +250556,7 @@
     "assetbundleName": "vlentrance_00318",
     "screenMvMusicVocalId": 702,
     "startAt": 1754463600000,
-    "endAt": 1755068399000,
+    "endAt": 1755086399000,
     "rankingAnnounceAt": 4102415999000,
     "archiveReleaseConditionId": 113808,
     "virtualLiveSetlists": [
@@ -250823,7 +250755,7 @@
     "virtualLiveWaitingRoom": {
       "id": 318,
       "startAt": 1754463600000,
-      "endAt": 1755068399000
+      "endAt": 1755086399000
     },
     "virtualItems": [
       {
@@ -256516,7 +256448,7 @@
     "assetbundleName": "vlentrance_00325",
     "screenMvMusicVocalId": 526,
     "startAt": 1756969200000,
-    "endAt": 1757660399000,
+    "endAt": 1757678399000,
     "rankingAnnounceAt": 4102415999000,
     "archiveReleaseConditionId": 114108,
     "virtualLiveSetlists": [
@@ -256719,7 +256651,7 @@
     "virtualLiveWaitingRoom": {
       "id": 325,
       "startAt": 1756969200000,
-      "endAt": 1757660399000
+      "endAt": 1757678399000
     },
     "virtualItems": [
       {
