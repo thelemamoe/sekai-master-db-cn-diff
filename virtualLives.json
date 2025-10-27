@@ -8024,144 +8024,144 @@
         "id": 125,
         "virtualLiveId": 12,
         "seq": 1,
-        "startAt": 1761321600000,
-        "endAt": 1761322252000,
+        "startAt": 1761148800000,
+        "endAt": 1761149452000,
         "isAfterEvent": false
       },
       {
         "id": 126,
         "virtualLiveId": 12,
         "seq": 2,
-        "startAt": 1761350400000,
-        "endAt": 1761351052000,
+        "startAt": 1761177600000,
+        "endAt": 1761178252000,
         "isAfterEvent": false
       },
       {
         "id": 127,
         "virtualLiveId": 12,
         "seq": 3,
-        "startAt": 1761364800000,
-        "endAt": 1761365452000,
+        "startAt": 1761192000000,
+        "endAt": 1761192652000,
         "isAfterEvent": false
       },
       {
         "id": 128,
         "virtualLiveId": 12,
         "seq": 4,
-        "startAt": 1761386400000,
-        "endAt": 1761387052000,
+        "startAt": 1761213600000,
+        "endAt": 1761214252000,
         "isAfterEvent": false
       },
       {
         "id": 129,
         "virtualLiveId": 12,
         "seq": 5,
-        "startAt": 1761390000000,
-        "endAt": 1761390652000,
+        "startAt": 1761217200000,
+        "endAt": 1761217852000,
         "isAfterEvent": false
       },
       {
         "id": 130,
         "virtualLiveId": 12,
         "seq": 6,
-        "startAt": 1761393600000,
-        "endAt": 1761394252000,
+        "startAt": 1761220800000,
+        "endAt": 1761221452000,
         "isAfterEvent": false
       },
       {
         "id": 131,
         "virtualLiveId": 12,
         "seq": 7,
-        "startAt": 1761397200000,
-        "endAt": 1761397852000,
+        "startAt": 1761224400000,
+        "endAt": 1761225052000,
         "isAfterEvent": false
       },
       {
         "id": 132,
         "virtualLiveId": 12,
         "seq": 8,
-        "startAt": 1761400800000,
-        "endAt": 1761401452000,
+        "startAt": 1761228000000,
+        "endAt": 1761228652000,
         "isAfterEvent": false
       },
       {
         "id": 133,
         "virtualLiveId": 12,
         "seq": 9,
-        "startAt": 1761404400000,
-        "endAt": 1761405052000,
+        "startAt": 1761231600000,
+        "endAt": 1761232252000,
         "isAfterEvent": false
       },
       {
         "id": 134,
         "virtualLiveId": 12,
         "seq": 10,
-        "startAt": 1792944000000,
-        "endAt": 1792944652000,
+        "startAt": 1761235200000,
+        "endAt": 1761235852000,
         "isAfterEvent": false
       },
       {
         "id": 135,
         "virtualLiveId": 12,
         "seq": 11,
-        "startAt": 1792972800000,
-        "endAt": 1792973452000,
+        "startAt": 1761264000000,
+        "endAt": 1761264652000,
         "isAfterEvent": false
       },
       {
         "id": 136,
         "virtualLiveId": 12,
         "seq": 12,
-        "startAt": 1792987200000,
-        "endAt": 1792987852000,
+        "startAt": 1761278400000,
+        "endAt": 1761279052000,
         "isAfterEvent": false
       },
       {
         "id": 137,
         "virtualLiveId": 12,
         "seq": 13,
-        "startAt": 1793008800000,
-        "endAt": 1793009452000,
+        "startAt": 1761300000000,
+        "endAt": 1761300652000,
         "isAfterEvent": false
       },
       {
         "id": 138,
         "virtualLiveId": 12,
         "seq": 14,
-        "startAt": 1793012400000,
-        "endAt": 1793013052000,
+        "startAt": 1761303600000,
+        "endAt": 1761304252000,
         "isAfterEvent": false
       },
       {
         "id": 139,
         "virtualLiveId": 12,
         "seq": 15,
-        "startAt": 1793016000000,
-        "endAt": 1793016652000,
+        "startAt": 1761307200000,
+        "endAt": 1761307852000,
         "isAfterEvent": false
       },
       {
         "id": 140,
         "virtualLiveId": 12,
         "seq": 16,
-        "startAt": 1793019600000,
-        "endAt": 1793020252000,
+        "startAt": 1761310800000,
+        "endAt": 1761311452000,
         "isAfterEvent": false
       },
       {
         "id": 141,
         "virtualLiveId": 12,
         "seq": 17,
-        "startAt": 1793023200000,
-        "endAt": 1793023852000,
+        "startAt": 1761314400000,
+        "endAt": 1761315052000,
         "isAfterEvent": false
       },
       {
         "id": 142,
         "virtualLiveId": 12,
         "seq": 18,
-        "startAt": 1793026800000,
-        "endAt": 1793027452000,
+        "startAt": 1761318000000,
+        "endAt": 1761318652000,
         "isAfterEvent": false
       }
     ],
@@ -25194,8 +25194,8 @@
     "name": "HAPPY BIRTHDAY演唱会 雫",
     "assetbundleName": "vlentrance_00039",
     "screenMvMusicVocalId": 29,
-    "startAt": 4102470000000,
-    "endAt": 4133919600000,
+    "startAt": 1764486000000,
+    "endAt": 1764745199000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -25236,72 +25236,72 @@
         "id": 404,
         "virtualLiveId": 39,
         "seq": 1,
-        "startAt": 4133779200000,
-        "endAt": 4133779653000,
+        "startAt": 1764604800000,
+        "endAt": 1764605253000,
         "isAfterEvent": false
       },
       {
         "id": 405,
         "virtualLiveId": 39,
         "seq": 2,
-        "startAt": 4133808000000,
-        "endAt": 4133808453000,
+        "startAt": 1764633600000,
+        "endAt": 1764634053000,
         "isAfterEvent": false
       },
       {
         "id": 406,
         "virtualLiveId": 39,
         "seq": 3,
-        "startAt": 4133822400000,
-        "endAt": 4133822853000,
+        "startAt": 1764648000000,
+        "endAt": 1764648453000,
         "isAfterEvent": false
       },
       {
         "id": 407,
         "virtualLiveId": 39,
         "seq": 4,
-        "startAt": 4133844000000,
-        "endAt": 4133844453000,
+        "startAt": 1764669600000,
+        "endAt": 1764670053000,
         "isAfterEvent": false
       },
       {
         "id": 408,
         "virtualLiveId": 39,
         "seq": 5,
-        "startAt": 4133847600000,
-        "endAt": 4133848053000,
+        "startAt": 1764673200000,
+        "endAt": 1764673653000,
         "isAfterEvent": false
       },
       {
         "id": 409,
         "virtualLiveId": 39,
         "seq": 6,
-        "startAt": 4133851200000,
-        "endAt": 4133851653000,
+        "startAt": 1764676800000,
+        "endAt": 1764677253000,
         "isAfterEvent": false
       },
       {
         "id": 410,
         "virtualLiveId": 39,
         "seq": 7,
-        "startAt": 4133854800000,
-        "endAt": 4133855253000,
+        "startAt": 1764680400000,
+        "endAt": 1764680853000,
         "isAfterEvent": false
       },
       {
         "id": 411,
         "virtualLiveId": 39,
         "seq": 8,
-        "startAt": 4133858400000,
-        "endAt": 4133858853000,
+        "startAt": 1764684000000,
+        "endAt": 1764684453000,
         "isAfterEvent": false
       },
       {
         "id": 412,
         "virtualLiveId": 39,
         "seq": 9,
-        "startAt": 4133862000000,
-        "endAt": 4133862453000,
+        "startAt": 1764687600000,
+        "endAt": 1764688053000,
         "isAfterEvent": false
       }
     ],
@@ -25343,8 +25343,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 39,
-      "startAt": 4102470000000,
-      "endAt": 4133919600000
+      "startAt": 1764486000000,
+      "endAt": 1764745199000
     },
     "virtualItems": [
       {
@@ -75314,88 +75314,88 @@
         "id": 1730,
         "virtualLiveId": 103,
         "seq": 12,
-        "startAt": 1792944000000,
-        "endAt": 1792944797000,
+        "startAt": 1761408000000,
+        "endAt": 1761408797000,
         "isAfterEvent": false
       },
       {
         "id": 1731,
         "virtualLiveId": 103,
         "seq": 13,
-        "startAt": 1792947600000,
-        "endAt": 1792948397000,
+        "startAt": 1761411600000,
+        "endAt": 1761412397000,
         "isAfterEvent": false
       },
       {
         "id": 1732,
         "virtualLiveId": 103,
         "seq": 14,
-        "startAt": 1792951200000,
-        "endAt": 1792951997000,
+        "startAt": 1761415200000,
+        "endAt": 1761415997000,
         "isAfterEvent": false
       },
       {
         "id": 1733,
         "virtualLiveId": 103,
         "seq": 15,
-        "startAt": 1792972800000,
-        "endAt": 1792973597000,
+        "startAt": 1761436800000,
+        "endAt": 1761437597000,
         "isAfterEvent": false
       },
       {
         "id": 1734,
         "virtualLiveId": 103,
         "seq": 16,
-        "startAt": 1792987200000,
-        "endAt": 1792987997000,
+        "startAt": 1761451200000,
+        "endAt": 1761451997000,
         "isAfterEvent": false
       },
       {
         "id": 1735,
         "virtualLiveId": 103,
         "seq": 17,
-        "startAt": 1793008800000,
-        "endAt": 1793009597000,
+        "startAt": 1761472800000,
+        "endAt": 1761473597000,
         "isAfterEvent": false
       },
       {
         "id": 1736,
         "virtualLiveId": 103,
         "seq": 18,
-        "startAt": 1793012400000,
-        "endAt": 1793013197000,
+        "startAt": 1761476400000,
+        "endAt": 1761477197000,
         "isAfterEvent": false
       },
       {
         "id": 1737,
         "virtualLiveId": 103,
         "seq": 19,
-        "startAt": 1793016000000,
-        "endAt": 1793016797000,
+        "startAt": 1761480000000,
+        "endAt": 1761480797000,
         "isAfterEvent": false
       },
       {
         "id": 1738,
         "virtualLiveId": 103,
         "seq": 20,
-        "startAt": 1793019600000,
-        "endAt": 1793020397000,
+        "startAt": 1761483600000,
+        "endAt": 1761484397000,
         "isAfterEvent": false
       },
       {
         "id": 1739,
         "virtualLiveId": 103,
         "seq": 21,
-        "startAt": 1793023200000,
-        "endAt": 1793023997000,
+        "startAt": 1761487200000,
+        "endAt": 1761487997000,
         "isAfterEvent": false
       },
       {
         "id": 1740,
         "virtualLiveId": 103,
         "seq": 22,
-        "startAt": 1793026800000,
-        "endAt": 1793027597000,
+        "startAt": 1761490800000,
+        "endAt": 1761491597000,
         "isAfterEvent": false
       }
     ],
@@ -77788,8 +77788,8 @@
         "id": 1763,
         "virtualLiveId": 106,
         "seq": 1,
-        "startAt": 1636387200000,
-        "endAt": 1636387796000,
+        "startAt": 1762617600000,
+        "endAt": 1762618196000,
         "isAfterEvent": false
       },
       {
@@ -81473,8 +81473,8 @@
     "name": "HAPPY BIRTHDAY演唱会 雫 Flower",
     "assetbundleName": "vlentrance_00110",
     "screenMvMusicVocalId": 14,
-    "startAt": 4102470000000,
-    "endAt": 4133919600000,
+    "startAt": 1764572400000,
+    "endAt": 1764831599000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -81517,88 +81517,88 @@
         "id": 1807,
         "virtualLiveId": 110,
         "seq": 1,
-        "startAt": 4133779200000,
-        "endAt": 4133779855000,
+        "startAt": 1764691200000,
+        "endAt": 1764691855000,
         "isAfterEvent": false
       },
       {
         "id": 1808,
         "virtualLiveId": 110,
         "seq": 2,
-        "startAt": 4133808000000,
-        "endAt": 4133808655000,
+        "startAt": 1764694800000,
+        "endAt": 1764695455000,
         "isAfterEvent": false
       },
       {
         "id": 1809,
         "virtualLiveId": 110,
         "seq": 3,
-        "startAt": 4133822400000,
-        "endAt": 4133823055000,
+        "startAt": 1764698400000,
+        "endAt": 1764699055000,
         "isAfterEvent": false
       },
       {
         "id": 1810,
         "virtualLiveId": 110,
         "seq": 4,
-        "startAt": 4133844000000,
-        "endAt": 4133844655000,
+        "startAt": 1764720000000,
+        "endAt": 1764720655000,
         "isAfterEvent": false
       },
       {
         "id": 1811,
         "virtualLiveId": 110,
         "seq": 5,
-        "startAt": 4133847600000,
-        "endAt": 4133848255000,
+        "startAt": 1764734400000,
+        "endAt": 1764735055000,
         "isAfterEvent": false
       },
       {
         "id": 1812,
         "virtualLiveId": 110,
         "seq": 6,
-        "startAt": 4133851200000,
-        "endAt": 4133851855000,
+        "startAt": 1764756000000,
+        "endAt": 1764756655000,
         "isAfterEvent": false
       },
       {
         "id": 1813,
         "virtualLiveId": 110,
         "seq": 7,
-        "startAt": 4133854800000,
-        "endAt": 4133855455000,
+        "startAt": 1764759600000,
+        "endAt": 1764760255000,
         "isAfterEvent": false
       },
       {
         "id": 1814,
         "virtualLiveId": 110,
         "seq": 8,
-        "startAt": 4133858400000,
-        "endAt": 4133859055000,
+        "startAt": 1764763200000,
+        "endAt": 1764763855000,
         "isAfterEvent": false
       },
       {
         "id": 1815,
         "virtualLiveId": 110,
         "seq": 9,
-        "startAt": 4133862000000,
-        "endAt": 4133862655000,
+        "startAt": 1764766800000,
+        "endAt": 1764767455000,
         "isAfterEvent": false
       },
       {
         "id": 1816,
         "virtualLiveId": 110,
         "seq": 10,
-        "startAt": 4133865600000,
-        "endAt": 4133866255000,
+        "startAt": 1764770400000,
+        "endAt": 1764771055000,
         "isAfterEvent": false
       },
       {
         "id": 1817,
         "virtualLiveId": 110,
         "seq": 11,
-        "startAt": 4133894400000,
-        "endAt": 4133895055000,
+        "startAt": 1764774000000,
+        "endAt": 1764774655000,
         "isAfterEvent": false
       }
     ],
@@ -81640,8 +81640,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 110,
-      "startAt": 4102470000000,
-      "endAt": 4133919600000
+      "startAt": 1764572400000,
+      "endAt": 1764831599000
     },
     "virtualItems": [
       {
@@ -144943,8 +144943,8 @@
     "name": "HAPPY BIRTHDAY演唱会 雫 Stamp",
     "assetbundleName": "vlentrance_00189",
     "screenMvMusicVocalId": 516,
-    "startAt": 4102470000000,
-    "endAt": 4133919600000,
+    "startAt": 1764658800000,
+    "endAt": 1764917999000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -144985,88 +144985,88 @@
         "id": 2682,
         "virtualLiveId": 189,
         "seq": 1,
-        "startAt": 4133779200000,
-        "endAt": 4133779890000,
+        "startAt": 1764777600000,
+        "endAt": 1764778290000,
         "isAfterEvent": false
       },
       {
         "id": 2683,
         "virtualLiveId": 189,
         "seq": 2,
-        "startAt": 4133808000000,
-        "endAt": 4133808690000,
+        "startAt": 1764781200000,
+        "endAt": 1764781890000,
         "isAfterEvent": false
       },
       {
         "id": 2684,
         "virtualLiveId": 189,
         "seq": 3,
-        "startAt": 4133822400000,
-        "endAt": 4133823090000,
+        "startAt": 1764784800000,
+        "endAt": 1764785490000,
         "isAfterEvent": false
       },
       {
         "id": 2685,
         "virtualLiveId": 189,
         "seq": 4,
-        "startAt": 4133844000000,
-        "endAt": 4133844690000,
+        "startAt": 1764806400000,
+        "endAt": 1764807090000,
         "isAfterEvent": false
       },
       {
         "id": 2686,
         "virtualLiveId": 189,
         "seq": 5,
-        "startAt": 4133847600000,
-        "endAt": 4133848290000,
+        "startAt": 1764820800000,
+        "endAt": 1764821490000,
         "isAfterEvent": false
       },
       {
         "id": 2687,
         "virtualLiveId": 189,
         "seq": 6,
-        "startAt": 4133851200000,
-        "endAt": 4133851890000,
+        "startAt": 1764842400000,
+        "endAt": 1764843090000,
         "isAfterEvent": false
       },
       {
         "id": 2688,
         "virtualLiveId": 189,
         "seq": 7,
-        "startAt": 4133854800000,
-        "endAt": 4133855490000,
+        "startAt": 1764846000000,
+        "endAt": 1764846690000,
         "isAfterEvent": false
       },
       {
         "id": 2689,
         "virtualLiveId": 189,
         "seq": 8,
-        "startAt": 4133858400000,
-        "endAt": 4133859090000,
+        "startAt": 1764849600000,
+        "endAt": 1764850290000,
         "isAfterEvent": false
       },
       {
         "id": 2690,
         "virtualLiveId": 189,
         "seq": 9,
-        "startAt": 4133862000000,
-        "endAt": 4133862690000,
+        "startAt": 1764853200000,
+        "endAt": 1764853890000,
         "isAfterEvent": false
       },
       {
         "id": 2691,
         "virtualLiveId": 189,
         "seq": 10,
-        "startAt": 4133865600000,
-        "endAt": 4133866290000,
+        "startAt": 1764856800000,
+        "endAt": 1764857490000,
         "isAfterEvent": false
       },
       {
         "id": 2692,
         "virtualLiveId": 189,
         "seq": 11,
-        "startAt": 4133894400000,
-        "endAt": 4133895090000,
+        "startAt": 1764860400000,
+        "endAt": 1764861090000,
         "isAfterEvent": false
       }
     ],
@@ -145104,8 +145104,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 189,
-      "startAt": 4102470000000,
-      "endAt": 4133919600000
+      "startAt": 1764658800000,
+      "endAt": 1764917999000
     },
     "virtualItems": [
       {
@@ -205706,88 +205706,88 @@
         "id": 3528,
         "virtualLiveId": 265,
         "seq": 1,
-        "startAt": 1731340800000,
-        "endAt": 1731341323000,
+        "startAt": 1762790400000,
+        "endAt": 1762790923000,
         "isAfterEvent": false
       },
       {
         "id": 3529,
         "virtualLiveId": 265,
         "seq": 2,
-        "startAt": 1731344400000,
-        "endAt": 1731344923000,
+        "startAt": 1762794000000,
+        "endAt": 1762794523000,
         "isAfterEvent": false
       },
       {
         "id": 3530,
         "virtualLiveId": 265,
         "seq": 3,
-        "startAt": 1731348000000,
-        "endAt": 1731348523000,
+        "startAt": 1762797600000,
+        "endAt": 1762798123000,
         "isAfterEvent": false
       },
       {
         "id": 3531,
         "virtualLiveId": 265,
         "seq": 4,
-        "startAt": 1731369600000,
-        "endAt": 1731370123000,
+        "startAt": 1762819200000,
+        "endAt": 1762819723000,
         "isAfterEvent": false
       },
       {
         "id": 3532,
         "virtualLiveId": 265,
         "seq": 5,
-        "startAt": 1731384000000,
-        "endAt": 1731384523000,
+        "startAt": 1762833600000,
+        "endAt": 1762834123000,
         "isAfterEvent": false
       },
       {
         "id": 3533,
         "virtualLiveId": 265,
         "seq": 6,
-        "startAt": 1731405600000,
-        "endAt": 1731406123000,
+        "startAt": 1762855200000,
+        "endAt": 1762855723000,
         "isAfterEvent": false
       },
       {
         "id": 3534,
         "virtualLiveId": 265,
         "seq": 7,
-        "startAt": 1731409200000,
-        "endAt": 1731409723000,
+        "startAt": 1762858800000,
+        "endAt": 1762859323000,
         "isAfterEvent": false
       },
       {
         "id": 3535,
         "virtualLiveId": 265,
         "seq": 8,
-        "startAt": 1731412800000,
-        "endAt": 1731413323000,
+        "startAt": 1762862400000,
+        "endAt": 1762862923000,
         "isAfterEvent": false
       },
       {
         "id": 3536,
         "virtualLiveId": 265,
         "seq": 9,
-        "startAt": 1731416400000,
-        "endAt": 1731416923000,
+        "startAt": 1762866000000,
+        "endAt": 1762866523000,
         "isAfterEvent": false
       },
       {
         "id": 3537,
         "virtualLiveId": 265,
         "seq": 10,
-        "startAt": 1731420000000,
-        "endAt": 1731420523000,
+        "startAt": 1762869600000,
+        "endAt": 1762870123000,
         "isAfterEvent": false
       },
       {
         "id": 3538,
         "virtualLiveId": 265,
         "seq": 11,
-        "startAt": 1731423600000,
-        "endAt": 1731424123000,
+        "startAt": 1762873200000,
+        "endAt": 1762873723000,
         "isAfterEvent": false
       }
     ],
@@ -208374,8 +208374,8 @@
     "name": "HAPPY BIRTHDAY演唱会 雫 Dessert",
     "assetbundleName": "vlentrance_00268",
     "screenMvMusicVocalId": 326,
-    "startAt": 4102470000000,
-    "endAt": 4133919600000,
+    "startAt": 1764745200000,
+    "endAt": 1765004399000,
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
@@ -208416,88 +208416,88 @@
         "id": 3561,
         "virtualLiveId": 268,
         "seq": 1,
-        "startAt": 4133779200000,
-        "endAt": 4133779873000,
+        "startAt": 1764864000000,
+        "endAt": 1764864673000,
         "isAfterEvent": false
       },
       {
         "id": 3562,
         "virtualLiveId": 268,
         "seq": 2,
-        "startAt": 4133808000000,
-        "endAt": 4133808673000,
+        "startAt": 1764867600000,
+        "endAt": 1764868273000,
         "isAfterEvent": false
       },
       {
         "id": 3563,
         "virtualLiveId": 268,
         "seq": 3,
-        "startAt": 4133822400000,
-        "endAt": 4133823073000,
+        "startAt": 1764871200000,
+        "endAt": 1764871873000,
         "isAfterEvent": false
       },
       {
         "id": 3564,
         "virtualLiveId": 268,
         "seq": 4,
-        "startAt": 4133844000000,
-        "endAt": 4133844673000,
+        "startAt": 1764892800000,
+        "endAt": 1764893473000,
         "isAfterEvent": false
       },
       {
         "id": 3565,
         "virtualLiveId": 268,
         "seq": 5,
-        "startAt": 4133847600000,
-        "endAt": 4133848273000,
+        "startAt": 1764907200000,
+        "endAt": 1764907873000,
         "isAfterEvent": false
       },
       {
         "id": 3566,
         "virtualLiveId": 268,
         "seq": 6,
-        "startAt": 4133851200000,
-        "endAt": 4133851873000,
+        "startAt": 1764928800000,
+        "endAt": 1764929473000,
         "isAfterEvent": false
       },
       {
         "id": 3567,
         "virtualLiveId": 268,
         "seq": 7,
-        "startAt": 4133854800000,
-        "endAt": 4133855473000,
+        "startAt": 1764932400000,
+        "endAt": 1764933073000,
         "isAfterEvent": false
       },
       {
         "id": 3568,
         "virtualLiveId": 268,
         "seq": 8,
-        "startAt": 4133858400000,
-        "endAt": 4133859073000,
+        "startAt": 1764936000000,
+        "endAt": 1764936673000,
         "isAfterEvent": false
       },
       {
         "id": 3569,
         "virtualLiveId": 268,
         "seq": 9,
-        "startAt": 4133862000000,
-        "endAt": 4133862673000,
+        "startAt": 1764939600000,
+        "endAt": 1764940273000,
         "isAfterEvent": false
       },
       {
         "id": 3570,
         "virtualLiveId": 268,
         "seq": 10,
-        "startAt": 4133858400000,
-        "endAt": 4133859073000,
+        "startAt": 1764943200000,
+        "endAt": 1764943873000,
         "isAfterEvent": false
       },
       {
         "id": 3571,
         "virtualLiveId": 268,
         "seq": 11,
-        "startAt": 4133862000000,
-        "endAt": 4133862673000,
+        "startAt": 1764946800000,
+        "endAt": 1764947473000,
         "isAfterEvent": false
       }
     ],
@@ -208535,8 +208535,8 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 268,
-      "startAt": 4102470000000,
-      "endAt": 4133919600000
+      "startAt": 1764745200000,
+      "endAt": 1765004399000
     },
     "virtualItems": [
       {
@@ -260535,7 +260535,7 @@
     "name": "荆棘之路通往何处 后日谈·演唱会",
     "assetbundleName": "vlentrance_00330",
     "screenMvMusicVocalId": 1518,
-    "startAt": 1760263200000,
+    "startAt": 1760166000000,
     "endAt": 1761029999000,
     "rankingAnnounceAt": 4102415999000,
     "archiveReleaseConditionId": 114408,
@@ -260793,7 +260793,7 @@
     ],
     "virtualLiveWaitingRoom": {
       "id": 330,
-      "startAt": 1760263200000,
+      "startAt": 1760166000000,
       "endAt": 1761029999000
     },
     "virtualItems": [
@@ -268464,35 +268464,33 @@
       {
         "id": 1859,
         "seq": 1,
-        "virtualLiveSetlistType": "mc",
+        "virtualLiveSetlistType": "mc_timeline",
         "assetbundleName": "mc_ev_wonder_19_1",
-        "virtualLiveStageId": 27,
+        "virtualLiveStageId": 17,
         "virtualLiveId": 338
       },
       {
         "id": 1860,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0424_001",
-        "virtualLiveStageId": 27,
-        "musicVocalId": 1455,
-        "character3dId1": 1551,
-        "character3dId2": 1552,
-        "character3dId3": 1553,
-        "character3dId4": 1554,
-        "character3dId5": 1555,
+        "assetbundleName": "0324_001",
+        "virtualLiveStageId": 17,
+        "musicVocalId": 802,
+        "character3dId1": 1722,
+        "character3dId2": 1720,
+        "character3dId3": 1721,
+        "character3dId4": 1723,
+        "character3dId5": 1725,
         "virtualLiveId": 338,
-        "musicId": 424
+        "musicId": 324
       },
       {
         "id": 1861,
         "seq": 3,
-        "virtualLiveSetlistType": "mc",
+        "virtualLiveSetlistType": "mc_timeline",
         "assetbundleName": "mc_ev_wonder_19_2",
-        "virtualLiveStageId": 27,
-        "musicVocalId": 1455,
-        "virtualLiveId": 338,
-        "musicId": 424
+        "virtualLiveStageId": 17,
+        "virtualLiveId": 338
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -269554,34 +269552,34 @@
         "id": 1862,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_ev_night_19_1",
+        "virtualLiveStageId": 6,
         "virtualLiveId": 339
       },
       {
         "id": 1863,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0500_001",
+        "virtualLiveStageId": 6,
+        "musicVocalId": 1532,
+        "character3dId1": 1747,
+        "character3dId2": 1745,
+        "character3dId3": 1749,
+        "character3dId4": 1746,
+        "character3dId5": 1748,
         "virtualLiveId": 339,
-        "musicId": 458
+        "musicId": 500
       },
       {
         "id": 1864,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_ev_night_19_2",
+        "virtualLiveStageId": 6,
+        "musicVocalId": 1532,
         "virtualLiveId": 339,
-        "musicId": 458
+        "musicId": 500
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -270635,37 +270633,37 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1865,
+        "id": 1868,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_bd_2024shizuku_1",
+        "virtualLiveStageId": 5,
         "virtualLiveId": 340
       },
       {
-        "id": 1866,
+        "id": 1869,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0287_001",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 716,
+        "character3dId1": 1718,
+        "character3dId2": 1715,
+        "character3dId3": 1716,
+        "character3dId4": 1717,
+        "character3dId5": 1719,
         "virtualLiveId": 340,
-        "musicId": 458
+        "musicId": 287
       },
       {
-        "id": 1867,
+        "id": 1870,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_bd_2024shizuku_2",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 716,
         "virtualLiveId": 340,
-        "musicId": 458
+        "musicId": 287
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -271452,37 +271450,37 @@
     "archiveReleaseConditionId": 115008,
     "virtualLiveSetlists": [
       {
-        "id": 1868,
+        "id": 1871,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_ev_idol_19_1",
+        "virtualLiveStageId": 5,
         "virtualLiveId": 341
       },
       {
-        "id": 1869,
+        "id": 1872,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0498_001",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 1534,
+        "character3dId1": 1764,
+        "character3dId2": 1761,
+        "character3dId3": 1762,
+        "character3dId4": 1763,
+        "character3dId5": 1765,
         "virtualLiveId": 341,
-        "musicId": 458
+        "musicId": 498
       },
       {
-        "id": 1870,
+        "id": 1873,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_ev_idol_19_2",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 1534,
         "virtualLiveId": 341,
-        "musicId": 458
+        "musicId": 498
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -272541,37 +272539,62 @@
     "archiveReleaseConditionId": 115108,
     "virtualLiveSetlists": [
       {
-        "id": 1871,
+        "id": 1877,
         "seq": 1,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0180_001",
+        "virtualLiveStageId": 10,
+        "musicVocalId": 462,
+        "character3dId1": 1769,
+        "character3dId2": 1766,
+        "character3dId3": 1767,
+        "character3dId4": 1768,
+        "character3dId5": 1770,
+        "virtualLiveId": 342,
+        "musicId": 180
+      },
+      {
+        "id": 1878,
+        "seq": 2,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_ev_shuffle_51_1",
+        "virtualLiveStageId": 10,
+        "musicVocalId": 462,
+        "virtualLiveId": 342,
+        "musicId": 180
+      },
+      {
+        "id": 1879,
+        "seq": 3,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_ev_shuffle_51_2",
+        "virtualLiveStageId": 8,
         "virtualLiveId": 342
       },
       {
-        "id": 1872,
-        "seq": 2,
+        "id": 1880,
+        "seq": 4,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0160_001",
+        "virtualLiveStageId": 8,
+        "musicVocalId": 394,
+        "character3dId1": 1774,
+        "character3dId2": 1771,
+        "character3dId3": 1772,
+        "character3dId4": 1773,
+        "character3dId5": 1775,
         "virtualLiveId": 342,
-        "musicId": 458
+        "musicId": 160
       },
       {
-        "id": 1873,
-        "seq": 3,
+        "id": 1881,
+        "seq": 5,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_ev_shuffle_51_3",
+        "virtualLiveStageId": 8,
+        "musicVocalId": 394,
         "virtualLiveId": 342,
-        "musicId": 458
+        "musicId": 160
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -273645,37 +273668,71 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1874,
+        "id": 1882,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_2024christmas_1",
+        "virtualLiveStageId": 15,
         "virtualLiveId": 343
       },
       {
-        "id": 1875,
+        "id": 1883,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0252_001",
+        "virtualLiveStageId": 15,
+        "musicVocalId": 625,
+        "character3dId1": 1735,
+        "character3dId2": 1738,
+        "character3dId3": 1737,
+        "character3dId4": 1736,
+        "character3dId5": 1739,
         "virtualLiveId": 343,
-        "musicId": 458
+        "musicId": 252
       },
       {
-        "id": 1876,
+        "id": 1884,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_2024christmas_2",
+        "virtualLiveStageId": 15,
+        "musicVocalId": 625,
         "virtualLiveId": 343,
-        "musicId": 458
+        "musicId": 252
+      },
+      {
+        "id": 1885,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2024christmas_3",
+        "virtualLiveStageId": 1,
+        "virtualLiveId": 343
+      },
+      {
+        "id": 1886,
+        "seq": 5,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0368_001",
+        "virtualLiveStageId": 20,
+        "musicVocalId": 900,
+        "character3dId1": 1743,
+        "character3dId2": 1741,
+        "character3dId3": 1742,
+        "character3dId4": 1744,
+        "character3dId5": 772,
+        "character3dId6": 1740,
+        "virtualLiveId": 343,
+        "musicId": 368
+      },
+      {
+        "id": 1887,
+        "seq": 6,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2024christmas_4",
+        "virtualLiveStageId": 20,
+        "musicVocalId": 900,
+        "virtualLiveId": 343,
+        "musicId": 368
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -274474,37 +274531,66 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1877,
+        "id": 1888,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
+        "assetbundleName": "mc_bd_2024rin_1",
         "virtualLiveStageId": 2,
         "virtualLiveId": 344
       },
       {
-        "id": 1878,
+        "id": 1889,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
+        "assetbundleName": "0383_001",
         "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "musicVocalId": 1411,
+        "character3dId1": 1756,
+        "character3dId2": 1759,
+        "character3dId3": 1758,
+        "character3dId4": 1757,
+        "character3dId5": 1760,
         "virtualLiveId": 344,
-        "musicId": 458
+        "musicId": 383
       },
       {
-        "id": 1879,
+        "id": 1890,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
+        "assetbundleName": "mc_bd_2024rin_2",
         "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "virtualLiveId": 344
+      },
+      {
+        "id": 1891,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_bd_2024rin_3",
+        "virtualLiveStageId": 1,
+        "virtualLiveId": 344
+      },
+      {
+        "id": 1892,
+        "seq": 5,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0121_001",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 308,
+        "character3dId1": 1727,
+        "character3dId2": 1728,
+        "character3dId3": 1726,
         "virtualLiveId": 344,
-        "musicId": 458
+        "musicId": 121
+      },
+      {
+        "id": 1893,
+        "seq": 6,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_bd_2024rin_4",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 308,
+        "virtualLiveId": 344,
+        "musicId": 121
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -275296,37 +275382,67 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1880,
+        "id": 1894,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_bd_2024len_1",
+        "virtualLiveStageId": 4,
+        "musicVocalId": 1432,
+        "virtualLiveId": 345,
+        "musicId": 450
+      },
+      {
+        "id": 1895,
+        "seq": 2,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0450_001",
+        "virtualLiveStageId": 4,
+        "musicVocalId": 1432,
+        "character3dId1": 1750,
+        "character3dId2": 529,
+        "character3dId3": 1753,
+        "character3dId4": 1751,
+        "character3dId5": 1752,
+        "virtualLiveId": 345,
+        "musicId": 450
+      },
+      {
+        "id": 1896,
+        "seq": 3,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_bd_2024len_2",
+        "virtualLiveStageId": 4,
+        "musicVocalId": 1432,
+        "virtualLiveId": 345,
+        "musicId": 450
+      },
+      {
+        "id": 1897,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_bd_2024len_3",
+        "virtualLiveStageId": 1,
         "virtualLiveId": 345
       },
       {
-        "id": 1881,
-        "seq": 2,
+        "id": 1898,
+        "seq": 5,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0021_furajiru",
+        "virtualLiveStageId": 3,
+        "musicVocalId": 110,
+        "character3dId1": 1754,
+        "character3dId2": 1755,
         "virtualLiveId": 345,
-        "musicId": 458
+        "musicId": 69
       },
       {
-        "id": 1882,
-        "seq": 3,
+        "id": 1899,
+        "seq": 6,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "virtualLiveId": 345,
-        "musicId": 458
+        "assetbundleName": "mc_bd_2024len_4",
+        "virtualLiveStageId": 3,
+        "virtualLiveId": 345
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -276318,37 +276434,83 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1883,
+        "id": 1900,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
+        "assetbundleName": "mc_countdown_2024_1",
+        "virtualLiveStageId": 1,
+        "virtualLiveId": 346
+      },
+      {
+        "id": 1901,
+        "seq": 2,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "1005_meikohapisin",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 87,
+        "character3dId1": 1804,
+        "character3dId2": 1806,
+        "character3dId3": 1805,
+        "character3dId4": 1807,
+        "virtualLiveId": 346,
+        "musicId": 10
+      },
+      {
+        "id": 1902,
+        "seq": 3,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_countdown_2024_2",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 87,
+        "virtualLiveId": 346,
+        "musicId": 10
+      },
+      {
+        "id": 1903,
+        "seq": 4,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0002_roki",
+        "virtualLiveStageId": 2,
+        "musicVocalId": 465,
+        "character3dId1": 1810,
+        "character3dId2": 1809,
+        "character3dId3": 1812,
+        "character3dId4": 1811,
+        "character3dId5": 1813,
+        "virtualLiveId": 346,
+        "musicId": 2
+      },
+      {
+        "id": 1904,
+        "seq": 5,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_countdown_2024_3",
         "virtualLiveStageId": 2,
         "virtualLiveId": 346
       },
       {
-        "id": 1884,
-        "seq": 2,
+        "id": 1905,
+        "seq": 6,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0489_002",
+        "virtualLiveStageId": 28,
+        "musicVocalId": 1506,
+        "character3dId1": 1784,
+        "character3dId2": 1785,
+        "character3dId3": 1786,
+        "character3dId4": 1783,
+        "character3dId5": 1782,
+        "character3dId6": 1632,
         "virtualLiveId": 346,
-        "musicId": 458
+        "musicId": 489
       },
       {
-        "id": 1885,
-        "seq": 3,
+        "id": 1906,
+        "seq": 7,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "virtualLiveId": 346,
-        "musicId": 458
+        "assetbundleName": "mc_countdown_2024_4",
+        "virtualLiveStageId": 28,
+        "virtualLiveId": 346
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -277585,37 +277747,141 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1886,
+        "id": 1907,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_2025newyear_1",
+        "virtualLiveStageId": 10,
         "virtualLiveId": 347
       },
       {
-        "id": 1887,
+        "id": 1908,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0182_001",
+        "virtualLiveStageId": 10,
+        "musicVocalId": 533,
+        "character3dId1": 1644,
+        "character3dId2": 1647,
+        "character3dId3": 1645,
+        "character3dId4": 1646,
+        "character3dId5": 1778,
         "virtualLiveId": 347,
-        "musicId": 458
+        "musicId": 182
       },
       {
-        "id": 1888,
+        "id": 1909,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_2025newyear_2",
+        "virtualLiveStageId": 10,
+        "musicVocalId": 533,
         "virtualLiveId": 347,
-        "musicId": 458
+        "musicId": 182
+      },
+      {
+        "id": 1910,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2025newyear_3",
+        "virtualLiveStageId": 7,
+        "virtualLiveId": 347
+      },
+      {
+        "id": 1911,
+        "seq": 5,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0196_001",
+        "virtualLiveStageId": 7,
+        "musicVocalId": 457,
+        "character3dId1": 1633,
+        "character3dId2": 1634,
+        "character3dId3": 1677,
+        "character3dId4": 1678,
+        "character3dId5": 1638,
+        "virtualLiveId": 347,
+        "musicId": 196
+      },
+      {
+        "id": 1912,
+        "seq": 6,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2025newyear_4",
+        "virtualLiveStageId": 21,
+        "virtualLiveId": 347
+      },
+      {
+        "id": 1913,
+        "seq": 7,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0474_001",
+        "virtualLiveStageId": 21,
+        "musicVocalId": 1460,
+        "character3dId1": 1641,
+        "character3dId2": 1640,
+        "character3dId3": 1639,
+        "character3dId4": 1642,
+        "character3dId5": 1776,
+        "virtualLiveId": 347,
+        "musicId": 474
+      },
+      {
+        "id": 1914,
+        "seq": 8,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0300_001",
+        "virtualLiveStageId": 19,
+        "musicVocalId": 757,
+        "character3dId1": 1655,
+        "character3dId2": 1657,
+        "character3dId3": 1656,
+        "character3dId4": 1781,
+        "character3dId5": 1658,
+        "virtualLiveId": 347,
+        "musicId": 300
+      },
+      {
+        "id": 1915,
+        "seq": 9,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2025newyear_5",
+        "virtualLiveStageId": 19,
+        "musicVocalId": 757,
+        "virtualLiveId": 347,
+        "musicId": 300
+      },
+      {
+        "id": 1916,
+        "seq": 10,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2025newyear_6",
+        "virtualLiveStageId": 8,
+        "virtualLiveId": 347
+      },
+      {
+        "id": 1917,
+        "seq": 11,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0397_001",
+        "virtualLiveStageId": 8,
+        "musicVocalId": 1360,
+        "character3dId1": 1649,
+        "character3dId2": 1652,
+        "character3dId3": 1651,
+        "character3dId4": 1650,
+        "character3dId5": 1654,
+        "virtualLiveId": 347,
+        "musicId": 397
+      },
+      {
+        "id": 1918,
+        "seq": 12,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_2025newyear_7",
+        "virtualLiveStageId": 8,
+        "musicVocalId": 1360,
+        "virtualLiveId": 347,
+        "musicId": 397
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -278508,37 +278774,52 @@
     "archiveReleaseConditionId": 115208,
     "virtualLiveSetlists": [
       {
-        "id": 1889,
+        "id": 1919,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_ev_shuffle_52_1",
+        "virtualLiveStageId": 5,
         "virtualLiveId": 348
       },
       {
-        "id": 1890,
+        "id": 1920,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0377_001",
+        "virtualLiveStageId": 5,
+        "musicVocalId": 1413,
+        "character3dId1": 1791,
+        "character3dId2": 1788,
+        "character3dId3": 1787,
+        "character3dId4": 1790,
+        "character3dId5": 1789,
         "virtualLiveId": 348,
-        "musicId": 458
+        "musicId": 377
       },
       {
-        "id": 1891,
+        "id": 1921,
         "seq": 3,
-        "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0253_001",
+        "virtualLiveStageId": 3,
+        "musicVocalId": 627,
+        "character3dId1": 1796,
+        "character3dId2": 1793,
+        "character3dId3": 1792,
+        "character3dId4": 1794,
+        "character3dId5": 1795,
         "virtualLiveId": 348,
-        "musicId": 458
+        "musicId": 253
+      },
+      {
+        "id": 1922,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_ev_shuffle_52_2",
+        "virtualLiveStageId": 3,
+        "musicVocalId": 627,
+        "virtualLiveId": 348,
+        "musicId": 253
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -279612,37 +279893,37 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1892,
+        "id": 1923,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
+        "assetbundleName": "mc_bd_2025shiho_1",
         "virtualLiveStageId": 2,
         "virtualLiveId": 349
       },
       {
-        "id": 1893,
+        "id": 1924,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0424_001",
+        "virtualLiveStageId": 27,
+        "musicVocalId": 1455,
+        "character3dId1": 1799,
+        "character3dId2": 1800,
+        "character3dId3": 1801,
+        "character3dId4": 1802,
+        "character3dId5": 1803,
         "virtualLiveId": 349,
-        "musicId": 458
+        "musicId": 424
       },
       {
-        "id": 1894,
+        "id": 1925,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_bd_2025shiho_2",
+        "virtualLiveStageId": 27,
+        "musicVocalId": 1455,
         "virtualLiveId": 349,
-        "musicId": 458
+        "musicId": 424
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -280423,37 +280704,37 @@
     "archiveReleaseConditionId": 115308,
     "virtualLiveSetlists": [
       {
-        "id": 1895,
+        "id": 1926,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_ev_street_20_1",
+        "virtualLiveStageId": 18,
         "virtualLiveId": 350
       },
       {
-        "id": 1896,
+        "id": 1927,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0508_001",
+        "virtualLiveStageId": 18,
+        "musicVocalId": 1549,
+        "character3dId1": 1822,
+        "character3dId2": 1819,
+        "character3dId3": 1821,
+        "character3dId4": 1823,
+        "character3dId5": 1820,
         "virtualLiveId": 350,
-        "musicId": 458
+        "musicId": 508
       },
       {
-        "id": 1897,
+        "id": 1928,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "assetbundleName": "mc_ev_street_20_2",
+        "virtualLiveStageId": 18,
+        "musicVocalId": 1549,
         "virtualLiveId": 350,
-        "musicId": 458
+        "musicId": 508
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -281508,37 +281789,52 @@
     "archiveReleaseConditionId": 115408,
     "virtualLiveSetlists": [
       {
-        "id": 1898,
+        "id": 1932,
         "seq": 1,
-        "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
-        "virtualLiveId": 351
-      },
-      {
-        "id": 1899,
-        "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
+        "assetbundleName": "0130_001",
         "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "musicVocalId": 330,
+        "character3dId1": 1824,
+        "character3dId2": 1825,
+        "character3dId3": 1826,
+        "character3dId4": 1827,
+        "character3dId5": 1828,
         "virtualLiveId": 351,
-        "musicId": 458
+        "musicId": 130
       },
       {
-        "id": 1900,
-        "seq": 3,
+        "id": 1933,
+        "seq": 2,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
+        "assetbundleName": "mc_ev_shuffle_53_1",
         "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
+        "musicVocalId": 330,
         "virtualLiveId": 351,
-        "musicId": 458
+        "musicId": 130
+      },
+      {
+        "id": 1934,
+        "seq": 3,
+        "virtualLiveSetlistType": "music",
+        "assetbundleName": "0384_001",
+        "virtualLiveStageId": 23,
+        "musicVocalId": 1389,
+        "character3dId1": 1833,
+        "character3dId2": 1832,
+        "character3dId3": 1829,
+        "character3dId4": 1830,
+        "character3dId5": 1831,
+        "virtualLiveId": 351,
+        "musicId": 384
+      },
+      {
+        "id": 1935,
+        "seq": 4,
+        "virtualLiveSetlistType": "mc_timeline",
+        "assetbundleName": "mc_ev_shuffle_53_2",
+        "virtualLiveStageId": 23,
+        "virtualLiveId": 351
       }
     ],
     "virtualLiveBeginnerSchedules": [],
@@ -282616,37 +282912,35 @@
     "rankingAnnounceAt": 4102415999000,
     "virtualLiveSetlists": [
       {
-        "id": 1901,
+        "id": 1936,
         "seq": 1,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_1",
-        "virtualLiveStageId": 2,
+        "assetbundleName": "mc_bd_2025mafuyu_1",
+        "virtualLiveStageId": 9,
         "virtualLiveId": 352
       },
       {
-        "id": 1902,
+        "id": 1937,
         "seq": 2,
         "virtualLiveSetlistType": "music",
-        "assetbundleName": "0458_001",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "character3dId1": 1700,
-        "character3dId2": 1701,
-        "character3dId3": 1702,
-        "character3dId4": 1703,
-        "character3dId5": 1704,
+        "assetbundleName": "0476_001",
+        "virtualLiveStageId": 23,
+        "musicVocalId": 1462,
+        "character3dId1": 1818,
+        "character3dId2": 1815,
+        "character3dId3": 1814,
+        "character3dId4": 1817,
+        "character3dId5": 1816,
         "virtualLiveId": 352,
-        "musicId": 458
+        "musicId": 476
       },
       {
-        "id": 1903,
+        "id": 1938,
         "seq": 3,
         "virtualLiveSetlistType": "mc_timeline",
-        "assetbundleName": "mc_ev_band_19_2",
-        "virtualLiveStageId": 2,
-        "musicVocalId": 1445,
-        "virtualLiveId": 352,
-        "musicId": 458
+        "assetbundleName": "mc_bd_2025mafuyu_2",
+        "virtualLiveStageId": 23,
+        "virtualLiveId": 352
       }
     ],
     "virtualLiveBeginnerSchedules": [],
