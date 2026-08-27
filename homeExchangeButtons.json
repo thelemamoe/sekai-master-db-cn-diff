@@ -7,8 +7,26 @@
   },
   {
     "id": 2,
-    "startAt": 1774843200000,
+    "startAt": 1774584000000,
     "endAt": 1776830399000,
     "assetbundleName": "btn_home_change_4-5th"
+  },
+  {
+    "id": 3,
+    "startAt": 1786766400000,
+    "endAt": 1788796799000,
+    "assetbundleName": "btn_home_change_egg_collab"
+  },
+  {
+    "id": 4,
+    "startAt": 1790697600000,
+    "endAt": 1796011199000,
+    "assetbundleName": "btn_home_change_5th"
+  },
+  {
+    "id": 4003,
+    "startAt": 1783137600000,
+    "endAt": 1785513599000,
+    "assetbundleName": "btn_home_change_hezou"
   }
 ]

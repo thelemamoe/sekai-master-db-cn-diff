@@ -306,6 +306,13 @@
     "spineAssetbundleName": "sd_08shizuku_cloth001"
   },
   {
+    "id": 41,
+    "costume2dGroupId": 2,
+    "character2dId": 10,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
+  },
+  {
     "id": 44,
     "costume2dGroupId": 2,
     "character2dId": 13,
@@ -1482,7 +1489,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_22rin",
-    "spineAssetbundleName": "sd_22rin_akuno"
+    "spineAssetbundleName": "v2_sd_22rin_akuno"
   },
   {
     "id": 213,
@@ -1491,7 +1498,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_23len",
-    "spineAssetbundleName": "sd_23len_akuno"
+    "spineAssetbundleName": "v2_sd_23len_akuno"
   },
   {
     "id": 214,
@@ -1500,7 +1507,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_24luka01",
-    "spineAssetbundleName": "sd_24luka_akuno"
+    "spineAssetbundleName": "v2_sd_24luka_akuno"
   },
   {
     "id": 215,
@@ -1517,7 +1524,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_25meiko",
-    "spineAssetbundleName": "sd_25meiko_akuno"
+    "spineAssetbundleName": "v2_sd_25meiko_akuno"
   },
   {
     "id": 217,
@@ -1526,7 +1533,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_26kaito",
-    "spineAssetbundleName": "sd_26kaito_akuno"
+    "spineAssetbundleName": "v2_sd_26kaito_akuno"
   },
   {
     "id": 218,
@@ -1535,7 +1542,7 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "clb01_21miku",
-    "spineAssetbundleName": "sd_21miku_akuno"
+    "spineAssetbundleName": "v2_sd_21miku_akuno"
   },
   {
     "id": 219,
@@ -1735,6 +1742,42 @@
     "fromMmddhh": "010100",
     "toMmddhh": "123123",
     "live2dAssetbundleName": "sub_futaba"
+  },
+  {
+    "id": 281,
+    "costume2dGroupId": 4,
+    "character2dId": 4,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "04shiho_yumeyume",
+    "spineAssetbundleName": "sd_04shiho_aprilfool2022"
+  },
+  {
+    "id": 282,
+    "costume2dGroupId": 4,
+    "character2dId": 10,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "10an_yumeyume",
+    "spineAssetbundleName": "sd_10an_aprilfool2022"
+  },
+  {
+    "id": 283,
+    "costume2dGroupId": 4,
+    "character2dId": 244,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "17kanade_yumeyume",
+    "spineAssetbundleName": "sd_17kanade_aprilfool2022"
+  },
+  {
+    "id": 310,
+    "costume2dGroupId": 2,
+    "character2dId": 9,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "09kohane_longnormal",
+    "spineAssetbundleName": "sd_09kohane_normal"
   },
   {
     "id": 313,
@@ -3891,6 +3934,78 @@
     "spineAssetbundleName": "v2_sd_26kaito_band"
   },
   {
+    "id": 569,
+    "costume2dGroupId": 1,
+    "character2dId": 401,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "v2_sub_child_airi"
+  },
+  {
+    "id": 570,
+    "costume2dGroupId": 1,
+    "character2dId": 402,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "sub_rivalsisters_elena"
+  },
+  {
+    "id": 571,
+    "costume2dGroupId": 1,
+    "character2dId": 403,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "sub_rivalsisters_rebecca"
+  },
+  {
+    "id": 572,
+    "costume2dGroupId": 1,
+    "character2dId": 404,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "v2_sub_child_ena"
+  },
+  {
+    "id": 573,
+    "costume2dGroupId": 1,
+    "character2dId": 405,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "sub_rival_douglas"
+  },
+  {
+    "id": 574,
+    "costume2dGroupId": 1,
+    "character2dId": 406,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "v2_sub_child_minori"
+  },
+  {
+    "id": 575,
+    "costume2dGroupId": 1,
+    "character2dId": 407,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "v2_sub_child_akito"
+  },
+  {
+    "id": 576,
+    "costume2dGroupId": 1,
+    "character2dId": 408,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "sub_hikarin"
+  },
+  {
+    "id": 577,
+    "costume2dGroupId": 1,
+    "character2dId": 409,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123",
+    "live2dAssetbundleName": "sub_arisa02"
+  },
+  {
     "id": 900,
     "costume2dGroupId": 3,
     "character2dId": 900,
@@ -4141,5 +4256,40 @@
     "toMmddhh": "123123",
     "live2dAssetbundleName": "v2_20mizuki_april2025",
     "spineAssetbundleName": "v2_sd_20mizuki_casual"
+  },
+  {
+    "id": 930,
+    "costume2dGroupId": 3,
+    "character2dId": 1073,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
+  },
+  {
+    "id": 931,
+    "costume2dGroupId": 3,
+    "character2dId": 1074,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
+  },
+  {
+    "id": 932,
+    "costume2dGroupId": 3,
+    "character2dId": 1075,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
+  },
+  {
+    "id": 933,
+    "costume2dGroupId": 3,
+    "character2dId": 1076,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
+  },
+  {
+    "id": 934,
+    "costume2dGroupId": 3,
+    "character2dId": 1077,
+    "fromMmddhh": "010100",
+    "toMmddhh": "123123"
   }
 ]

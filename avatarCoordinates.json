@@ -146,7 +146,7 @@
   {
     "id": 17,
     "seq": 170,
-    "name": "金牛玩偶装",
+    "name": "[生肖]金牛玩偶装",
     "assetbundleName": "fullset_0017",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0017",
@@ -416,7 +416,7 @@
   {
     "id": 48,
     "seq": 480,
-    "name": "老虎玩偶装",
+    "name": "[生肖]老虎玩偶装",
     "assetbundleName": "fullset_0048",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0048",
@@ -506,7 +506,7 @@
   {
     "id": 58,
     "seq": 580,
-    "name": "兔子玩偶装",
+    "name": "[生肖]兔子玩偶装",
     "assetbundleName": "fullset_0058",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0058",
@@ -821,7 +821,7 @@
   {
     "id": 94,
     "seq": 940,
-    "name": "变身为凯蒂猫的服装 （暂定）",
+    "name": "变身为凯蒂猫的服装",
     "assetbundleName": "fullset_0094",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0094",
@@ -839,7 +839,7 @@
   {
     "id": 96,
     "seq": 980,
-    "name": "龙玩偶装",
+    "name": "[生肖]龙玩偶装",
     "assetbundleName": "fullset_0096",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0096",
@@ -902,7 +902,7 @@
   {
     "id": 103,
     "seq": 1240,
-    "name": "蛇玩偶装",
+    "name": "[生肖]蛇玩偶装",
     "assetbundleName": "fullset_0103",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0103",
@@ -918,13 +918,103 @@
     "accessoryAssetbundleName": "fullset_0104"
   },
   {
+    "id": 105,
+    "seq": 1260,
+    "name": "变身为博丽灵梦的服装",
+    "assetbundleName": "fullset_0105",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0105",
+    "accessoryAssetbundleName": "fullset_0105"
+  },
+  {
+    "id": 106,
+    "seq": 1270,
+    "name": "变身为雾雨魔理沙的服装",
+    "assetbundleName": "fullset_0106",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0106",
+    "accessoryAssetbundleName": "fullset_0106"
+  },
+  {
+    "id": 107,
+    "seq": 1280,
+    "name": "变身为琪露诺的服装",
+    "assetbundleName": "fullset_0107",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0107",
+    "accessoryAssetbundleName": "fullset_0107"
+  },
+  {
+    "id": 108,
+    "seq": 1290,
+    "name": "变身为十六夜咲夜的服装",
+    "assetbundleName": "fullset_0108",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0108",
+    "accessoryAssetbundleName": "fullset_0108"
+  },
+  {
+    "id": 109,
+    "seq": 1300,
+    "name": "变身为八意永琳的服装",
+    "assetbundleName": "fullset_0109",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0109",
+    "accessoryAssetbundleName": "fullset_0109"
+  },
+  {
+    "id": 110,
+    "seq": 1310,
+    "name": "变身为芙兰朵露·斯卡雷特的服装",
+    "assetbundleName": "fullset_0110",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0110",
+    "accessoryAssetbundleName": "fullset_0110"
+  },
+  {
+    "id": 111,
+    "seq": 1330,
+    "name": "大嘴吉的裝扮",
+    "assetbundleName": "fullset_0111",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0111",
+    "accessoryAssetbundleName": "fullset_0111"
+  },
+  {
+    "id": 112,
+    "seq": 1340,
+    "name": "豆丁吉的裝扮",
+    "assetbundleName": "fullset_0112",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0112",
+    "accessoryAssetbundleName": "fullset_0112"
+  },
+  {
     "id": 113,
     "seq": 1320,
-    "name": "变身为摩尔加纳的服装",
+    "name": "摩尔加纳的裝扮",
     "assetbundleName": "fullset_0113",
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_0113",
     "accessoryAssetbundleName": "fullset_0113"
+  },
+  {
+    "id": 116,
+    "seq": 1370,
+    "name": "变身为Deemo的服装",
+    "assetbundleName": "fullset_0116",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0116",
+    "accessoryAssetbundleName": "fullset_0116"
+  },
+  {
+    "id": 117,
+    "seq": 1380,
+    "name": "变身为Vanessa的服装",
+    "assetbundleName": "fullset_0117",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_0117",
+    "accessoryAssetbundleName": "fullset_0117"
   },
   {
     "id": 1001,
@@ -970,5 +1060,68 @@
     "skinColorCode": "#ffffff",
     "costumeAssetbundleName": "fullset_1008",
     "accessoryAssetbundleName": "fullset_1008"
+  },
+  {
+    "id": 1009,
+    "seq": 1080,
+    "name": "橘猫玩偶装",
+    "assetbundleName": "fullset_1009",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1009",
+    "accessoryAssetbundleName": "fullset_1009"
+  },
+  {
+    "id": 1010,
+    "seq": 1070,
+    "name": "[全套套装]夏日吉他手套装",
+    "assetbundleName": "fullset_1010",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1010",
+    "accessoryAssetbundleName": "fullset_1010"
+  },
+  {
+    "id": 1011,
+    "seq": 1060,
+    "name": "[全套套装]夏日作曲家套装",
+    "assetbundleName": "fullset_1011",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1011",
+    "accessoryAssetbundleName": "fullset_1011"
+  },
+  {
+    "id": 1012,
+    "seq": 1050,
+    "name": "[全套套装]夏日DJ套装",
+    "assetbundleName": "fullset_1012",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1012",
+    "accessoryAssetbundleName": "fullset_1012"
+  },
+  {
+    "id": 1013,
+    "seq": 1040,
+    "name": "[全套套装]夏日歌手套装",
+    "assetbundleName": "fullset_1013",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1013",
+    "accessoryAssetbundleName": "fullset_1013"
+  },
+  {
+    "id": 1014,
+    "seq": 1030,
+    "name": "[全套套装]夏日小号手套装",
+    "assetbundleName": "fullset_1014",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1014",
+    "accessoryAssetbundleName": "fullset_1014"
+  },
+  {
+    "id": 1015,
+    "seq": 1020,
+    "name": "[全套套装]海豹芙芙",
+    "assetbundleName": "fullset_1015",
+    "skinColorCode": "#ffffff",
+    "costumeAssetbundleName": "fullset_1015",
+    "accessoryAssetbundleName": "fullset_1015"
   }
 ]

@@ -470,7 +470,7 @@
   {
     "id": 81,
     "seq": 850,
-    "name": "Hello Kitty发箍",
+    "name": "凯蒂猫发箍",
     "assetbundleName": "accessory_0081"
   },
   {
@@ -494,7 +494,7 @@
   {
     "id": 85,
     "seq": 810,
-    "name": "大耳狗喜拿发箍",
+    "name": "大耳狗发箍",
     "assetbundleName": "accessory_0085"
   },
   {
@@ -512,7 +512,7 @@
   {
     "id": 88,
     "seq": 870,
-    "name": "年菜重箱",
+    "name": "日式年菜食盒",
     "assetbundleName": "accessory_0088"
   },
   {
@@ -636,9 +636,27 @@
     "assetbundleName": "accessory_0108"
   },
   {
+    "id": 109,
+    "seq": 1090,
+    "name": "“Dreamscape”演唱会鸭舌帽",
+    "assetbundleName": "accessory_0109"
+  },
+  {
+    "id": 113,
+    "seq": 1130,
+    "name": "向阳之花",
+    "assetbundleName": "accessory_0113"
+  },
+  {
     "id": 1001,
     "seq": 350,
     "name": "年糕",
     "assetbundleName": "accessory_1001"
+  },
+  {
+    "id": 1002,
+    "seq": 10020,
+    "name": "初音未来纪念日蛋糕头套",
+    "assetbundleName": "accessory_1002"
   }
 ]

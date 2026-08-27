@@ -149,6 +149,21 @@
     "releaseConditionId": 1
   },
   {
+    "id": 14,
+    "assetbundleName": "area14",
+    "groupId": 130,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "collaboration",
+    "name": "恶之大罪系列「世界」",
+    "label": "联动中！",
+    "startAt": 1777608000000,
+    "endAt": 1778860799000,
+    "releaseConditionId": 1
+  },
+  {
     "id": 15,
     "assetbundleName": "area15",
     "groupId": 140,
@@ -188,7 +203,8 @@
     "name": "教室「世界」",
     "subName": "车站",
     "startAt": 1753704000000,
-    "releaseConditionId": 113605
+    "releaseConditionId": 113605,
+    "releaseConditionId2": 113900
   },
   {
     "id": 18,
@@ -202,7 +218,8 @@
     "name": "舞台「世界」",
     "subName": "花田",
     "startAt": 1748347200000,
-    "releaseConditionId": 112905
+    "releaseConditionId": 112905,
+    "releaseConditionId2": 113900
   },
   {
     "id": 19,
@@ -216,7 +233,8 @@
     "name": "街头「世界」",
     "subName": "广场",
     "startAt": 1750420800000,
-    "releaseConditionId": 111705
+    "releaseConditionId": 111705,
+    "releaseConditionId2": 113900
   },
   {
     "id": 20,
@@ -230,7 +248,8 @@
     "name": "奇幻乐园「世界」",
     "subName": "港口",
     "startAt": 1745668800000,
-    "releaseConditionId": 112305
+    "releaseConditionId": 112305,
+    "releaseConditionId2": 113900
   },
   {
     "id": 21,
@@ -244,7 +263,8 @@
     "name": "无人「世界」",
     "subName": "湖",
     "startAt": 1758369600000,
-    "releaseConditionId": 111105
+    "releaseConditionId": 111105,
+    "releaseConditionId2": 113900
   },
   {
     "id": 22,
@@ -255,7 +275,7 @@
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
     "additionalAreaType": "collaboration",
-    "name": "彩虹乐园的「世界」",
+    "name": "彩虹乐园「世界」",
     "startAt": 1770436800000,
     "endAt": 1771603199000,
     "releaseConditionId": 1
@@ -269,7 +289,7 @@
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
     "additionalAreaType": "april_fool",
-    "name": "神奇时空的「世界」？",
+    "name": "神奇时空「世界」？",
     "subName": "过去？",
     "startAt": 1743436800000,
     "endAt": 1743523199000,
@@ -284,7 +304,7 @@
     "viewType": "side_view",
     "displayTimelineType": "next_grade",
     "additionalAreaType": "april_fool",
-    "name": "神奇时空的「世界」？",
+    "name": "神奇时空「世界」？",
     "subName": "将来？",
     "startAt": 1743436800000,
     "endAt": 1743523199000,
@@ -301,7 +321,7 @@
     "additionalAreaType": "out_of_ring",
     "name": "窗扉打开的「世界」",
     "startAt": 1761321600000,
-    "endAt": 4102415999000,
+    "endAt": 1789869600000,
     "releaseConditionId": 2000000
   },
   {
@@ -317,5 +337,19 @@
     "startAt": 1766127600000,
     "endAt": 1766930399000,
     "releaseConditionId": 1
+  },
+  {
+    "id": 27,
+    "assetbundleName": "area27",
+    "groupId": 300,
+    "isBaseArea": true,
+    "areaType": "spirit_world",
+    "viewType": "side_view",
+    "displayTimelineType": "next_grade",
+    "additionalAreaType": "center_of_ring",
+    "name": "？？？「世界」",
+    "startAt": 1790596800000,
+    "releaseConditionId": 117902,
+    "releaseConditionId2": 117903
   }
 ]

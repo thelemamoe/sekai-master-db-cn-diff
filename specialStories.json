@@ -194,8 +194,8 @@
   {
     "id": 9,
     "assetbundleName": "collaboration-akuno-story",
-    "startAt": 1667199600000,
-    "endAt": 1669013999000,
+    "startAt": 1777608000000,
+    "endAt": 1778860799000,
     "episodes": [
       {
         "id": 14,
@@ -217,7 +217,7 @@
     "id": 10,
     "assetbundleName": "aprilfool-story-2022",
     "startAt": 1680278400000,
-    "endAt": 1680364799000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 15,
@@ -238,7 +238,7 @@
     "id": 11,
     "assetbundleName": "aprilfool-story-2022",
     "startAt": 1680364800000,
-    "endAt": 1680451199000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 16,
@@ -385,7 +385,7 @@
     "id": 22,
     "assetbundleName": "aprilfool-story-2024",
     "startAt": 1711900800000,
-    "endAt": 1711987199000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 27,
@@ -406,7 +406,7 @@
     "id": 23,
     "assetbundleName": "aprilfool-story-2024",
     "startAt": 1711987200000,
-    "endAt": 1712073599000,
+    "endAt": 4078742399000,
     "episodes": [
       {
         "id": 28,
@@ -602,7 +602,7 @@
         "id": 41,
         "specialStoryId": 36,
         "episodeNo": 1,
-        "title": "[初音未来：缤纷舞台×三丽鸥角色]联动纪念登录剧情序章",
+        "title": "[初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情序章",
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_collaboration_sanrio",
         "scenarioId": "collaboration_sanrio_op_01",
@@ -623,7 +623,7 @@
         "id": 42,
         "specialStoryId": 37,
         "episodeNo": 1,
-        "title": "[初音未来：缤纷舞台×三丽鸥角色]联动纪念登录剧情终章",
+        "title": "[初音未来：缤纷舞台×三丽鸥家族]联动纪念登录剧情终章",
         "specialStoryEpisodeType": "none",
         "assetbundleName": "story_collaboration_sanrio",
         "scenarioId": "collaboration_sanrio_ed_01",
@@ -891,7 +891,7 @@
     "id": 52,
     "assetbundleName": "wl-2nd-event-pre-story",
     "startAt": 1774843200000,
-    "endAt": 1776686399000,
+    "endAt": 1776772799000,
     "episodes": [
       {
         "id": 57,
@@ -947,6 +947,92 @@
         "isAbleSkip": true,
         "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1786766400000,
+    "endAt": 1788105599000,
+    "episodes": [
+      {
+        "id": 61,
+        "specialStoryId": 56,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 序章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_op_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "assetbundleName": "collaboration-tamagotchi-story",
+    "startAt": 1788105600000,
+    "endAt": 1788191999000,
+    "episodes": [
+      {
+        "id": 62,
+        "specialStoryId": 57,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×拓麻歌子]联动纪念登录剧情 终章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_tamagotchi",
+        "scenarioId": "collaboration_tamagotchi_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "assetbundleName": "5th-anniversary-login-story",
+    "startAt": 1790697600000,
+    "endAt": 1791734399000,
+    "episodes": [
+      {
+        "id": 63,
+        "specialStoryId": 58,
+        "episodeNo": 1,
+        "title": "1.5周年登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_5th_anniversary",
+        "scenarioId": "story_5th_anniversary",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "assetbundleName": "5th-anniversary-special_login-message",
+    "startAt": 1791734400000,
+    "endAt": 1793462399000,
+    "episodes": [
+      {
+        "id": 64,
+        "specialStoryId": 59,
+        "episodeNo": 1,
+        "title": "1.5周年特别寄语前导登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_5th_anniversary_special_message",
+        "scenarioId": "story_5th_anniversary_special_message",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": [
+          134
+        ]
       }
     ]
   }

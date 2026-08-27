@@ -30,6 +30,12 @@
     "bgmName": "bgm_area_nightcode_untitled"
   },
   {
+    "id": 6,
+    "areaId": 14,
+    "assetbundleName": "collaboration_akuno",
+    "bgmName": "bgm_area_akunocollabo"
+  },
+  {
     "id": 7,
     "areaId": 17,
     "assetbundleName": "leoneed_untitled_2",
@@ -88,5 +94,11 @@
     "areaId": 26,
     "assetbundleName": "bgm_area_e_collabo",
     "bgmName": "bgm_area_e_collabo"
+  },
+  {
+    "id": 17,
+    "areaId": 27,
+    "assetbundleName": "bgm_area_wishtree",
+    "bgmName": "bgm_area_wishtree"
   }
 ]
